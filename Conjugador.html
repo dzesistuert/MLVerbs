@@ -1,0 +1,1359 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>Conjugador de Kichwa (Quichua) y Media Lengua</title>
+<! -- 'defer' informs the browser to wait until the page loads to run the JavaScript -->
+
+</head>
+<body>
+<h2>Conjugador de Kichwa/ Quichua (Imbabura) & Media Lengua</h2>
+
+<b>Elejir el idioma:</b>
+<br>
+Kichwa (Quichua): <input type="radio" name="lang" id="QRadio" onclick="disRadio1()">&nbsp;&nbsp;&nbsp; Media Lengua: <input type="radio" name="lang" id="MLRadio" onclick="disRadio()">
+<p>
+<b>Ortografía:</b>
+<br>
+Quichua Comunitario: <input type="radio" name="Qtype" id="QCRadio" >&nbsp;&nbsp;&nbsp; Kichwa Unificado: <input type="radio" name="Qtype" id="QURadio">
+<br>(Imbabura)
+<p>
+
+<input type="text" id="inputText" value="Verbo">
+<! -- textbox-->
+<button onclick="subButton()">Conjugar</button>
+<! -- button-->
+<br>
+El verbo tiene que terminar en '-na' o '-y'.
+
+
+<script>
+fetch("https://github.com/dzesistuert/MLVerbs/blob/master/Conjugador.json")
+	.then(function(resp){ return resp.json();})
+	.then(function(data) {console.log(data);});
+
+//document.getElementById("YRMOM").innerHTML = dict;
+</script>
+<!<span style="display:inline-block; font-weight: bold;" id="YRMOM"><!</span>
+
+
+
+<script>
+function subButton() {
+if (document.getElementById('QURadio').checked) {
+	verbRootQU();
+}else if (document.getElementById('QCRadio').checked) {
+	verbRootQC();
+}else if (document.getElementById('MLRadio').checked) {
+	verbRoot();
+}else {
+	alert("Elegir el idioma o la ortografía.")
+}
+}
+</script>
+
+<script>
+function disRadio() {
+  document.getElementById("QCRadio").checked = false;
+  document.getElementById("QURadio").checked = false;
+  document.getElementById("QCRadio").disabled = true;
+  document.getElementById("QURadio").disabled = true;
+}
+</script>
+
+<script>
+function disRadio1() {
+  document.getElementById("QCRadio").disabled = false;
+  document.getElementById("QURadio").disabled = false;
+}
+</script>
+
+<p>
+<span style="display:inline-block; font-weight: bold;" id="TITLE.ROOT"></span><span style="display:inline-block;" id="raiz"></span><br>
+<span style="display:inline-block; font-weight: bold;" id="TITLE.IPA"></span><span style="display:inline-block;" id="TITLE.O.BRACKET"></span><span style="display:inline-block;" id="IPA"></span><span style="display:inline-block;" id="TITLE.C.BRACKET">
+
+<p>
+<table>
+<tr>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.GER"></span><span style="display:inline-block;" id="GER"></span></td>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.IMP.INF"></span><span style="display:inline-block;" id="IMP.INF"></span></td>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.CON.SS"></span><span style="display:inline-block;" id="CON.SS"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.PART"></span><span style="display:inline-block;" id="PART"></span></td>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.IMP.FORM"></span><span style="display:inline-block;" id="IMP.FORM"></span></td>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.CON.DS"></span><span style="display:inline-block;" id="CON.DS"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.AGN"></span><span style="display:inline-block;" id="AGN"></span></td>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.IMP.RESP"></span><span style="display:inline-block;" id="IMP.RESP"></span></td>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.TERM.SS"></span><span style="display:inline-block;" id="TERM.SS"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block; color:Blue;" id="TITLE.NOM"></span><span style="display:inline-block;" id="NOM"></span></td>
+</tr>
+</table>
+
+<!table 1>
+<p>
+<table>
+<tr>
+<td><span style="display:inline-block; font-weight: bold;" id="PRO"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.PRES"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.PST"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.FUT1"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.FUT2"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.CONT"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.REFL"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.1"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.1.PRES"></span></td>
+<td><span style="display:inline-block;" id="verb.1.PST"></span></td>
+<td><span style="display:inline-block;" id="verb.1.FUT1"></span></td>
+<td><span style="display:inline-block;" id="verb.1.FUT2"></span></td>
+<td><span style="display:inline-block;" id="verb.1.CONT"></span></td>
+<td><span style="display:inline-block;" id="verb.1.REFL"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.2"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.2.PRES"></span></td>
+<td><span style="display:inline-block;" id="verb.2.PST"></span></td>
+<td><span style="display:inline-block;" id="verb.2.FUT1"></span></td>
+<td><span style="display:inline-block;" id="verb.2.FUT2"></span></td>
+<td><span style="display:inline-block;" id="verb.2.CONT"></span></td>
+<td><span style="display:inline-block;" id="verb.2.REFL"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.3.PRES"></span></td>
+<td><span style="display:inline-block;" id="verb.3.PST"></span></td>
+<td><span style="display:inline-block;" id="verb.3.FUT1"></span></td>
+<td><span style="display:inline-block;" id="verb.3.FUT2"></span></td>
+<td><span style="display:inline-block;" id="verb.3.CONT"></span></td>
+<td><span style="display:inline-block;" id="verb.3.REFL"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.1p"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.1p.PRES"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.PST"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.FUT1"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.FUT2"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.CONT"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.REFL"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.2p"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.2p.PRES"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.PST"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.FUT1"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.FUT2"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.CONT"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.REFL"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.3p"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.3p.PRES"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.PST"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.FUT1"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.FUT2"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.CONT"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.REFL"></span></td>
+</tr>
+</table>
+
+<!table 2>
+<p>
+<table>
+<tr>
+<td><span style="display:inline-block; font-weight: bold;" id="PRO.2"></span></td>
+<td><span class="label" style="color:Green;"><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.GAN"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.CAU"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.VAL"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.RECI"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.TQV"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.QV"></span></td>
+
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.1.2"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.1.GAN"></span></td>
+<td><span style="display:inline-block;" id="verb.1.CAU"></span></td>
+<td><span style="display:inline-block;" id="verb.1.VAL"></span></td>
+<td><span style="display:inline-block;" id="verb.1.REP"></span></td>
+<td><span style="display:inline-block;" id="verb.1.TQV"></span></td>
+<td><span style="display:inline-block;" id="verb.1.QV"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.2.2"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.2.GAN"></span></td>
+<td><span style="display:inline-block;" id="verb.2.CAU"></span></td>
+<td><span style="display:inline-block;" id="verb.2.VAL"></span></td>
+<td><span style="display:inline-block;" id="verb.2.REP"></span></td>
+<td><span style="display:inline-block;" id="verb.2.TQV"></span></td>
+<td><span style="display:inline-block;" id="verb.2.QV"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.3.2"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.3.GAN"></span></td>
+<td><span style="display:inline-block;" id="verb.3.CAU"></span></td>
+<td><span style="display:inline-block;" id="verb.3.VAL"></span></td>
+<td><span style="display:inline-block;" id="verb.3.REP"></span></td>
+<td><span style="display:inline-block;" id="verb.3.TQV"></span></td>
+<td><span style="display:inline-block;" id="verb.3.QV"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.1p.2"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.1p.GAN"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.CAU"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.VAL"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.REP"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.TQV"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.QV"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.2p.2"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.2p.GAN"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.CAU"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.VAL"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.REP"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.TQV"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.QV"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.3p.2"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.3p.GAN"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.CAU"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.VAL"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.REP"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.TQV"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.QV"></span></td>
+</tr>
+</table>
+
+<!table 3>
+<p>
+<table>
+<tr>
+<td><span style="display:inline-block; font-weight: bold;" id="PRO.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.DUB"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.PODV"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.PP"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.PPST"></span></td>
+<td><span style="display:inline-block; font-weight: bold; color:Green;" id="TITLE.REPORT"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.1.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.1.DUB"></span></td>
+<td><span style="display:inline-block;" id="verb.1.PODV"></span></td>
+<td><span style="display:inline-block;" id="verb.1.PP"></span></td>
+<td><span style="display:inline-block;" id="verb.1.PPST"></span></td>
+<td><span style="display:inline-block;" id="verb.1.REPORT"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.2.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.2.DUB"></span></td>
+<td><span style="display:inline-block;" id="verb.2.PODV"></span></td>
+<td><span style="display:inline-block;" id="verb.2.PP"></span></td>
+<td><span style="display:inline-block;" id="verb.2.PPST"></span></td>
+<td><span style="display:inline-block;" id="verb.2.REPORT"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.3.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.3.DUB"></span></td>
+<td><span style="display:inline-block;" id="verb.3.PODV"></span></td>
+<td><span style="display:inline-block;" id="verb.3.PP"></span></td>
+<td><span style="display:inline-block;" id="verb.3.PPST"></span></td>
+<td><span style="display:inline-block;" id="verb.3.REPORT"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.1p.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.1p.DUB"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.PODV"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.PP"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.PPST"></span></td>
+<td><span style="display:inline-block;" id="verb.1p.REPORT"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.2p.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.2p.DUB"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.PODV"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.PP"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.PPST"></span></td>
+<td><span style="display:inline-block;" id="verb.2p.REPORT"></span></td>
+</tr>
+<tr>
+<td><span style="display:inline-block;" id="ML.3p.3"></span></td>
+<td><b>&nbsp;&nbsp;&nbsp;</b></td>
+<td><span style="display:inline-block;" id="verb.3p.DUB"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.PODV"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.PP"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.PPST"></span></td>
+<td><span style="display:inline-block;" id="verb.3p.REPORT"></span></td>
+</tr>
+</table>
+
+<script>
+function verbRoot() {
+  var x = document.getElementById("inputText").value;
+if (x.slice(-2)=="na") {  
+	var a = x.substring(0, x.length - 2)
+} else if (x.slice(-1)=="y") {
+	var a = x.substring(0, x.length - 1)
+} else {
+	alert("El verbo tiene que terminar en '-na' o '-y'.")
+	var a = "--" //causes an internal error, but the error clears the input, and that's what I want, so there.
+	("span").empty();
+}
+//Root
+	document.getElementById("TITLE.ROOT").innerHTML = "Raíz:&nbsp;";
+	document.getElementById("raiz").innerHTML = a + "-";
+
+//IPA
+	document.getElementById("TITLE.IPA").innerHTML = "Pronunciación:&nbsp;";
+	document.getElementById("TITLE.C.BRACKET").innerHTML = "]";
+	document.getElementById("TITLE.O.BRACKET").innerHTML = "[";
+
+//Main box labels
+	document.getElementById("TITLE.GER").innerHTML = "Gerundio:&nbsp;";
+	document.getElementById("TITLE.PART").innerHTML = "Participio:&nbsp;";
+	document.getElementById("TITLE.AGN").innerHTML = "Agente:&nbsp;";
+	document.getElementById("TITLE.NOM").innerHTML = "Nominativo:&nbsp;";
+	document.getElementById("TITLE.IMP.INF").innerHTML = "Imparativo Informal:&nbsp;";
+	document.getElementById("TITLE.IMP.FORM").innerHTML = "Imparativo Formal:&nbsp;";
+	document.getElementById("TITLE.IMP.RESP").innerHTML = "Imparativo Respetuoso:&nbsp;";
+	document.getElementById("TITLE.CON.SS").innerHTML = "Converbo de un Sujeto Diferente:&nbsp;";
+	document.getElementById("TITLE.CON.DS").innerHTML = "Terminativo del Mismo Sujeto:&nbsp;";
+	document.getElementById("TITLE.TERM.SS").innerHTML = "Converbo del Mismo Sujeto:&nbsp;";
+
+//Main box
+	document.getElementById("GER").innerHTML = a + "shpa";
+	document.getElementById("PART").innerHTML = a + "shca";
+	document.getElementById("AGN").innerHTML = a + "c";
+	document.getElementById("NOM").innerHTML = a + "y";
+	document.getElementById("IMP.INF").innerHTML = a + "y";
+	document.getElementById("IMP.FORM").innerHTML = a + "pay";
+	document.getElementById("IMP.RESP").innerHTML = a + "npangui";
+	document.getElementById("TERM.SS").innerHTML = a + "ngapa";  
+	document.getElementById("CON.SS").innerHTML = a + "chun";
+	document.getElementById("CON.DS").innerHTML = a + "cpi";
+
+//Pronouns
+	document.getElementById("ML.1").innerHTML = "Yo";
+	document.getElementById("ML.2").innerHTML = "Vos/Oste";
+	document.getElementById("ML.3").innerHTML = "El/Ella";
+	document.getElementById("ML.1p").innerHTML = "Nuestru/Nosotros";
+	document.getElementById("ML.2p").innerHTML = "Voscuna";
+	document.getElementById("ML.3p").innerHTML = "Elcuna/Ellacuna";
+	document.getElementById("PRO").innerHTML = "Pronombres";
+
+	document.getElementById("ML.1.2").innerHTML = "Yo";
+	document.getElementById("ML.2.2").innerHTML = "Vos/Oste";
+	document.getElementById("ML.3.2").innerHTML = "El/Ella";
+	document.getElementById("ML.1p.2").innerHTML = "Nuestru/Nosotros";
+	document.getElementById("ML.2p.2").innerHTML = "Voscuna";
+	document.getElementById("ML.3p.2").innerHTML = "Elcuna/Ellacuna";
+	document.getElementById("PRO.2").innerHTML = "Pronombres";
+
+	document.getElementById("ML.1.3").innerHTML = "Yo";
+	document.getElementById("ML.2.3").innerHTML = "Vos/Oste";
+	document.getElementById("ML.3.3").innerHTML = "El/Ella";
+	document.getElementById("ML.1p.3").innerHTML = "Nuestru/Nosotros";
+	document.getElementById("ML.2p.3").innerHTML = "Voscuna";
+	document.getElementById("ML.3p.3").innerHTML = "Elcuna/Ellacuna";
+	document.getElementById("PRO.3").innerHTML = "Pronombres";
+
+//Titles
+	document.getElementById("TITLE.PRES").innerHTML = "Presente";
+	document.getElementById("TITLE.PST").innerHTML = "Pasado";
+	document.getElementById("TITLE.FUT1").innerHTML = "Futuro I";
+	document.getElementById("TITLE.FUT2").innerHTML = "Futuro II";
+	document.getElementById("TITLE.CONT").innerHTML = "Continuo";
+	document.getElementById("TITLE.REFL").innerHTML = "Reflexivo";
+	document.getElementById("TITLE.GAN").innerHTML = "Ganas de";
+	document.getElementById("TITLE.CAU").innerHTML = "Causativo";
+	document.getElementById("TITLE.VAL").innerHTML = "Validativo";
+	document.getElementById("TITLE.RECI").innerHTML = "Reciprocidad";
+	document.getElementById("TITLE.TQV").innerHTML = "Tener que + V";
+	document.getElementById("TITLE.QV").innerHTML = "Querer + V";
+	document.getElementById("TITLE.DUB").innerHTML = "Dubativo";
+	document.getElementById("TITLE.PODV").innerHTML = "Poder + V";
+	document.getElementById("TITLE.PP").innerHTML = "Participio Presente";
+	document.getElementById("TITLE.PPST").innerHTML = "Participio Pasado";
+	document.getElementById("TITLE.REPORT").innerHTML = "Reportativo";
+
+//table 1
+        document.getElementById("verb.1.PRES").innerHTML = a + "ni";
+        document.getElementById("verb.2.PRES").innerHTML = a + "ngui";
+        document.getElementById("verb.3.PRES").innerHTML = a + "n";
+        document.getElementById("verb.1p.PRES").innerHTML = a + "nchi";
+        document.getElementById("verb.2p.PRES").innerHTML = a + "nguichi";
+        document.getElementById("verb.3p.PRES").innerHTML = a + "n";
+	
+ 	document.getElementById("verb.1.PST").innerHTML = a + "rca" + "ni";
+        document.getElementById("verb.2.PST").innerHTML = a + "rca" + "ngui";
+        document.getElementById("verb.3.PST").innerHTML = a + "rca";
+        document.getElementById("verb.1p.PST").innerHTML = a + "rca" + "nchi";
+        document.getElementById("verb.2p.PST").innerHTML = a + "rca" + "nguichi";
+        document.getElementById("verb.3p.PST").innerHTML = a + "rca";
+
+ 	document.getElementById("verb.1.FUT1").innerHTML = a + "gri" + "ni";
+        document.getElementById("verb.2.FUT1").innerHTML = a + "gri" + "ngui";
+        document.getElementById("verb.3.FUT1").innerHTML = a + "gri" + "n";
+        document.getElementById("verb.1p.FUT1").innerHTML = a + "gri" + "nchi";
+        document.getElementById("verb.2p.FUT1").innerHTML = a + "gri" + "nguichi";
+        document.getElementById("verb.3p.FUT1").innerHTML = a + "gri" + "n";
+
+ 	document.getElementById("verb.1.FUT2").innerHTML = a + "sha";
+        document.getElementById("verb.2.FUT2").innerHTML = "--";
+        document.getElementById("verb.3.FUT2").innerHTML = "--";
+        document.getElementById("verb.1p.FUT2").innerHTML = a + "shun";
+        document.getElementById("verb.2p.FUT2").innerHTML = "--";
+        document.getElementById("verb.3p.FUT2").innerHTML = "--";
+
+ 	document.getElementById("verb.1.CONT").innerHTML = a + "ju" + "ni";
+        document.getElementById("verb.2.CONT").innerHTML = a + "ju" + "ngui";
+        document.getElementById("verb.3.CONT").innerHTML = a + "ju" + "n";
+        document.getElementById("verb.1p.CONT").innerHTML = a + "ju" + "nchi";
+        document.getElementById("verb.2p.CONT").innerHTML = a + "ju" + "nguichi";
+        document.getElementById("verb.3p.CONT").innerHTML = a + "ju" + "n";
+
+ 	document.getElementById("verb.1.REFL").innerHTML = a + "hua" + "ni";
+        document.getElementById("verb.2.REFL").innerHTML = a + "ri" + "ngui";
+        document.getElementById("verb.3.REFL").innerHTML = a + "ri" + "n";
+        document.getElementById("verb.1p.REFL").innerHTML = a + "ri" + "nchi";
+        document.getElementById("verb.2p.REFL").innerHTML = a + "ri" + "nguichi";
+        document.getElementById("verb.3p.REFL").innerHTML = a + "ri" + "n";
+
+//Second Table
+        document.getElementById("verb.1.GAN").innerHTML = a + "naya" + "ni";
+        document.getElementById("verb.2.GAN").innerHTML = a + "naya" + "ngui";
+        document.getElementById("verb.3.GAN").innerHTML = a + "naya" + "n";
+        document.getElementById("verb.1p.GAN").innerHTML = a + "naya" + "nchi";
+        document.getElementById("verb.2p.GAN").innerHTML = a + "naya" + "nguichi";
+        document.getElementById("verb.3p.GAN").innerHTML = a + "naya" + "n";
+	
+ 	document.getElementById("verb.1.REP").innerHTML = "--";
+        document.getElementById("verb.2.REP").innerHTML = "--";
+        document.getElementById("verb.3.REP").innerHTML = "--";
+        document.getElementById("verb.1p.REP").innerHTML = a + "naju" + "nchi";
+        document.getElementById("verb.2p.REP").innerHTML = a + "naju" + "nguichi";
+        document.getElementById("verb.3p.REP").innerHTML = a + "naju" + "n";
+
+ 	document.getElementById("verb.1.CAU").innerHTML = a + "chi" + "ni";
+        document.getElementById("verb.2.CAU").innerHTML = a + "chi" + "ngui";
+        document.getElementById("verb.3.CAU").innerHTML = a + "chi" + "n";
+        document.getElementById("verb.1p.CAU").innerHTML = a + "chi" + "nchi";
+        document.getElementById("verb.2p.CAU").innerHTML = a + "chi" + "nguichi";
+        document.getElementById("verb.3p.CAU").innerHTML = a + "chi" + "n";
+
+ 	document.getElementById("verb.1.VAL").innerHTML = a + "ni" + "mi";
+        document.getElementById("verb.2.VAL").innerHTML = a + "ngui" + "mi";
+        document.getElementById("verb.3.VAL").innerHTML = a + "n" + "mi";
+        document.getElementById("verb.1p.VAL").innerHTML = a + "nchi" + "mi";
+        document.getElementById("verb.2p.VAL").innerHTML = a + "nguichi" + "mi";
+        document.getElementById("verb.3p.VAL").innerHTML = a + "n" + "mi";
+
+ 	document.getElementById("verb.1.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "ni";
+        document.getElementById("verb.2.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "ngui";
+        document.getElementById("verb.3.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "n";
+        document.getElementById("verb.1p.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "nchi";
+        document.getElementById("verb.2p.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "nguichi";
+        document.getElementById("verb.3p.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "n";
+
+ 	document.getElementById("verb.1.QV").innerHTML = a + "na" + "&nbsp;" + "quere" + "ni";
+        document.getElementById("verb.2.QV").innerHTML = a + "na" + "&nbsp;" + "quere" + "ngui";
+        document.getElementById("verb.3.QV").innerHTML = a + "na" + "&nbsp;" + "quere" + "n";
+        document.getElementById("verb.1p.QV").innerHTML = a + "na" + "&nbsp;" + "quere" + "nchi";
+        document.getElementById("verb.2p.QV").innerHTML = a + "na" + "&nbsp;" + "quere" + "nguichi";
+        document.getElementById("verb.3p.QV").innerHTML = a + "na" + "&nbsp;" + "quere" + "n";
+
+//Third table
+        document.getElementById("verb.1.DUB").innerHTML = a + "ni" + "yari";
+        document.getElementById("verb.2.DUB").innerHTML = a + "ngui" + "yari";
+        document.getElementById("verb.3.DUB").innerHTML = a + "n" + "yari";
+        document.getElementById("verb.1p.DUB").innerHTML = a + "nchi" + "yari";
+        document.getElementById("verb.2p.DUB").innerHTML = a + "nguichi" + "yari";
+        document.getElementById("verb.3p.DUB").innerHTML = a + "n" + "yari";
+
+ 	document.getElementById("verb.1.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "ni";
+        document.getElementById("verb.2.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "ngui";
+        document.getElementById("verb.3.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "n";
+        document.getElementById("verb.1p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "nchi";
+        document.getElementById("verb.2p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "nguichi";
+        document.getElementById("verb.3p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "n";
+
+ 	document.getElementById("verb.1.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "ni";
+        document.getElementById("verb.2.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "ngui";
+        document.getElementById("verb.3.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "n";
+        document.getElementById("verb.1p.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "nchi";
+        document.getElementById("verb.2p.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "nguichi";
+        document.getElementById("verb.3p.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "n";
+
+ 	document.getElementById("verb.1.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "ni";
+        document.getElementById("verb.2.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "ngui";
+        document.getElementById("verb.3.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca";
+        document.getElementById("verb.1p.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "nchi";
+        document.getElementById("verb.2p.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "nguichi";
+        document.getElementById("verb.3p.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca";
+
+	document.getElementById("verb.1.REPORT").innerHTML = a + "ni" + "&nbsp;" + "tse" + "n";
+        document.getElementById("verb.2.REPORT").innerHTML = a + "ngui" + "&nbsp;" + "tse" + "n";
+        document.getElementById("verb.3.REPORT").innerHTML = a + "n" + "&nbsp;" + "tse" + "n";
+        document.getElementById("verb.1p.REPORT").innerHTML = a + "nchi" + "&nbsp;" + "tse" + "n";
+        document.getElementById("verb.2p.REPORT").innerHTML = a + "nguichi" + "&nbsp;" + "tse" + "n";
+        document.getElementById("verb.3p.REPORT").innerHTML = a + "n" + "&nbsp;" + "tse" + "n";
+
+	var b = a
+	var b = b.toLowerCase();
+	var b = b.replace (/ñ/gi, "ɲ");
+	var b = b.replace (/manda/gi, "manta");
+	var b = b.replace (/(jesse)/gi, "ʒesi");
+	var b = b.replace (/ngue/gi, "ngi");
+//	var b = b.replace (/nk/gi, "ng"); //Quichua only
+//	var b = b.replace (/nt/gi, "nd"); //Quichua only
+//	var b = b.replace (/np/gi, "nb"); //Quichua only
+	var b = b.replace (/hua/gi, "wa");
+	var b = b.replace (/ng/gi, "ŋg");
+	var b = b.replace (/nk/gi, "ŋk");
+	var b = b.replace (/ch/gi, "ʧ");
+	var b = b.replace (/sh/gi, "ʃ");
+	var b = b.replace (/ll/gi, "ʒ");
+	var b = b.replace (/(rr|^r)/gi, "@");
+	var b = b.replace (/( r)/gi, " @");
+	var b = b.replace (/r/gi, "ɾ");
+	var b = b.replace (/ɾt/gi, "ɾʃt");
+	var b = b.replace (/(ɾ )/gi, "ɾʃ ");
+	var b = b.replace (/(ɾ$)/gi, "ɾʃ");
+	var b = b.replace (/ @/gi, " ʐ");
+	var b = b.replace (/@/gi, "ʐ");
+	var b = b.replace (/cona/gi, "kuna");
+	var b = b.replace (/ce/gi, "se");
+	var b = b.replace (/ci/gi, "si");
+	var b = b.replace (/ca/gi, "ka");
+	var b = b.replace (/co/gi, "ko");
+	var b = b.replace (/cc/gi, "ks");
+	var b = b.replace (/cu/gi, "ku");
+	var b = b.replace (/cpi/gi, "kpi");
+	var b = b.replace (/c$/gi, "k");
+	var b = b.replace (/cʒ/gi, "kʒ");
+	var b = b.replace (/cl/gi, "kl");
+	var b = b.replace (/ct/gi, "kt");
+	var b = b.replace (/cʧ/gi, "kʧ");
+	var b = b.replace (/cʧ/gi, "kʧ");
+	var b = b.replace (/cs/gi, "ks");
+	var b = b.replace (/cr/gi, "kɾ");
+	var b = b.replace (/cɾ/gi, "kɾ");
+	var b = b.replace (/qu/gi, "k");
+	var b = b.replace (/x/gi, "ks");
+	var b = b.replace (/hu/gi, "xu");
+	var b = b.replace (/gui/gi, "gi");
+	var b = b.replace (/j/gi, "x");
+	var b = b.replace (/-y-/gi, " i ");
+	var b = b.replace (/ y /gi, " i ");
+	var b = b.replace (/y /gi, "i ");
+	var b = b.replace (/y$/gi, "i");
+	var b = b.replace (/my/gi, "mi");
+	var b = b.replace (/me /gi, "mi ");
+	var b = b.replace (/chon /gi, "ʧun ");
+	var b = b.replace (/spaca/gi, "ʃpaka");
+	var b = b.replace (/spa$/gi, "ʃpa");
+	var b = b.replace (/spa /gi, "ʃpa ");
+	var b = b.replace (/spata/gi, "ʃpata");
+	var b = b.replace (/spami/gi, "ʃpami");
+	var b = b.replace (/spame/gi, "ʃpami");
+	var b = b.replace (/ny/gi, "ni");
+	var b = b.replace (/mary/gi, "maɾi");
+	var b = b.replace (/chy/gi, "ʧi");
+	var b = b.replace (/py/gi, "pi");
+	var b = b.replace (/y/gi, "j");
+	var b = b.replace (/nguy/gi, "ngi");
+	var b = b.replace (/gry/gi, "gɾi");
+	var b = b.replace (/shy/gi, "ʃi");
+	var b = b.replace (/chary/gi, "ʧaɾi");
+	var b = b.replace (/siky/gi, "siki");
+	var b = b.replace (/niky/gi, "niki");
+	var b = b.replace (/kuty/gi, "kuti");
+	var b = b.replace (/^v/gi, "b");
+	var b = b.replace (/ v/gi, " b");
+	var b = b.replace (/v/gi, "β");
+	var b = b.replace (/^z/gi, "s");
+	var b = b.replace (/ z/gi, " s");
+	var b = b.replace (/ts/gi, "z");
+	var b = b.replace (/tz/gi, "z");
+	var b = b.replace (/aj/gi, "ai");
+	var b = b.replace (/aw/gi, "au");
+	var b = b.replace (/aia/gi, "aja");
+	var b = b.replace (/ajai/gi, "aiai");
+	var b = b.replace (/aua/gi, "awa");
+	var b = b.replace (/auo/gi, "awo");
+	var b = b.replace (/aue/gi, "awe");
+	var b = b.replace (/aiu/gi, "aju");
+	var b = b.replace (/aui/gi, "awi");
+	var b = b.replace (/aie/gi, "aje");
+	var b = b.replace (/gua/gi, "wa");
+	var b = b.replace (/gue/gi, "ge");
+	var b = b.replace (/í/gi, "i");
+	var b = b.replace (/é/gi, "e");
+	var b = b.replace (/á/gi, "a");
+	var b = b.replace (/ó/gi, "o");
+	var b = b.replace (/ú/gi, "u");
+//	var b = b.replace (/o/gi, "u"); //Quichua only
+//	var b = b.replace (/e/gi, "i"); //Quichua only
+	var b = b.replace (/g/gi, "ɡ");
+	var b = b.replace (/(\\(|\\)|-|_|h|\\.|,|¿|!|\\?|¡|            |\n)/gi, "");
+
+if (x.length-a.length==2) {  
+	var d = "na"
+} else if (x.length-a.length==1) {
+	var d = "i"
+} else {
+	var d = "-"
+}
+	document.getElementById("IPA").innerHTML = b + d;
+}
+</script>
+
+<script>
+function verbRootQC() {
+  var x = document.getElementById("inputText").value;
+if (x.slice(-2)=="na") {  
+	var a = x.substring(0, x.length - 2)
+} else if (x.slice(-1)=="y") {
+	var a = x.substring(0, x.length - 1)
+} else {
+	alert("El verbo tiene que terminar en '-na' o '-y'.")
+	var a = "--"
+	("span").empty();
+}
+//Root
+	document.getElementById("TITLE.ROOT").innerHTML = "Raíz:&nbsp;";
+	document.getElementById("raiz").innerHTML = a + "-";
+
+//IPA
+	document.getElementById("TITLE.IPA").innerHTML = "Pronunciación:&nbsp;";
+	document.getElementById("TITLE.C.BRACKET").innerHTML = "]";
+	document.getElementById("TITLE.O.BRACKET").innerHTML = "[";
+
+//Main box labels
+	document.getElementById("TITLE.GER").innerHTML = "Gerundio:&nbsp;";
+	document.getElementById("TITLE.PART").innerHTML = "Participio:&nbsp;";
+	document.getElementById("TITLE.AGN").innerHTML = "Agente:&nbsp;";
+	document.getElementById("TITLE.NOM").innerHTML = "Nominativo:&nbsp;";
+	document.getElementById("TITLE.IMP.INF").innerHTML = "Imparativo Informal:&nbsp;";
+	document.getElementById("TITLE.IMP.FORM").innerHTML = "Imparativo Formal:&nbsp;";
+	document.getElementById("TITLE.IMP.RESP").innerHTML = "Imparativo Respetuoso:&nbsp;";
+	document.getElementById("TITLE.CON.SS").innerHTML = "Converbo de un Sujeto Diferente:&nbsp;";
+	document.getElementById("TITLE.CON.DS").innerHTML = "Terminativo del Mismo Sujeto:&nbsp;";
+	document.getElementById("TITLE.TERM.SS").innerHTML = "Converbo del Mismo Sujeto:&nbsp;";
+
+//Main box
+	document.getElementById("GER").innerHTML = a + "shpa";
+	document.getElementById("PART").innerHTML = a + "shca";
+	document.getElementById("AGN").innerHTML = a + "c";
+	document.getElementById("NOM").innerHTML = a + "y";
+	document.getElementById("IMP.INF").innerHTML = a + "y";
+	document.getElementById("IMP.FORM").innerHTML = a + "pay";
+	document.getElementById("IMP.RESP").innerHTML = a + "npangui";
+	document.getElementById("TERM.SS").innerHTML = a + "ngapa";  
+	document.getElementById("CON.SS").innerHTML = a + "chun";
+	document.getElementById("CON.DS").innerHTML = a + "cpi";
+
+//Pronouns
+	document.getElementById("ML.1").innerHTML = "Ñuca";
+	document.getElementById("ML.2").innerHTML = "Can/Quiquin";
+	document.getElementById("ML.3").innerHTML = "Pai";
+	document.getElementById("ML.1p").innerHTML = "Ñucanchi";
+	document.getElementById("ML.2p").innerHTML = "Cancuna/Quiquincuna";
+	document.getElementById("ML.3p").innerHTML = "Paicuna";
+	document.getElementById("PRO").innerHTML = "Pronombres";
+
+	document.getElementById("ML.1.2").innerHTML = "Ñuca";
+	document.getElementById("ML.2.2").innerHTML = "Can/Quiquin";
+	document.getElementById("ML.3.2").innerHTML = "Pai";
+	document.getElementById("ML.1p.2").innerHTML = "Ñucanchi";
+	document.getElementById("ML.2p.2").innerHTML = "Cancuna/Quiquincuna";
+	document.getElementById("ML.3p.2").innerHTML = "Paicuna";
+	document.getElementById("PRO.2").innerHTML = "Pronombres";
+
+	document.getElementById("ML.1.3").innerHTML = "Ñuca";
+	document.getElementById("ML.2.3").innerHTML = "Can/Quiquin";
+	document.getElementById("ML.3.3").innerHTML = "Pai";
+	document.getElementById("ML.1p.3").innerHTML = "Ñucanchi";
+	document.getElementById("ML.2p.3").innerHTML = "Cancuna/Quiquincuna";
+	document.getElementById("ML.3p.3").innerHTML = "Paicuna";
+	document.getElementById("PRO.3").innerHTML = "Pronombres";
+
+//Titles
+	document.getElementById("TITLE.PRES").innerHTML = "Presente";
+	document.getElementById("TITLE.PST").innerHTML = "Pasado";
+	document.getElementById("TITLE.FUT1").innerHTML = "Futuro I";
+	document.getElementById("TITLE.FUT2").innerHTML = "Futuro II";
+	document.getElementById("TITLE.CONT").innerHTML = "Continuo";
+	document.getElementById("TITLE.REFL").innerHTML = "Reflexivo";
+	document.getElementById("TITLE.GAN").innerHTML = "Ganas de";
+	document.getElementById("TITLE.CAU").innerHTML = "Causativo";
+	document.getElementById("TITLE.VAL").innerHTML = "Validativo";
+	document.getElementById("TITLE.RECI").innerHTML = "Reciprocidad";
+	document.getElementById("TITLE.TQV").innerHTML = "Tener que + V";
+	document.getElementById("TITLE.QV").innerHTML = "Querer + V";
+	document.getElementById("TITLE.DUB").innerHTML = "Dubativo";
+	document.getElementById("TITLE.PODV").innerHTML = "Poder + V";
+	document.getElementById("TITLE.PP").innerHTML = "Participio Presente";
+	document.getElementById("TITLE.PPST").innerHTML = "Participio Pasado";
+	document.getElementById("TITLE.REPORT").innerHTML = "Reportativo";
+
+//table 1
+        document.getElementById("verb.1.PRES").innerHTML = a + "ni";
+        document.getElementById("verb.2.PRES").innerHTML = a + "ngui";
+        document.getElementById("verb.3.PRES").innerHTML = a + "n";
+        document.getElementById("verb.1p.PRES").innerHTML = a + "nchi";
+        document.getElementById("verb.2p.PRES").innerHTML = a + "nguichi";
+        document.getElementById("verb.3p.PRES").innerHTML = a + "n";
+	
+ 	document.getElementById("verb.1.PST").innerHTML = a + "rca" + "ni";
+        document.getElementById("verb.2.PST").innerHTML = a + "rca" + "ngui";
+        document.getElementById("verb.3.PST").innerHTML = a + "rca";
+        document.getElementById("verb.1p.PST").innerHTML = a + "rca" + "nchi";
+        document.getElementById("verb.2p.PST").innerHTML = a + "rca" + "nguichi";
+        document.getElementById("verb.3p.PST").innerHTML = a + "rca";
+
+ 	document.getElementById("verb.1.FUT1").innerHTML = a + "gri" + "ni";
+        document.getElementById("verb.2.FUT1").innerHTML = a + "gri" + "ngui";
+        document.getElementById("verb.3.FUT1").innerHTML = a + "gri" + "n";
+        document.getElementById("verb.1p.FUT1").innerHTML = a + "gri" + "nchi";
+        document.getElementById("verb.2p.FUT1").innerHTML = a + "gri" + "nguichi";
+        document.getElementById("verb.3p.FUT1").innerHTML = a + "gri" + "n";
+
+ 	document.getElementById("verb.1.FUT2").innerHTML = a + "sha";
+        document.getElementById("verb.2.FUT2").innerHTML = "--";
+        document.getElementById("verb.3.FUT2").innerHTML = "--";
+        document.getElementById("verb.1p.FUT2").innerHTML = a + "shun";
+        document.getElementById("verb.2p.FUT2").innerHTML = "--";
+        document.getElementById("verb.3p.FUT2").innerHTML = "--";
+
+ 	document.getElementById("verb.1.CONT").innerHTML = a + "ju" + "ni";
+        document.getElementById("verb.2.CONT").innerHTML = a + "ju" + "ngui";
+        document.getElementById("verb.3.CONT").innerHTML = a + "ju" + "n";
+        document.getElementById("verb.1p.CONT").innerHTML = a + "ju" + "nchi";
+        document.getElementById("verb.2p.CONT").innerHTML = a + "ju" + "nguichi";
+        document.getElementById("verb.3p.CONT").innerHTML = a + "ju" + "n";
+
+ 	document.getElementById("verb.1.REFL").innerHTML = a + "hua" + "ni";
+        document.getElementById("verb.2.REFL").innerHTML = a + "ri" + "ngui";
+        document.getElementById("verb.3.REFL").innerHTML = a + "ri" + "n";
+        document.getElementById("verb.1p.REFL").innerHTML = a + "ri" + "nchi";
+        document.getElementById("verb.2p.REFL").innerHTML = a + "ri" + "nguichi";
+        document.getElementById("verb.3p.REFL").innerHTML = a + "ri" + "n";
+
+//Second Table
+        document.getElementById("verb.1.GAN").innerHTML = a + "naya" + "ni";
+        document.getElementById("verb.2.GAN").innerHTML = a + "naya" + "ngui";
+        document.getElementById("verb.3.GAN").innerHTML = a + "naya" + "n";
+        document.getElementById("verb.1p.GAN").innerHTML = a + "naya" + "nchi";
+        document.getElementById("verb.2p.GAN").innerHTML = a + "naya" + "nguichi";
+        document.getElementById("verb.3p.GAN").innerHTML = a + "naya" + "n";
+	
+ 	document.getElementById("verb.1.REP").innerHTML = "--";
+        document.getElementById("verb.2.REP").innerHTML = "--";
+        document.getElementById("verb.3.REP").innerHTML = "--";
+        document.getElementById("verb.1p.REP").innerHTML = a + "naju" + "nchi";
+        document.getElementById("verb.2p.REP").innerHTML = a + "naju" + "nguichi";
+        document.getElementById("verb.3p.REP").innerHTML = a + "naju" + "n";
+
+ 	document.getElementById("verb.1.CAU").innerHTML = a + "chi" + "ni";
+        document.getElementById("verb.2.CAU").innerHTML = a + "chi" + "ngui";
+        document.getElementById("verb.3.CAU").innerHTML = a + "chi" + "n";
+        document.getElementById("verb.1p.CAU").innerHTML = a + "chi" + "nchi";
+        document.getElementById("verb.2p.CAU").innerHTML = a + "chi" + "nguichi";
+        document.getElementById("verb.3p.CAU").innerHTML = a + "chi" + "n";
+
+ 	document.getElementById("verb.1.VAL").innerHTML = a + "ni" + "mi";
+        document.getElementById("verb.2.VAL").innerHTML = a + "ngui" + "mi";
+        document.getElementById("verb.3.VAL").innerHTML = a + "n" + "mi";
+        document.getElementById("verb.1p.VAL").innerHTML = a + "nchi" + "mi";
+        document.getElementById("verb.2p.VAL").innerHTML = a + "nguichi" + "mi";
+        document.getElementById("verb.3p.VAL").innerHTML = a + "n" + "mi";
+
+ 	document.getElementById("verb.1.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "ni";
+        document.getElementById("verb.2.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "ngui";
+        document.getElementById("verb.3.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "n";
+        document.getElementById("verb.1p.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "nchi";
+        document.getElementById("verb.2p.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "nguichi";
+        document.getElementById("verb.3p.TQV").innerHTML = a + "na" + "&nbsp;" + "ca" + "n";
+
+ 	document.getElementById("verb.1.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "ni";
+        document.getElementById("verb.2.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "ngui";
+        document.getElementById("verb.3.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "n";
+        document.getElementById("verb.1p.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "nchi";
+        document.getElementById("verb.2p.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "nguichi";
+        document.getElementById("verb.3p.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "n";
+
+//Third table
+        document.getElementById("verb.1.DUB").innerHTML = a + "ni" + "yari";
+        document.getElementById("verb.2.DUB").innerHTML = a + "ngui" + "yari";
+        document.getElementById("verb.3.DUB").innerHTML = a + "n" + "yari";
+        document.getElementById("verb.1p.DUB").innerHTML = a + "nchi" + "yari";
+        document.getElementById("verb.2p.DUB").innerHTML = a + "nguichi" + "yari";
+        document.getElementById("verb.3p.DUB").innerHTML = a + "n" + "yari";
+
+ 	document.getElementById("verb.1.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "ni";
+        document.getElementById("verb.2.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "ngui";
+        document.getElementById("verb.3.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "n";
+        document.getElementById("verb.1p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "nchi";
+        document.getElementById("verb.2p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "nguichi";
+        document.getElementById("verb.3p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "podi" + "n";
+
+ 	document.getElementById("verb.1.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "ni";
+        document.getElementById("verb.2.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "ngui";
+        document.getElementById("verb.3.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "n";
+        document.getElementById("verb.1p.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "nchi";
+        document.getElementById("verb.2p.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "nguichi";
+        document.getElementById("verb.3p.PP").innerHTML = a + "shca" + "&nbsp;" + "ca" + "n";
+
+ 	document.getElementById("verb.1.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "ni";
+        document.getElementById("verb.2.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "ngui";
+        document.getElementById("verb.3.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca";
+        document.getElementById("verb.1p.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "nchi";
+        document.getElementById("verb.2p.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca" + "nguichi";
+        document.getElementById("verb.3p.PPST").innerHTML = a + "shca" + "&nbsp;" + "ca" + "rca";
+
+	document.getElementById("verb.1.REPORT").innerHTML = a + "ni" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.2.REPORT").innerHTML = a + "ngui" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.3.REPORT").innerHTML = a + "n" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.1p.REPORT").innerHTML = a + "nchi" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.2p.REPORT").innerHTML = a + "nguichi" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.3p.REPORT").innerHTML = a + "n" + "&nbsp;" + "ni" + "n";
+
+	var b = a
+	var b = b.toLowerCase();
+	var b = b.replace (/ñ/gi, "ɲ");
+	var b = b.replace (/manda/gi, "manta");
+	var b = b.replace (/(jesse)/gi, "ʒesi");
+	var b = b.replace (/ngue/gi, "ngi");
+	var b = b.replace (/nk/gi, "ng"); //Quichua only
+	var b = b.replace (/nt/gi, "nd"); //Quichua only
+	var b = b.replace (/np/gi, "nb"); //Quichua only
+	var b = b.replace (/hua/gi, "wa");
+	var b = b.replace (/ng/gi, "ŋg");
+	var b = b.replace (/nk/gi, "ŋk");
+	var b = b.replace (/ch/gi, "ʧ");
+	var b = b.replace (/sh/gi, "ʃ");
+	var b = b.replace (/ll/gi, "ʒ");
+	var b = b.replace (/(rr|^r)/gi, "@");
+	var b = b.replace (/( r)/gi, " @");
+	var b = b.replace (/r/gi, "ɾ");
+	var b = b.replace (/ɾt/gi, "ɾʃt");
+	var b = b.replace (/(ɾ )/gi, "ɾʃ ");
+	var b = b.replace (/(ɾ$)/gi, "ɾʃ");
+	var b = b.replace (/ @/gi, " ʐ");
+	var b = b.replace (/@/gi, "ʐ");
+	var b = b.replace (/cona/gi, "kuna");
+	var b = b.replace (/ce/gi, "se");
+	var b = b.replace (/ci/gi, "si");
+	var b = b.replace (/ca/gi, "ka");
+	var b = b.replace (/co/gi, "ko");
+	var b = b.replace (/cc/gi, "ks");
+	var b = b.replace (/cu/gi, "ku");
+	var b = b.replace (/cpi/gi, "kpi");
+	var b = b.replace (/c$/gi, "k");
+	var b = b.replace (/cʒ/gi, "kʒ");
+	var b = b.replace (/cl/gi, "kl");
+	var b = b.replace (/ct/gi, "kt");
+	var b = b.replace (/cʧ/gi, "kʧ");
+	var b = b.replace (/cʧ/gi, "kʧ");
+	var b = b.replace (/cs/gi, "ks");
+	var b = b.replace (/cr/gi, "kɾ");
+	var b = b.replace (/cɾ/gi, "kɾ");
+	var b = b.replace (/qu/gi, "k");
+	var b = b.replace (/x/gi, "ks");
+	var b = b.replace (/hu/gi, "xu");
+	var b = b.replace (/gui/gi, "gi");
+	var b = b.replace (/j/gi, "x");
+	var b = b.replace (/-y-/gi, " i ");
+	var b = b.replace (/ y /gi, " i ");
+	var b = b.replace (/y /gi, "i ");
+	var b = b.replace (/y$/gi, "i");
+	var b = b.replace (/my/gi, "mi");
+	var b = b.replace (/me /gi, "mi ");
+	var b = b.replace (/chon /gi, "ʧun ");
+	var b = b.replace (/spaca/gi, "ʃpaka");
+	var b = b.replace (/spa$/gi, "ʃpa");
+	var b = b.replace (/spa /gi, "ʃpa ");
+	var b = b.replace (/spata/gi, "ʃpata");
+	var b = b.replace (/spami/gi, "ʃpami");
+	var b = b.replace (/spame/gi, "ʃpami");
+	var b = b.replace (/ny/gi, "ni");
+	var b = b.replace (/mary/gi, "maɾi");
+	var b = b.replace (/chy/gi, "ʧi");
+	var b = b.replace (/py/gi, "pi");
+	var b = b.replace (/y/gi, "j");
+	var b = b.replace (/nguy/gi, "ngi");
+	var b = b.replace (/gry/gi, "gɾi");
+	var b = b.replace (/shy/gi, "ʃi");
+	var b = b.replace (/chary/gi, "ʧaɾi");
+	var b = b.replace (/siky/gi, "siki");
+	var b = b.replace (/niky/gi, "niki");
+	var b = b.replace (/kuty/gi, "kuti");
+	var b = b.replace (/^v/gi, "b");
+	var b = b.replace (/ v/gi, " b");
+	var b = b.replace (/v/gi, "β");
+	var b = b.replace (/^z/gi, "s");
+	var b = b.replace (/ z/gi, " s");
+	var b = b.replace (/ts/gi, "z");
+	var b = b.replace (/tz/gi, "z");
+	var b = b.replace (/aj/gi, "ai");
+	var b = b.replace (/aw/gi, "au");
+	var b = b.replace (/aia/gi, "aja");
+	var b = b.replace (/ajai/gi, "aiai");
+	var b = b.replace (/aua/gi, "awa");
+	var b = b.replace (/auo/gi, "awo");
+	var b = b.replace (/aue/gi, "awe");
+	var b = b.replace (/aiu/gi, "aju");
+	var b = b.replace (/aui/gi, "awi");
+	var b = b.replace (/aie/gi, "aje");
+	var b = b.replace (/gua/gi, "wa");
+	var b = b.replace (/gue/gi, "ge");
+	var b = b.replace (/í/gi, "i");
+	var b = b.replace (/é/gi, "e");
+	var b = b.replace (/á/gi, "a");
+	var b = b.replace (/ó/gi, "o");
+	var b = b.replace (/ú/gi, "u");
+	var b = b.replace (/o/gi, "u"); //Quichua only
+	var b = b.replace (/e/gi, "i"); //Quichua only
+	var b = b.replace (/g/gi, "ɡ");
+	var b = b.replace (/(\\(|\\)|-|_|h|\\.|,|¿|!|\\?|¡|            |\n)/gi, "");
+
+if (x.length-a.length==2) {  
+	var d = "na"
+} else if (x.length-a.length==1) {
+	var d = "i"
+} else {
+	var d = "-"
+}
+
+	document.getElementById("IPA").innerHTML = b + d;
+}
+</script>
+
+<script>
+function verbRootQU() {
+  var x = document.getElementById("inputText").value;
+if (x.slice(-2)=="na") {  
+	var a = x.substring(0, x.length - 2)
+} else if (x.slice(-1)=="y") {
+	var a = x.substring(0, x.length - 1)
+} else {
+	alert("El verbo tiene que terminar en '-na' o '-y'.")
+	var a = "--"
+	("span").empty();
+}
+//To unified spelling
+	var a = a.toLowerCase();
+	var a = a.replace (/manda/gi, "manta");
+	var a = a.replace (/(jesse)/gi, "ʒesi");
+	var a = a.replace (/ngue/gi, "nki");
+	var a = a.replace (/ng/gi, "nk");
+	var a = a.replace (/nd/gi, "nt");
+	var a = a.replace (/nb/gi, "np");
+	var a = a.replace (/mg/gi, "mk");
+	var a = a.replace (/md/gi, "mt");
+	var a = a.replace (/mb/gi, "mp");
+	var a = a.replace (/hua/gi, "wa");
+	var a = a.replace (/cona/gi, "kuna");
+	var a = a.replace (/ca/gi, "ka");
+	var a = a.replace (/co/gi, "ko");
+	var a = a.replace (/cc/gi, "ks");
+	var a = a.replace (/cu/gi, "ku");
+	var a = a.replace (/cpi/gi, "kpi");
+	var a = a.replace (/c$/gi, "k");
+	var a = a.replace (/cʒ/gi, "kll");
+	var a = a.replace (/cl/gi, "kl");
+	var a = a.replace (/ct/gi, "kt");
+	var a = a.replace (/cch/gi, "kch");
+	var a = a.replace (/cs/gi, "ks");
+	var a = a.replace (/cr/gi, "kr");
+	var a = a.replace (/qu/gi, "k");
+	var a = a.replace (/gui/gi, "ki");
+	var a = a.replace (/j/gi, "h");
+	var a = a.replace (/my/gi, "mi");
+	var a = a.replace (/me /gi, "mi ");
+	var a = a.replace (/chon /gi, "chun ");
+	var a = a.replace (/spaca/gi, "shpaka");
+	var a = a.replace (/spa$/gi, "shpa");
+	var a = a.replace (/spa /gi, "shpa ");
+	var a = a.replace (/spata/gi, "shpata");
+	var a = a.replace (/spami/gi, "shpami");
+	var a = a.replace (/spame/gi, "shpami");
+	var a = a.replace (/ny/gi, "ni");
+	var a = a.replace (/mary/gi, "mari");
+	var a = a.replace (/chy/gi, "chi");
+	var a = a.replace (/py/gi, "pi");
+	var a = a.replace (/nguy/gi, "nki");
+	var a = a.replace (/gry/gi, "kri");
+	var a = a.replace (/shy/gi, "shi");
+	var a = a.replace (/chary/gi, "chari");
+	var a = a.replace (/siky/gi, "siki");
+	var a = a.replace (/niky/gi, "niki");
+	var a = a.replace (/kuty/gi, "kuti");
+	var a = a.replace (/^v/gi, "p");
+	var a = a.replace (/ v/gi, " p");
+	var a = a.replace (/ai/gi, "ay");
+	var a = a.replace (/au/gi, "aw");
+	var a = a.replace (/aia/gi, "aya");
+	var a = a.replace (/aiai/gi, "ayay");
+	var a = a.replace (/aua/gi, "awa");
+	var a = a.replace (/auo/gi, "awo");
+	var a = a.replace (/aue/gi, "awe");
+	var a = a.replace (/aiu/gi, "ayu");
+	var a = a.replace (/aui/gi, "awi");
+	var a = a.replace (/aie/gi, "aye");
+	var a = a.replace (/gua/gi, "wa");
+	var a = a.replace (/gue/gi, "ke");
+	var a = a.replace (/í/gi, "i");
+	var a = a.replace (/é/gi, "e");
+	var a = a.replace (/á/gi, "a");
+	var a = a.replace (/ó/gi, "o");
+	var a = a.replace (/ú/gi, "u");
+	var a = a.replace (/o/gi, "u"); //Quichua only
+	var a = a.replace (/e/gi, "i"); //Quichua only
+	var a = a.replace (/g/gi, "k");
+
+
+//Root
+	document.getElementById("TITLE.ROOT").innerHTML = "Raíz:&nbsp;";
+	document.getElementById("raiz").innerHTML = a + "-";
+
+//IPA
+	document.getElementById("TITLE.IPA").innerHTML = "Pronunciación:&nbsp;";
+	document.getElementById("TITLE.C.BRACKET").innerHTML = "]";
+	document.getElementById("TITLE.O.BRACKET").innerHTML = "[";
+
+//Main box labels
+	document.getElementById("TITLE.GER").innerHTML = "Gerundio:&nbsp;";
+	document.getElementById("TITLE.PART").innerHTML = "Participio:&nbsp;";
+	document.getElementById("TITLE.AGN").innerHTML = "Agente:&nbsp;";
+	document.getElementById("TITLE.NOM").innerHTML = "Nominativo:&nbsp;";
+	document.getElementById("TITLE.IMP.INF").innerHTML = "Imparativo Informal:&nbsp;";
+	document.getElementById("TITLE.IMP.FORM").innerHTML = "Imparativo Formal:&nbsp;";
+	document.getElementById("TITLE.IMP.RESP").innerHTML = "Imparativo Respetuoso:&nbsp;";
+	document.getElementById("TITLE.CON.SS").innerHTML = "Converbo de un Sujeto Diferente:&nbsp;";
+	document.getElementById("TITLE.CON.DS").innerHTML = "Terminativo del Mismo Sujeto:&nbsp;";
+	document.getElementById("TITLE.TERM.SS").innerHTML = "Converbo del Mismo Sujeto:&nbsp;";
+
+//Main box
+	document.getElementById("GER").innerHTML = a + "shpa";
+	document.getElementById("PART").innerHTML = a + "shka";
+	document.getElementById("AGN").innerHTML = a + "k";
+	document.getElementById("NOM").innerHTML = a + "y";
+	document.getElementById("IMP.INF").innerHTML = a + "y";
+	document.getElementById("IMP.FORM").innerHTML = a + "pay";
+	document.getElementById("IMP.RESP").innerHTML = a + "npanki";
+	document.getElementById("TERM.SS").innerHTML = a + "nkapaka";  
+	document.getElementById("CON.SS").innerHTML = a + "chun";
+	document.getElementById("CON.DS").innerHTML = a + "kpika";
+
+//Pronouns
+	document.getElementById("ML.1").innerHTML = "Ñuka";
+	document.getElementById("ML.2").innerHTML = "Kan/Kikin";
+	document.getElementById("ML.3").innerHTML = "Pay";
+	document.getElementById("ML.1p").innerHTML = "Ñukanchik";
+	document.getElementById("ML.2p").innerHTML = "Kankuna/Kikinkuna";
+	document.getElementById("ML.3p").innerHTML = "Paykuna";
+	document.getElementById("PRO").innerHTML = "Pronombres";
+
+	document.getElementById("ML.1.2").innerHTML = "Ñuka";
+	document.getElementById("ML.2.2").innerHTML = "Kan/Kikin";
+	document.getElementById("ML.3.2").innerHTML = "Pay";
+	document.getElementById("ML.1p.2").innerHTML = "Ñukanchik";
+	document.getElementById("ML.2p.2").innerHTML = "Kankuna/Kikinkuna";
+	document.getElementById("ML.3p.2").innerHTML = "Paykuna";
+	document.getElementById("PRO.2").innerHTML = "Pronombres";
+
+	document.getElementById("ML.1.3").innerHTML = "Ñuka";
+	document.getElementById("ML.2.3").innerHTML = "Kan/Kikin";
+	document.getElementById("ML.3.3").innerHTML = "Pay";
+	document.getElementById("ML.1p.3").innerHTML = "Ñukanchik";
+	document.getElementById("ML.2p.3").innerHTML = "Kankuna/Kikinkuna";
+	document.getElementById("ML.3p.3").innerHTML = "Paykuna";
+	document.getElementById("PRO.3").innerHTML = "Pronombres";
+
+//Titles
+	document.getElementById("TITLE.PRES").innerHTML = "Presente";
+	document.getElementById("TITLE.PST").innerHTML = "Pasado";
+	document.getElementById("TITLE.FUT1").innerHTML = "Futuro I";
+	document.getElementById("TITLE.FUT2").innerHTML = "Futuro II";
+	document.getElementById("TITLE.CONT").innerHTML = "Continuo";
+	document.getElementById("TITLE.REFL").innerHTML = "Reflexivo";
+	document.getElementById("TITLE.GAN").innerHTML = "Ganas de";
+	document.getElementById("TITLE.CAU").innerHTML = "Causativo";
+	document.getElementById("TITLE.VAL").innerHTML = "Validativo";
+	document.getElementById("TITLE.RECI").innerHTML = "Reciprocidad";
+	document.getElementById("TITLE.TQV").innerHTML = "Tener que + V";
+	document.getElementById("TITLE.QV").innerHTML = "Querer + V";
+	document.getElementById("TITLE.DUB").innerHTML = "Dubativo";
+	document.getElementById("TITLE.PODV").innerHTML = "Poder + V";
+	document.getElementById("TITLE.PP").innerHTML = "Participio Presente";
+	document.getElementById("TITLE.PPST").innerHTML = "Participio Pasado";
+	document.getElementById("TITLE.REPORT").innerHTML = "Reportativo";
+
+//table 1
+        document.getElementById("verb.1.PRES").innerHTML = a + "ni";
+        document.getElementById("verb.2.PRES").innerHTML = a + "nki";
+        document.getElementById("verb.3.PRES").innerHTML = a + "n";
+        document.getElementById("verb.1p.PRES").innerHTML = a + "nchik";
+        document.getElementById("verb.2p.PRES").innerHTML = a + "nkichik";
+        document.getElementById("verb.3p.PRES").innerHTML = a + "nkuna";
+	
+ 	document.getElementById("verb.1.PST").innerHTML = a + "rka" + "ni";
+        document.getElementById("verb.2.PST").innerHTML = a + "rka" + "nki";
+        document.getElementById("verb.3.PST").innerHTML = a + "rka";
+        document.getElementById("verb.1p.PST").innerHTML = a + "rka" + "nchik";
+        document.getElementById("verb.2p.PST").innerHTML = a + "rka" + "nkichik";
+        document.getElementById("verb.3p.PST").innerHTML = a + "rka";
+
+ 	document.getElementById("verb.1.FUT1").innerHTML = a + "kri" + "ni";
+        document.getElementById("verb.2.FUT1").innerHTML = a + "kri" + "nki";
+        document.getElementById("verb.3.FUT1").innerHTML = a + "kri" + "n";
+        document.getElementById("verb.1p.FUT1").innerHTML = a + "kri" + "nchik";
+        document.getElementById("verb.2p.FUT1").innerHTML = a + "kri" + "nkichik";
+        document.getElementById("verb.3p.FUT1").innerHTML = a + "kri" + "nkuna";
+
+ 	document.getElementById("verb.1.FUT2").innerHTML = a + "sha";
+        document.getElementById("verb.2.FUT2").innerHTML = "--";
+        document.getElementById("verb.3.FUT2").innerHTML = "--";
+        document.getElementById("verb.1p.FUT2").innerHTML = a + "shun";
+        document.getElementById("verb.2p.FUT2").innerHTML = "--";
+        document.getElementById("verb.3p.FUT2").innerHTML = "--";
+
+ 	document.getElementById("verb.1.CONT").innerHTML = a + "hu" + "ni";
+        document.getElementById("verb.2.CONT").innerHTML = a + "hu" + "nki";
+        document.getElementById("verb.3.CONT").innerHTML = a + "hu" + "n";
+        document.getElementById("verb.1p.CONT").innerHTML = a + "hu" + "nchik";
+        document.getElementById("verb.2p.CONT").innerHTML = a + "hu" + "nkichik";
+        document.getElementById("verb.3p.CONT").innerHTML = a + "hu" + "nkuna";
+
+ 	document.getElementById("verb.1.REFL").innerHTML = a + "wa" + "ni";
+        document.getElementById("verb.2.REFL").innerHTML = a + "ri" + "nki";
+        document.getElementById("verb.3.REFL").innerHTML = a + "ri" + "n";
+        document.getElementById("verb.1p.REFL").innerHTML = a + "ri" + "nchik";
+        document.getElementById("verb.2p.REFL").innerHTML = a + "ri" + "nkichik";
+        document.getElementById("verb.3p.REFL").innerHTML = a + "ri" + "nkuna";
+
+//Second Table
+        document.getElementById("verb.1.GAN").innerHTML = a + "naya" + "ni";
+        document.getElementById("verb.2.GAN").innerHTML = a + "naya" + "nki";
+        document.getElementById("verb.3.GAN").innerHTML = a + "naya" + "n";
+        document.getElementById("verb.1p.GAN").innerHTML = a + "naya" + "nchik";
+        document.getElementById("verb.2p.GAN").innerHTML = a + "naya" + "nkichik";
+        document.getElementById("verb.3p.GAN").innerHTML = a + "naya" + "nkuna";
+	
+ 	document.getElementById("verb.1.REP").innerHTML = "--";
+        document.getElementById("verb.2.REP").innerHTML = "--";
+        document.getElementById("verb.3.REP").innerHTML = "--";
+        document.getElementById("verb.1p.REP").innerHTML = a + "nahu" + "nchik";
+        document.getElementById("verb.2p.REP").innerHTML = a + "nahu" + "nkichik";
+        document.getElementById("verb.3p.REP").innerHTML = a + "nahu" + "nkuna";
+
+ 	document.getElementById("verb.1.CAU").innerHTML = a + "chi" + "ni";
+        document.getElementById("verb.2.CAU").innerHTML = a + "chi" + "nki";
+        document.getElementById("verb.3.CAU").innerHTML = a + "chi" + "n";
+        document.getElementById("verb.1p.CAU").innerHTML = a + "chi" + "nchik";
+        document.getElementById("verb.2p.CAU").innerHTML = a + "chi" + "nkichik";
+        document.getElementById("verb.3p.CAU").innerHTML = a + "chi" + "nkuna";
+
+ 	document.getElementById("verb.1.VAL").innerHTML = a + "ni" + "mi";
+        document.getElementById("verb.2.VAL").innerHTML = a + "nki" + "mi";
+        document.getElementById("verb.3.VAL").innerHTML = a + "n" + "mi";
+        document.getElementById("verb.1p.VAL").innerHTML = a + "nchik" + "mi";
+        document.getElementById("verb.2p.VAL").innerHTML = a + "nkichik" + "mi";
+        document.getElementById("verb.3p.VAL").innerHTML = a + "nkuna" + "mi";
+
+ 	document.getElementById("verb.1.TQV").innerHTML = a + "na" + "&nbsp;" + "ka" + "ni";
+        document.getElementById("verb.2.TQV").innerHTML = a + "na" + "&nbsp;" + "ka" + "nki";
+        document.getElementById("verb.3.TQV").innerHTML = a + "na" + "&nbsp;" + "ka" + "n";
+        document.getElementById("verb.1p.TQV").innerHTML = a + "na" + "&nbsp;" + "ka" + "nchik";
+        document.getElementById("verb.2p.TQV").innerHTML = a + "na" + "&nbsp;" + "ka" + "nkichik";
+        document.getElementById("verb.3p.TQV").innerHTML = a + "na" + "&nbsp;" + "ka" + "nkuna";
+
+ 	document.getElementById("verb.1.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "ni";
+        document.getElementById("verb.2.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "nki";
+        document.getElementById("verb.3.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "n";
+        document.getElementById("verb.1p.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "nchik";
+        document.getElementById("verb.2p.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "nkichik";
+        document.getElementById("verb.3p.QV").innerHTML = a + "na" + "&nbsp;" + "muna" + "nkuna";
+
+//Third table
+        document.getElementById("verb.1.DUB").innerHTML = a + "ni" + "yary";
+        document.getElementById("verb.2.DUB").innerHTML = a + "nki" + "yary";
+        document.getElementById("verb.3.DUB").innerHTML = a + "n" + "yary";
+        document.getElementById("verb.1p.DUB").innerHTML = a + "nchik" + "yary";
+        document.getElementById("verb.2p.DUB").innerHTML = a + "nkichik" + "yary";
+        document.getElementById("verb.3p.DUB").innerHTML = a + "nkuna" + "yary";
+
+ 	document.getElementById("verb.1.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "usha" + "ni";
+        document.getElementById("verb.2.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "usha" + "nki";
+        document.getElementById("verb.3.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "usha" + "n";
+        document.getElementById("verb.1p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "usha" + "nchik";
+        document.getElementById("verb.2p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "usha" + "nkichik";
+        document.getElementById("verb.3p.PODV").innerHTML = a + "y" + "ta" + "&nbsp;" + "usha" + "nkuna";
+
+ 	document.getElementById("verb.1.PP").innerHTML = a + "shka" + "&nbsp;" + "ka" + "ni";
+        document.getElementById("verb.2.PP").innerHTML = a + "shka" + "&nbsp;" + "ka" + "nki";
+        document.getElementById("verb.3.PP").innerHTML = a + "shka" + "&nbsp;" + "ka" + "n";
+        document.getElementById("verb.1p.PP").innerHTML = a + "shka" + "&nbsp;" + "ka" + "nchik";
+        document.getElementById("verb.2p.PP").innerHTML = a + "shka" + "&nbsp;" + "ka" + "nkichik";
+        document.getElementById("verb.3p.PP").innerHTML = a + "shka" + "&nbsp;" + "ka" + "n";
+
+ 	document.getElementById("verb.1.PPST").innerHTML = a + "shka" + "&nbsp;" + "ka" + "rka" + "ni";
+        document.getElementById("verb.2.PPST").innerHTML = a + "shka" + "&nbsp;" + "ka" + "rka" + "nki";
+        document.getElementById("verb.3.PPST").innerHTML = a + "shka" + "&nbsp;" + "ka" + "rka";
+        document.getElementById("verb.1p.PPST").innerHTML = a + "shka" + "&nbsp;" + "ka" + "rka" + "nchik";
+        document.getElementById("verb.2p.PPST").innerHTML = a + "shka" + "&nbsp;" + "ka" + "rka" + "nkichik";
+        document.getElementById("verb.3p.PPST").innerHTML = a + "shka" + "&nbsp;" + "ka" + "rka";
+
+	document.getElementById("verb.1.REPORT").innerHTML = a + "ni" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.2.REPORT").innerHTML = a + "nki" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.3.REPORT").innerHTML = a + "n" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.1p.REPORT").innerHTML = a + "nchik" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.2p.REPORT").innerHTML = a + "nkichik" + "&nbsp;" + "ni" + "n";
+        document.getElementById("verb.3p.REPORT").innerHTML = a + "n" + "&nbsp;" + "ni" + "n";
+
+	var b = a
+	var b = b.toLowerCase();
+	var b = b.replace (/ñ/gi, "ɲ");
+	var b = b.replace (/manda/gi, "manta");
+	var b = b.replace (/(jesse)/gi, "ʒesi");
+	var b = b.replace (/ngue/gi, "ngi");
+	var b = b.replace (/nk/gi, "ng"); //Quichua only
+	var b = b.replace (/nt/gi, "nd"); //Quichua only
+	var b = b.replace (/np/gi, "nb"); //Quichua only
+	var b = b.replace (/hua/gi, "wa");
+	var b = b.replace (/ng/gi, "ŋg");
+	var b = b.replace (/nk/gi, "ŋk");
+	var b = b.replace (/ch/gi, "ʧ");
+	var b = b.replace (/sh/gi, "ʃ");
+	var b = b.replace (/ll/gi, "ʒ");
+	var b = b.replace (/(rr|^r)/gi, "@");
+	var b = b.replace (/( r)/gi, " @");
+	var b = b.replace (/r/gi, "ɾ");
+	var b = b.replace (/ɾt/gi, "ɾʃt");
+	var b = b.replace (/(ɾ )/gi, "ɾʃ ");
+	var b = b.replace (/(ɾ$)/gi, "ɾʃ");
+	var b = b.replace (/ @/gi, " ʐ");
+	var b = b.replace (/@/gi, "ʐ");
+	var b = b.replace (/cona/gi, "kuna");
+	var b = b.replace (/ce/gi, "se");
+	var b = b.replace (/ci/gi, "si");
+	var b = b.replace (/ca/gi, "ka");
+	var b = b.replace (/co/gi, "ko");
+	var b = b.replace (/cc/gi, "ks");
+	var b = b.replace (/cu/gi, "ku");
+	var b = b.replace (/cpi/gi, "kpi");
+	var b = b.replace (/c$/gi, "k");
+	var b = b.replace (/cʒ/gi, "kʒ");
+	var b = b.replace (/cl/gi, "kl");
+	var b = b.replace (/ct/gi, "kt");
+	var b = b.replace (/cʧ/gi, "kʧ");
+	var b = b.replace (/cʧ/gi, "kʧ");
+	var b = b.replace (/cs/gi, "ks");
+	var b = b.replace (/cr/gi, "kɾ");
+	var b = b.replace (/cɾ/gi, "kɾ");
+	var b = b.replace (/qu/gi, "k");
+	var b = b.replace (/x/gi, "ks");
+	var b = b.replace (/hu/gi, "xu");
+	var b = b.replace (/ha/gi, "xa");
+	var b = b.replace (/hi/gi, "xi");
+	var b = b.replace (/gui/gi, "gi");
+	var b = b.replace (/j/gi, "x");
+	var b = b.replace (/-y-/gi, " i ");
+	var b = b.replace (/ y /gi, " i ");
+	var b = b.replace (/y /gi, "i ");
+	var b = b.replace (/y$/gi, "i");
+	var b = b.replace (/my/gi, "mi");
+	var b = b.replace (/me /gi, "mi ");
+	var b = b.replace (/chon /gi, "ʧun ");
+	var b = b.replace (/spaca/gi, "ʃpaka");
+	var b = b.replace (/spa$/gi, "ʃpa");
+	var b = b.replace (/spa /gi, "ʃpa ");
+	var b = b.replace (/spata/gi, "ʃpata");
+	var b = b.replace (/spami/gi, "ʃpami");
+	var b = b.replace (/spame/gi, "ʃpami");
+	var b = b.replace (/ny/gi, "ni");
+	var b = b.replace (/mary/gi, "maɾi");
+	var b = b.replace (/chy/gi, "ʧi");
+	var b = b.replace (/py/gi, "pi");
+	var b = b.replace (/y/gi, "j");
+	var b = b.replace (/nguy/gi, "ngi");
+	var b = b.replace (/gry/gi, "gɾi");
+	var b = b.replace (/shy/gi, "ʃi");
+	var b = b.replace (/chary/gi, "ʧaɾi");
+	var b = b.replace (/siky/gi, "siki");
+	var b = b.replace (/niky/gi, "niki");
+	var b = b.replace (/kuty/gi, "kuti");
+	var b = b.replace (/^v/gi, "b");
+	var b = b.replace (/ v/gi, " b");
+	var b = b.replace (/v/gi, "β");
+	var b = b.replace (/^z/gi, "s");
+	var b = b.replace (/ z/gi, " s");
+	var b = b.replace (/ts/gi, "z");
+	var b = b.replace (/tz/gi, "z");
+	var b = b.replace (/aj/gi, "ai");
+	var b = b.replace (/aw/gi, "au");
+	var b = b.replace (/aia/gi, "aja");
+	var b = b.replace (/ajai/gi, "aiai");
+	var b = b.replace (/aua/gi, "awa");
+	var b = b.replace (/auo/gi, "awo");
+	var b = b.replace (/aue/gi, "awe");
+	var b = b.replace (/aiu/gi, "aju");
+	var b = b.replace (/aui/gi, "awi");
+	var b = b.replace (/aie/gi, "aje");
+	var b = b.replace (/gua/gi, "wa");
+	var b = b.replace (/gue/gi, "ge");
+	var b = b.replace (/í/gi, "i");
+	var b = b.replace (/é/gi, "e");
+	var b = b.replace (/á/gi, "a");
+	var b = b.replace (/ó/gi, "o");
+	var b = b.replace (/ú/gi, "u");
+	var b = b.replace (/o/gi, "u"); //Quichua only
+	var b = b.replace (/e/gi, "i"); //Quichua only
+	var b = b.replace (/g/gi, "ɡ");
+	var b = b.replace (/(\\(|\\)|-|_|h|\\.|,|¿|!|\\?|¡|            |\n)/gi, "");
+
+if (x.length-a.length==2) {  
+	var d = "na"
+} else if (x.length-a.length==1) {
+	var d = "i"
+} else {
+	var d = "na"
+}
+
+	document.getElementById("IPA").innerHTML = b + d;
+}
+</script>
+<p>
+
+Programado por Jesse Stewart (2020)<br>
+<a href="http://jessestewart.net">http://jessestewart.net</a>
+</body>
+</html>
