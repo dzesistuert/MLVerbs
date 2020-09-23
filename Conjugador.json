@@ -1,0 +1,9255 @@
+[
+	{
+	"MediaLengua" : "abansana",
+	"PoS" : "verbo",
+	"Pron" : "aben'tana",
+	"Spell" : "aventana",
+	"Sound" : "abentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "avanzar",
+	"Quichua" : "abansana",
+	"Source" : "advance to",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "abentana",
+	"PoS" : "verbo",
+	"Pron" : "a'bina",
+	"Spell" : "abina, abena, habina, abina, habina, jabena, jabina, avena",
+	"Sound" : "abina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aventar",
+	"Quichua" : "abentana",
+	"Source" : "fan (fan a fire)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "abina",
+	"PoS" : "verbo",
+	"Pron" : "abi'sana",
+	"Spell" : "",
+	"Sound" : "abisana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "haber",
+	"Quichua" : "tiana",
+	"Source" : "there is, there are",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "abisana",
+	"PoS" : "verbo",
+	"Pron" : "abo'ʐina",
+	"Spell" : "aburina",
+	"Sound" : "aborrina.mp3",
+	"Origin" : "es",
+	"Synonym" : "enojana, colerana, pujana, resentina",
+	"Spanish" : "avisar, informar",
+	"Quichua" : "vilana",
+	"Source" : "inform, advise, let know",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aborrina",
+	"PoS" : "verbo",
+	"Pron" : "abɾa'sana",
+	"Spell" : "",
+	"Sound" : "abrasana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aborrecer, enojar",
+	"Quichua" : "aborrena",
+	"Source" : "anger, annoy, irritate",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "abrasana",
+	"PoS" : "verbo",
+	"Pron" : "ab'ɾina",
+	"Spell" : "abrena",
+	"Sound" : "abrina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "abrazar",
+	"Quichua" : "ucllana",
+	"Source" : "hug (verb)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "abrina",
+	"PoS" : "verbo",
+	"Pron" : "abɾi'gana",
+	"Spell" : "",
+	"Sound" : "abrigana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "abrir",
+	"Quichua" : "pascana",
+	"Source" : "open (verb)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "abrigana",
+	"PoS" : "verbo",
+	"Pron" : "aka'bana",
+	"Spell" : "acavana, akabana",
+	"Sound" : "acabana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "abrigar",
+	"Quichua" : "conucchina",
+	"Source" : "keep something warm",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "acabana",
+	"PoS" : "verbo",
+	"Pron" : "akla'ɾana",
+	"Spell" : "",
+	"Sound" : "aclarana.mp3",
+	"Origin" : "es",
+	"Synonym" : "amanecena",
+	"Spanish" : "acabar",
+	"Quichua" : "tucuchina",
+	"Source" : "finish",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aclarana",
+	"PoS" : "verbo",
+	"Pron" : "ak'ʒana",
+	"Spell" : "",
+	"Sound" : "acllana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aclarar",
+	"Quichua" : "punchayana",
+	"Source" : "dawn, brighten",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "acllana",
+	"PoS" : "verbo",
+	"Pron" : "akomo'dana",
+	"Spell" : "",
+	"Sound" : "acomodana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "escoger, seleccionar",
+	"Quichua" : "hacllana, japina",
+	"Source" : "choose, select, pick from",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "acomodana",
+	"PoS" : "verbo",
+	"Pron" : "akompa'ɲana",
+	"Spell" : "",
+	"Sound" : "acompañana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arreglar, acomodar, mejorar",
+	"Quichua" : "alichinana, acomodana",
+	"Source" : "fix, improve",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "acompañana",
+	"PoS" : "verbo",
+	"Pron" : "akoʐ'dana",
+	"Spell" : "acordana",
+	"Sound" : "acorrdana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "acompañar",
+	"Quichua" : "cumpañana",
+	"Source" : "accompany, go with someone",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "acorrdana",
+	"PoS" : "verbo",
+	"Pron" : "akostum'bɾana",
+	"Spell" : "acostubrana",
+	"Sound" : "acostumbrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "recordar, acordar (memoria)",
+	"Quichua" : "yuyarina",
+	"Source" : "remember, recall",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "acostumbrana",
+	"PoS" : "verbo",
+	"Pron" : "aktuali'sana",
+	"Spell" : "",
+	"Sound" : "actualisana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "acostumbrar",
+	"Quichua" : "cushtumbrana",
+	"Source" : "accustom",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "actualisana",
+	"PoS" : "verbo",
+	"Pron" : "adelan'tana",
+	"Spell" : "",
+	"Sound" : "adelantana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "actualizar",
+	"Quichua" : "actualisana",
+	"Source" : "update",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "adelantana",
+	"PoS" : "verbo",
+	"Pron" : "adiβi'nana",
+	"Spell" : "",
+	"Sound" : "adivinana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "adelantar",
+	"Quichua" : "ñaupana",
+	"Source" : "move ahead, go forward",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "adivinana",
+	"PoS" : "verbo",
+	"Pron" : "afi'lana",
+	"Spell" : "",
+	"Sound" : "afilana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "adivinar",
+	"Quichua" : "yachana, adivinana",
+	"Source" : "guess",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "afilana",
+	"PoS" : "verbo",
+	"Pron" : "aflo'xana",
+	"Spell" : "",
+	"Sound" : "aflojana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "afilar",
+	"Quichua" : "afilana",
+	"Source" : "sharpen",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "aflojana",
+	"PoS" : "verbo",
+	"Pron" : "aga'ʧana",
+	"Spell" : "",
+	"Sound" : "agachana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aflojar",
+	"Quichua" : "aflojana, flojoyachina",
+	"Source" : "loosen",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "agachana",
+	"PoS" : "verbo",
+	"Pron" : "aga'ʐana",
+	"Spell" : "",
+	"Sound" : "agarrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "agachar",
+	"Quichua" : "comurina",
+	"Source" : "bend over, hunch over, duck",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "agarrana",
+	"PoS" : "verbo",
+	"Pron" : "agɾade'sina",
+	"Spell" : "agradecina",
+	"Sound" : "agradesina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "agarrar",
+	"Quichua" : "japina",
+	"Source" : "take, grab",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "agradesina",
+	"PoS" : "verbo",
+	"Pron" : "awan'tana",
+	"Spell" : "ahuantana",
+	"Sound" : "aguantana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "agradecer",
+	"Quichua" : "agradesina",
+	"Source" : "thank",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aguantana",
+	"PoS" : "verbo",
+	"Pron" : "ao'ʐana",
+	"Spell" : "aurrana",
+	"Sound" : "ahorrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aguantar, soportar",
+	"Quichua" : "ahuantana",
+	"Source" : "support, put up with",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ahorrana",
+	"PoS" : "verbo",
+	"Pron" : "ai'sana",
+	"Spell" : "",
+	"Sound" : "aisana.mp3",
+	"Origin" : "es",
+	"Synonym" : "trillana",
+	"Spanish" : "ahorrar",
+	"Quichua" : "huacaychina",
+	"Source" : "save",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aisana",
+	"PoS" : "verbo",
+	"Pron" : "axi'ʧana",
+	"Spell" : "",
+	"Sound" : "ajichana.mp3",
+	"Origin" : "k",
+	"Synonym" : "cernina",
+	"Spanish" : "trillar",
+	"Quichua" : "aisana",
+	"Source" : "thresh",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ajichana",
+	"PoS" : "verbo",
+	"Pron" : "axu'gana",
+	"Spell" : "",
+	"Sound" : "ajugana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ahichar, cernir, colar",
+	"Quichua" : "shushuna",
+	"Source" : "strain, sift, sieve",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "ajugana",
+	"PoS" : "verbo",
+	"Pron" : "axun'tana",
+	"Spell" : "",
+	"Sound" : "ajuntana.mp3",
+	"Origin" : "es",
+	"Synonym" : "reunina, amigueriana",
+	"Spanish" : "ahogar",
+	"Quichua" : "aguarina",
+	"Source" : "drown",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ajuntana",
+	"PoS" : "verbo",
+	"Pron" : "axus'tana",
+	"Spell" : "ajostana, ajushtana",
+	"Sound" : "ajustana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "juntar, unir",
+	"Quichua" : "tandana",
+	"Source" : "meet, unite",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ajustana",
+	"PoS" : "verbo",
+	"Pron" : "ala'bana",
+	"Spell" : "",
+	"Sound" : "alabana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ajustar",
+	"Quichua" : "ajushtana",
+	"Source" : "about to reach X number of years, come to terms with",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "alabana",
+	"PoS" : "verbo",
+	"Pron" : "alakan'zana",
+	"Spell" : "",
+	"Sound" : "alacanzana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alabar",
+	"Quichua" : "alabana",
+	"Source" : "praise",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "alacanzana",
+	"PoS" : "verbo",
+	"Pron" : "aladia'ʧina",
+	"Spell" : "alaeana",
+	"Sound" : "aladiachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alcanzar",
+	"Quichua" : "pactana",
+	"Source" : "enough (be)",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "aladiachina",
+	"PoS" : "verbo",
+	"Pron" : "alamb'ɾana",
+	"Spell" : "",
+	"Sound" : "alambra.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer a un lado, arrimar",
+	"Quichua" : "laduchina",
+	"Source" : "move to the side",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "alambrana",
+	"PoS" : "verbo",
+	"Pron" : "albeɾʃ'tina",
+	"Spell" : "",
+	"Sound" : "albertina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alambrar (una cerca)",
+	"Quichua" : "alambrana",
+	"Source" : "wire (a fence)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "albertina",
+	"PoS" : "verbo",
+	"Pron" : "alkansa'ʧina",
+	"Spell" : "",
+	"Sound" : "alcansachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "advertir",
+	"Quichua" : "albertina",
+	"Source" : "warn",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "alcansachina",
+	"PoS" : "verbo",
+	"Pron" : "alkan'sana",
+	"Spell" : "alcanzana, sealcansana",
+	"Sound" : "alcansana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer alcanzar (ej. comida)",
+	"Quichua" : "pactachina",
+	"Source" : "make something last (e.g. food)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "alcansana",
+	"PoS" : "verbo",
+	"Pron" : "alimen'tana",
+	"Spell" : "",
+	"Sound" : "alimentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alcanzar",
+	"Quichua" : "pactana",
+	"Source" : "able to get, reach, achieve",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "alimentana",
+	"PoS" : "verbo",
+	"Pron" : "ali'ɲana",
+	"Spell" : "",
+	"Sound" : "aliñana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alimentar",
+	"Quichua" : "micurina",
+	"Source" : "feed",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aliñana",
+	"PoS" : "verbo",
+	"Pron" : "alis'tana",
+	"Spell" : "",
+	"Sound" : "alistana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aliñar",
+	"Quichua" : "salana",
+	"Source" : "align",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "alistana",
+	"PoS" : "verbo",
+	"Pron" : "almuɾ'sana",
+	"Spell" : "almushana",
+	"Sound" : "almursana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alistar",
+	"Quichua" : "lishtiana",
+	"Source" : "to get ready",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "almursana",
+	"PoS" : "verbo",
+	"Pron" : "alki'lana",
+	"Spell" : "",
+	"Sound" : "alquilana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "almorzar",
+	"Quichua" : "almostana",
+	"Source" : "to eat lunch",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "alquilana",
+	"PoS" : "verbo",
+	"Pron" : "al'sana",
+	"Spell" : "alzana, azana, awzana, azawana",
+	"Sound" : "alsana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alquilar",
+	"Quichua" : "alquilana",
+	"Source" : "rent",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "alsana",
+	"PoS" : "verbo",
+	"Pron" : "alum'bɾana",
+	"Spell" : "",
+	"Sound" : "alumbrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alzar, parar, incrementar",
+	"Quichua" : "alsana, jatarina, shayachina",
+	"Source" : "pick up, get up, stand up, increase",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "alumbrana",
+	"PoS" : "verbo",
+	"Pron" : "amane'sena",
+	"Spell" : "amanesena, amanacina",
+	"Sound" : "amanecena.mp3",
+	"Origin" : "es",
+	"Synonym" : "aclarana",
+	"Spanish" : "alumbrar",
+	"Quichua" : "punchayachina",
+	"Source" : "lighten up (e.g. firefly), light up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "amanecena",
+	"PoS" : "verbo",
+	"Pron" : "ama'ʐana",
+	"Spell" : "amara",
+	"Sound" : "amarrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "amanecer",
+	"Quichua" : "punllayana",
+	"Source" : "dawn, brighten",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "amarrana",
+	"PoS" : "verbo",
+	"Pron" : "am'bɾena",
+	"Spell" : "ambrina",
+	"Sound" : "ambrena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "amarrar",
+	"Quichua" : "huatana",
+	"Source" : "tie up (e.g. with rope)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ambrena",
+	"PoS" : "verbo",
+	"Pron" : "amoɾʃti'wana",
+	"Spell" : "",
+	"Sound" : "amortiguana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tener hambre",
+	"Quichua" : "yarjana",
+	"Source" : "hungry (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "amortiguana",
+	"PoS" : "verbo",
+	"Pron" : "amo'tɾana",
+	"Spell" : "amostrana",
+	"Sound" : "amotrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "vichina, motrana",
+	"Spanish" : "amortiguar, dañar",
+	"Quichua" : "upayana, huaglina",
+	"Source" : "cushion, soften, break down",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "amotrana",
+	"PoS" : "verbo",
+	"Pron" : "anʧu'ɾina",
+	"Spell" : "",
+	"Sound" : "anchurina.mp3",
+	"Origin" : "es",
+	"Synonym" : "quitana, retirana, quichuna",
+	"Spanish" : "mostrar, indicar",
+	"Quichua" : "ricuchina",
+	"Source" : "show, show off, let something be seen",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "anchurina",
+	"PoS" : "verbo",
+	"Pron" : "ansia'ɾina",
+	"Spell" : "ansiarina",
+	"Sound" : "anciarina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "quitar, alejarse",
+	"Quichua" : "anchurina, llucshina",
+	"Source" : "leave, go away",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "anciarina",
+	"PoS" : "verbo",
+	"Pron" : "an'dana",
+	"Spell" : "",
+	"Sound" : "andana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tener ansia",
+	"Quichua" : "anciarina",
+	"Source" : "anxiety (have), stressed (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "andana",
+	"PoS" : "verbo",
+	"Pron" : "aŋgu'jana",
+	"Spell" : "",
+	"Sound" : "anguyana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "andar, caminar, ser",
+	"Quichua" : "purina",
+	"Source" : "walk, go, get around, be, go about",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "anguyana",
+	"PoS" : "verbo",
+	"Pron" : "ani'mana",
+	"Spell" : "",
+	"Sound" : "animana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "deshidratar, preservar, no dañar",
+	"Quichua" : "anguyana",
+	"Source" : "dehydrate, preserve, no go bad",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "animana",
+	"PoS" : "verbo",
+	"Pron" : "ano'tana",
+	"Spell" : "",
+	"Sound" : "anotana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "animar",
+	"Quichua" : "cushichina",
+	"Source" : "motivate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "anotana",
+	"PoS" : "verbo",
+	"Pron" : "apa'gana",
+	"Spell" : "",
+	"Sound" : "apagana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "anotar",
+	"Quichua" : "quilcana",
+	"Source" : "write down, take note",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "apagana",
+	"PoS" : "verbo",
+	"Pron" : "apaɾe'sena",
+	"Spell" : "",
+	"Sound" : "aparesena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "apagar",
+	"Quichua" : "huañuchyna",
+	"Source" : "turn off",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "aparesena",
+	"PoS" : "verbo",
+	"Pron" : "apla'nana",
+	"Spell" : "",
+	"Sound" : "aplanana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aparecer",
+	"Quichua" : "ricurina",
+	"Source" : "appear",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "aplanana",
+	"PoS" : "verbo",
+	"Pron" : "aplas'tana",
+	"Spell" : "",
+	"Sound" : "aplastana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aplanar",
+	"Quichua" : "llanbuyachina, aplanana",
+	"Source" : "flatten",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "aplastana",
+	"PoS" : "verbo",
+	"Pron" : "apos'tana",
+	"Spell" : "",
+	"Sound" : "apostana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aplastar",
+	"Quichua" : "apiyachina",
+	"Source" : "smash, crush",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "apostana",
+	"PoS" : "verbo",
+	"Pron" : "apo'jana",
+	"Spell" : "",
+	"Sound" : "apoyana.mp3",
+	"Origin" : "es",
+	"Synonym" : "sostenena",
+	"Spanish" : "apostar",
+	"Quichua" : "apostana",
+	"Source" : "bet",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "apoyana",
+	"PoS" : "verbo",
+	"Pron" : "apɾen'dina",
+	"Spell" : "aprendena",
+	"Sound" : "aprendina.mp3",
+	"Origin" : "es",
+	"Synonym" : "enseñana (yachana)",
+	"Spanish" : "apoyar, ayudar",
+	"Quichua" : "ayudana",
+	"Source" : "support, help out",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aprendina",
+	"PoS" : "verbo",
+	"Pron" : "apɾo'bana",
+	"Spell" : "",
+	"Sound" : "aprobana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aprender",
+	"Quichua" : "yachana, aprendina",
+	"Source" : "learn",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "aprobana",
+	"PoS" : "verbo",
+	"Pron" : "apun'tana",
+	"Spell" : "",
+	"Sound" : "apuntana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aprobar",
+	"Quichua" : "aprobana",
+	"Source" : "succeed, pass (e.g. an exam)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "apuntana",
+	"PoS" : "verbo",
+	"Pron" : "apu'ɾana",
+	"Spell" : "aporana",
+	"Sound" : "apurana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "apuntar, disparar",
+	"Quichua" : "apuntachina",
+	"Source" : "shoot, aim",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "apurana",
+	"PoS" : "verbo",
+	"Pron" : "a'ɾana",
+	"Spell" : "jarra",
+	"Sound" : "arana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "apurar, ir rápido",
+	"Quichua" : "apurana, utisana",
+	"Source" : "hurry, hurry up, hasten",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "arana",
+	"PoS" : "verbo",
+	"Pron" : "aɾan'kana",
+	"Spell" : "arrancana",
+	"Sound" : "arancana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arar",
+	"Quichua" : "yapuna",
+	"Source" : "plow (plough)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "arancana",
+	"PoS" : "verbo",
+	"Pron" : "aɾen'dana",
+	"Spell" : "arrendana",
+	"Sound" : "arendana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arrancar, pedacear, trozar",
+	"Quichua" : "fitina",
+	"Source" : "pull out, pull apart",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "arendana",
+	"PoS" : "verbo",
+	"Pron" : "aɾetia'ʧina",
+	"Spell" : "aretea",
+	"Sound" : "aretiachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arrendar",
+	"Quichua" : "arendana",
+	"Source" : "rent",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aretiachina",
+	"PoS" : "verbo",
+	"Pron" : "aɾma'ʧina",
+	"Spell" : "",
+	"Sound" : "armachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "bañana",
+	"Spanish" : "aretear (ej. a una vaca)",
+	"Quichua" : "aretiachina",
+	"Source" : "ear tag (e.g. an animal)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "armachina",
+	"PoS" : "verbo",
+	"Pron" : "aʐe'glana",
+	"Spell" : "",
+	"Sound" : "arreglana.mp3",
+	"Origin" : "k",
+	"Synonym" : "solucionana",
+	"Spanish" : "bañar",
+	"Quichua" : "armachina",
+	"Source" : "shower, bathe",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "arreglana",
+	"PoS" : "verbo",
+	"Pron" : "a'ʐiana",
+	"Spell" : "",
+	"Sound" : "arriana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arreglar, solucionar",
+	"Quichua" : "acomodana, alichina, arreglana",
+	"Source" : "arrange, fix up, tidy up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "arriana",
+	"PoS" : "verbo",
+	"Pron" : "aʐi'mana",
+	"Spell" : "",
+	"Sound" : "arrimana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arrear",
+	"Quichua" : "jarriana",
+	"Source" : "herd, drive (e.g. cattle)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "arrimana",
+	"PoS" : "verbo",
+	"Pron" : "a'sana",
+	"Spell" : "",
+	"Sound" : "asana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arrimar",
+	"Quichua" : "taunarina",
+	"Source" : "lean against, lean back",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "asana",
+	"PoS" : "verbo",
+	"Pron" : "asenta'ʧina",
+	"Spell" : "",
+	"Sound" : "asentachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "asar",
+	"Quichua" : "cusana",
+	"Source" : "roast, grill",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "asentachina",
+	"PoS" : "verbo",
+	"Pron" : "aso'mana",
+	"Spell" : "",
+	"Sound" : "asomana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "registrar, constar",
+	"Quichua" : "asintachina",
+	"Source" : "register, appear",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "asomana",
+	"PoS" : "verbo",
+	"Pron" : "ata'xana",
+	"Spell" : "",
+	"Sound" : "atajana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "asomar",
+	"Quichua" : "ricurina",
+	"Source" : "show up, appear",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "atajana",
+	"PoS" : "verbo",
+	"Pron" : "aten'dena",
+	"Spell" : "",
+	"Sound" : "atendena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "atrancar, atajar",
+	"Quichua" : "jarcana, na yalichina",
+	"Source" : "halt, head off",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "atendena",
+	"PoS" : "verbo",
+	"Pron" : "ati'nana",
+	"Spell" : "",
+	"Sound" : "atinana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "atender",
+	"Quichua" : "atendina",
+	"Source" : "cater, serve, attend to",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "atinana",
+	"PoS" : "verbo",
+	"Pron" : "ati'pana",
+	"Spell" : "",
+	"Sound" : "atipa.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "atinar",
+	"Quichua" : "atinana",
+	"Source" : "get right, understand",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "atipana",
+	"PoS" : "verbo",
+	"Pron" : "atɾan'kana",
+	"Spell" : "trancana",
+	"Sound" : "atrancana.mp3",
+	"Origin" : "k",
+	"Synonym" : "atrasana",
+	"Spanish" : "no hacer caso",
+	"Quichua" : "nacatsuna",
+	"Source" : "will not listen, does not listen",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "atrancana",
+	"PoS" : "verbo",
+	"Pron" : "atɾa'sana",
+	"Spell" : "",
+	"Sound" : "atrasana.mp3",
+	"Origin" : "es",
+	"Synonym" : "atrancana, retasiana",
+	"Spanish" : "atrapar, trancar, trabar",
+	"Quichua" : "trancana",
+	"Source" : "trap, catch, lock, get stuck",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "atrasana",
+	"PoS" : "verbo",
+	"Pron" : "aumen'tana",
+	"Spell" : "",
+	"Sound" : "aumentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "atrasar",
+	"Quichua" : "jipayana, atrasrina",
+	"Source" : "late (be), run late",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "aumentana",
+	"PoS" : "verbo",
+	"Pron" : "aβan'sana",
+	"Spell" : "avanzana",
+	"Sound" : "avansana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "incrementar, aumentar (ej. delincuencia)",
+	"Quichua" : "mirachina",
+	"Source" : "increase, rise (be on the), growing (e.g. crime)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "avansana",
+	"PoS" : "verbo",
+	"Pron" : "aβi'sana",
+	"Spell" : "avitsana, avizana",
+	"Sound" : "avisana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "avanzar, alcanzar",
+	"Quichua" : "ñaupana",
+	"Source" : "have enough (e.g., money), move, afford",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "avisana",
+	"PoS" : "verbo",
+	"Pron" : "aju'dana",
+	"Spell" : "aydana",
+	"Sound" : "ayudana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "avisar",
+	"Quichua" : "villana",
+	"Source" : "inform, notify, let know",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ayudana",
+	"PoS" : "verbo",
+	"Pron" : "a'zina",
+	"Spell" : "asina, hasina, hasena, hacina, hacena, azena, hazina, atsena, atsina, atina, asitana, asiasina, asetana, asena, acena",
+	"Sound" : "azina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ayudar",
+	"Quichua" : "aidana, yanapana",
+	"Source" : "help",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "azina",
+	"PoS" : "verbo",
+	"Pron" : "ba'siana",
+	"Spell" : "",
+	"Sound" : "baciana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer",
+	"Quichua" : "rurana",
+	"Source" : "do, make",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "baciana",
+	"PoS" : "verbo",
+	"Pron" : "bai'lana",
+	"Spell" : "baylana",
+	"Sound" : "bailana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "vaciar",
+	"Quichua" : "lugariachina",
+	"Source" : "empty",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "bailana",
+	"PoS" : "verbo",
+	"Pron" : "ba'xana",
+	"Spell" : "",
+	"Sound" : "bajana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "bailar",
+	"Quichua" : "tushuna",
+	"Source" : "dance",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "bajana",
+	"PoS" : "verbo",
+	"Pron" : "ba'lina",
+	"Spell" : "bale",
+	"Sound" : "balina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "bajar",
+	"Quichua" : "uriana",
+	"Source" : "lower, come down from",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "balina",
+	"PoS" : "verbo",
+	"Pron" : "ba'ɲana",
+	"Spell" : "",
+	"Sound" : "bañana.mp3",
+	"Origin" : "es",
+	"Synonym" : "armachina",
+	"Spanish" : "valer, costar, importar (importancia)",
+	"Quichua" : "balina",
+	"Source" : "matter, cost, important (be), good (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "bañana",
+	"PoS" : "verbo",
+	"Pron" : "ba'ʐina",
+	"Spell" : "barre",
+	"Sound" : "barrina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "bañar",
+	"Quichua" : "armachina",
+	"Source" : "shower, bathe",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "barrina",
+	"PoS" : "verbo",
+	"Pron" : "ba'tina",
+	"Spell" : "",
+	"Sound" : "batina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "barrer",
+	"Quichua" : "fichana",
+	"Source" : "sweep",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "batina",
+	"PoS" : "verbo",
+	"Pron" : "bauti'zana",
+	"Spell" : "bautisa",
+	"Sound" : "bautizana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "batir",
+	"Quichua" : "cabina",
+	"Source" : "shake",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "bautizana",
+	"PoS" : "verbo",
+	"Pron" : "be'bina",
+	"Spell" : "bebena, vivina",
+	"Sound" : "bebina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "bautizar",
+	"Quichua" : "bautizana",
+	"Source" : "baptize",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "bebina",
+	"PoS" : "verbo",
+	"Pron" : "bense'ɾina",
+	"Spell" : "",
+	"Sound" : "bencerina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "beber, tomar (líquido)",
+	"Quichua" : "ufiana",
+	"Source" : "drink",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "bencerina",
+	"PoS" : "verbo",
+	"Pron" : "bi'nina",
+	"Spell" : "benena, pinina, venena, benina",
+	"Sound" : "binina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "renunciar, vencer",
+	"Quichua" : "benserina",
+	"Source" : "give up, resign, defeat",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "binina",
+	"PoS" : "verbo",
+	"Pron" : "blan'dana",
+	"Spell" : "ablandana",
+	"Sound" : "blandana.mp3",
+	"Origin" : "es",
+	"Synonym" : "suaviyachina",
+	"Spanish" : "venir",
+	"Quichua" : "shamuna",
+	"Source" : "come",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "blandana",
+	"PoS" : "verbo",
+	"Pron" : "bo'dana",
+	"Spell" : "",
+	"Sound" : "bodana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ablandar, suavizar",
+	"Quichua" : "amucjachina",
+	"Source" : "soften",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "bodana",
+	"PoS" : "verbo",
+	"Pron" : "bol'sana",
+	"Spell" : "",
+	"Sound" : "bolsana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dar colada",
+	"Quichua" : "budana",
+	"Source" : "give wedding soup",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "bolsana",
+	"PoS" : "verbo",
+	"Pron" : "bomi'tana",
+	"Spell" : "vomitana",
+	"Sound" : "bomitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "poner cosas en un costal",
+	"Quichua" : "cushtalana",
+	"Source" : "put things in a burlap bag",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "bomitana",
+	"PoS" : "verbo",
+	"Pron" : "boɾ'dana",
+	"Spell" : "borrdana",
+	"Sound" : "bordana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "vomitar",
+	"Quichua" : "gomitana, lansana",
+	"Source" : "vomit, puke, throw up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "bordana",
+	"PoS" : "verbo",
+	"Pron" : "bo'ʐana",
+	"Spell" : "vorrana",
+	"Sound" : "borrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "bordar",
+	"Quichua" : "bordana, sirana",
+	"Source" : "embroider, stitch",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "borrana",
+	"PoS" : "verbo",
+	"Pron" : "bo'tana",
+	"Spell" : "votana",
+	"Sound" : "botana.mp3",
+	"Origin" : "es",
+	"Synonym" : "echana, tirana",
+	"Spanish" : "borrar",
+	"Quichua" : "borrana, fichana",
+	"Source" : "erase",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "botana (echana)",
+	"PoS" : "verbo",
+	"Pron" : "bo'tana",
+	"Spell" : "botana",
+	"Sound" : "botana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "botar, arrojar, lanzar, tirar, echar",
+	"Quichua" : "saquina, shitana",
+	"Source" : "toss, throw, throw away",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "botana (eleccionpi)",
+	"PoS" : "verbo",
+	"Pron" : "bɾi'ʒana",
+	"Spell" : "brishana",
+	"Sound" : "brillana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "votar",
+	"Quichua" : "shitana",
+	"Source" : "vote",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "brillana",
+	"PoS" : "verbo",
+	"Pron" : "bɾin'kana",
+	"Spell" : "",
+	"Sound" : "brincana.mp3",
+	"Origin" : "es",
+	"Synonym" : "saltana",
+	"Spanish" : "brillar",
+	"Quichua" : "relumbrana",
+	"Source" : "shine",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "brincana",
+	"PoS" : "verbo",
+	"Pron" : "bɾin'dana",
+	"Spell" : "",
+	"Sound" : "brindana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "brincar, saltar",
+	"Quichua" : "fahuana, brincana",
+	"Source" : "jump, leap, skip",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "brindana",
+	"PoS" : "verbo",
+	"Pron" : "bɾu'xiana",
+	"Spell" : "",
+	"Sound" : "brujiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "brindar, dar",
+	"Quichua" : "carana",
+	"Source" : "give, provide something, offer",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "brujiana",
+	"PoS" : "verbo",
+	"Pron" : "bu'ʐana",
+	"Spell" : "",
+	"Sound" : "burrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer brujería, hacer hechicería",
+	"Quichua" : "brujiana",
+	"Source" : "prefer witchcraft",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "burrana",
+	"PoS" : "verbo",
+	"Pron" : "bus'kana",
+	"Spell" : "boscana",
+	"Sound" : "buscana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "borrar",
+	"Quichua" : "burrana",
+	"Source" : "erase",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "buscana",
+	"PoS" : "verbo",
+	"Pron" : "ka'bana",
+	"Spell" : "cabana",
+	"Sound" : "cabana.mp3",
+	"Origin" : "es",
+	"Synonym" : "gualena",
+	"Spanish" : "buscar",
+	"Quichua" : "mascana",
+	"Source" : "find, look for, search",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cabana",
+	"PoS" : "verbo",
+	"Pron" : "ka'kana",
+	"Spell" : "",
+	"Sound" : "cacana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cavar",
+	"Quichua" : "allana, gualina",
+	"Source" : "dig, shape land",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cacana",
+	"PoS" : "verbo",
+	"Pron" : "kaina",
+	"Spell" : "caena, cayna, cayina",
+	"Sound" : "caina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cacar, defecar",
+	"Quichua" : "ismana, cacana",
+	"Source" : "poo, defecate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "caina",
+	"PoS" : "verbo",
+	"Pron" : "kai'nana",
+	"Spell" : "caynana",
+	"Sound" : "cainana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "caer",
+	"Quichua" : "urmana",
+	"Source" : "fall, drip",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cainana",
+	"PoS" : "verbo",
+	"Pron" : "kalen'tana",
+	"Spell" : "calintana",
+	"Sound" : "calentana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "pasar tiempo",
+	"Quichua" : "cainana",
+	"Source" : "spend time",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "calentana",
+	"PoS" : "verbo",
+	"Pron" : "kal'mana",
+	"Spell" : "",
+	"Sound" : "calmana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "calentar",
+	"Quichua" : "cununa",
+	"Source" : "warm up, heat up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "calmana",
+	"PoS" : "verbo",
+	"Pron" : "kam'biana",
+	"Spell" : "canbiana",
+	"Sound" : "cambiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "calmar",
+	"Quichua" : "na nanana, calmana",
+	"Source" : "calm down",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cambiana",
+	"PoS" : "verbo",
+	"Pron" : "kami'nana",
+	"Spell" : "",
+	"Sound" : "caminana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cambiar",
+	"Quichua" : "cambiana",
+	"Source" : "change",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "caminana",
+	"PoS" : "verbo",
+	"Pron" : "'kana",
+	"Spell" : "",
+	"Sound" : "cana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "caminar",
+	"Quichua" : "purina",
+	"Source" : "walk",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cana",
+	"PoS" : "verbo",
+	"Pron" : "ka'nina",
+	"Spell" : "",
+	"Sound" : "canina.mp3",
+	"Origin" : "k",
+	"Synonym" : "mordina",
+	"Spanish" : "ser, estar",
+	"Quichua" : "cana",
+	"Source" : "be",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "canina",
+	"PoS" : "verbo",
+	"Pron" : "kansa'ɾina",
+	"Spell" : "canshana",
+	"Sound" : "cansarina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "morder, picar",
+	"Quichua" : "canina",
+	"Source" : "bite",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cansarina",
+	"PoS" : "verbo",
+	"Pron" : "kan'tana",
+	"Spell" : "",
+	"Sound" : "cantana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cansar",
+	"Quichua" : "shayajurina",
+	"Source" : "tire",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cantana",
+	"PoS" : "verbo",
+	"Pron" : "ka'pana",
+	"Spell" : "",
+	"Sound" : "capana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cantar",
+	"Quichua" : "cantana, tacina",
+	"Source" : "sing",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "capana",
+	"PoS" : "verbo",
+	"Pron" : "kaɾ'dana",
+	"Spell" : "",
+	"Sound" : "cardana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "castrar",
+	"Quichua" : "capana",
+	"Source" : "castrate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cardana",
+	"PoS" : "verbo",
+	"Pron" : "kaɾ'gana",
+	"Spell" : "",
+	"Sound" : "cargana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cardar (lana)",
+	"Quichua" : "cardana",
+	"Source" : "card (wool)",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "cargana",
+	"PoS" : "verbo",
+	"Pron" : "kaɾgu'ʧina",
+	"Spell" : "cargochina",
+	"Sound" : "carguchina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cargar, transportar",
+	"Quichua" : "aparina",
+	"Source" : "carry, transport, load, unload",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "carguchina",
+	"PoS" : "verbo",
+	"Pron" : "kasa'ɾana",
+	"Spell" : "",
+	"Sound" : "casarana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer cargo, tener responsabilidad",
+	"Quichua" : "carguchina",
+	"Source" : "take responsibility for",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "casarana",
+	"PoS" : "verbo",
+	"Pron" : "ka'sona",
+	"Spell" : "cazona, casuna, casuna, catsona, catsuna, cazuna",
+	"Sound" : "casona.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "casar",
+	"Quichua" : "sahuarina, casarana",
+	"Source" : "marry",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "casona (atento)",
+	"PoS" : "verbo",
+	"Pron" : "ka'sona",
+	"Spell" : "cazona, casuna, casuna, catsona, catsuna, cazuna",
+	"Sound" : "casona.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer caso, apreciar",
+	"Quichua" : "casuna",
+	"Source" : "pay attention to, appreciate",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "casona (obedesena)",
+	"PoS" : "verbo",
+	"Pron" : "kasti'gana",
+	"Spell" : "",
+	"Sound" : "castigana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "obedecer",
+	"Quichua" : "casuna",
+	"Source" : "obey",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "castigana",
+	"PoS" : "verbo",
+	"Pron" : "kai'mona",
+	"Spell" : "",
+	"Sound" : "caymona.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "castigar",
+	"Quichua" : "cashtigana",
+	"Source" : "punish",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "caymona",
+	"PoS" : "verbo",
+	"Pron" : "sepi'ʒana",
+	"Spell" : "",
+	"Sound" : "cepillana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "caer, caer hacia",
+	"Quichua" : "urmamuna",
+	"Source" : "fall, fall towards",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cepillana",
+	"PoS" : "verbo",
+	"Pron" : "seɾ'kana",
+	"Spell" : "sercana",
+	"Sound" : "cercana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cepillar (dientes o tablones de madera)",
+	"Quichua" : "cepillana, maillana",
+	"Source" : "brush",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cercana",
+	"PoS" : "verbo",
+	"Pron" : "seɾ'nina",
+	"Spell" : "",
+	"Sound" : "cernina.mp3",
+	"Origin" : "es",
+	"Synonym" : "ajichana",
+	"Spanish" : "hacer una cerca o un alambrado",
+	"Quichua" : "cercana",
+	"Source" : "build a fence",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cernina",
+	"PoS" : "verbo",
+	"Pron" : "se'ʐana",
+	"Spell" : "",
+	"Sound" : "cerrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ahichar, cernir, colar",
+	"Quichua" : "shushuna",
+	"Source" : "strain, sift, sieve",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cerrana",
+	"PoS" : "verbo",
+	"Pron" : "ʧamus'kana",
+	"Spell" : "",
+	"Sound" : "chamuscana.mp3",
+	"Origin" : "es",
+	"Synonym" : "quemana",
+	"Spanish" : "cerrar",
+	"Quichua" : "bichiyana",
+	"Source" : "close",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chamuscana",
+	"PoS" : "verbo",
+	"Pron" : "ʧa'pana",
+	"Spell" : "",
+	"Sound" : "chapana.mp3",
+	"Origin" : "es",
+	"Synonym" : "vena",
+	"Spanish" : "chamuscar, quemar",
+	"Quichua" : "chamuscana",
+	"Source" : "singe, burn, scorch",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "chapana",
+	"PoS" : "verbo",
+	"Pron" : "ʧi'ʧina",
+	"Spell" : "chiche",
+	"Sound" : "chichi.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "ver, vigilar",
+	"Quichua" : "chapana",
+	"Source" : "watch, look at, see, keep an eye on",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "chichina",
+	"PoS" : "verbo",
+	"Pron" : "ʧi'ʒana",
+	"Spell" : "",
+	"Sound" : "chillana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "seno, chichi",
+	"Quichua" : "chuchu",
+	"Source" : "breast",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chillana",
+	"PoS" : "verbo",
+	"Pron" : "ʧil'pina",
+	"Spell" : "",
+	"Sound" : "chilpina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "chillar",
+	"Quichua" : "huacana",
+	"Source" : "scream, yell",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chilpina",
+	"PoS" : "verbo",
+	"Pron" : "ʧiɾi'ʧina",
+	"Spell" : "",
+	"Sound" : "chirichina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "cortar",
+	"Quichua" : "chilpina",
+	"Source" : "cut",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chirichina",
+	"PoS" : "verbo",
+	"Pron" : "ʧi'ɾina",
+	"Spell" : "",
+	"Sound" : "chirina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "hacer frío",
+	"Quichua" : "chirichina",
+	"Source" : "become cold, be cold",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chirina",
+	"PoS" : "verbo",
+	"Pron" : "ʧi'ʃiana",
+	"Spell" : "chishiyana",
+	"Sound" : "chishiana.mp3",
+	"Origin" : "k",
+	"Synonym" : "tardiana",
+	"Spanish" : "enfriar",
+	"Quichua" : "chirina",
+	"Source" : "cool, cold (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chishiana",
+	"PoS" : "verbo",
+	"Pron" : "ʧuk'ʧina",
+	"Spell" : "",
+	"Sound" : "chucchina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "hacer tarde, pasar el día",
+	"Quichua" : "chishiana",
+	"Source" : "late in the day (become), spend the day",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chucchina",
+	"PoS" : "verbo",
+	"Pron" : "ʧu'mana",
+	"Spell" : "",
+	"Sound" : "chumana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "recoger granos",
+	"Quichua" : "chucchina",
+	"Source" : "collect grains",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chumana",
+	"PoS" : "verbo",
+	"Pron" : "ʧuŋ'gana",
+	"Spell" : "",
+	"Sound" : "chungana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "chumarse, emborracharse",
+	"Quichua" : "chumana, machana",
+	"Source" : "get drunk",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chungana",
+	"PoS" : "verbo",
+	"Pron" : "ʧunu'jana",
+	"Spell" : "",
+	"Sound" : "chunuyana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "jugar",
+	"Quichua" : "chungana",
+	"Source" : "play",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "chunuyana",
+	"PoS" : "verbo",
+	"Pron" : "ʧu'pana",
+	"Spell" : "",
+	"Sound" : "chupana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "arrugar",
+	"Quichua" : "chunuyana",
+	"Source" : "wrinkle",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "chupana",
+	"PoS" : "verbo",
+	"Pron" : "kla'bana",
+	"Spell" : "clavana",
+	"Sound" : "clabana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "chupar, beber (alcohol), fumar",
+	"Quichua" : "chupana, ~micuna",
+	"Source" : "drink (alcohol), suck, smoke",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "clabana",
+	"PoS" : "verbo",
+	"Pron" : "kobi'xana",
+	"Spell" : "",
+	"Sound" : "cobijana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "clavar",
+	"Quichua" : "clabana",
+	"Source" : "nail, nail down",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cobijana",
+	"PoS" : "verbo",
+	"Pron" : "ko'bɾana",
+	"Spell" : "cubrana",
+	"Sound" : "cobrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cobijar",
+	"Quichua" : "fachalechina",
+	"Source" : "blanket, cover with a blanket, get under the covers",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cobrana",
+	"PoS" : "verbo",
+	"Pron" : "kodi'siana",
+	"Spell" : "",
+	"Sound" : "codisiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cobrar",
+	"Quichua" : "cobrana",
+	"Source" : "charge (money)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "codisiana",
+	"PoS" : "verbo",
+	"Pron" : "ko'gina",
+	"Spell" : "cogena, coguina, cogyna, cojina, cujina",
+	"Sound" : "cogina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "codiciar, envidiar",
+	"Quichua" : "ansiutso (verbota na canchu)",
+	"Source" : "jealous (be), covet, envy (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cogina",
+	"PoS" : "verbo",
+	"Pron" : "kole'ɾana",
+	"Spell" : "",
+	"Sound" : "colerana.mp3",
+	"Origin" : "es",
+	"Synonym" : "enojana, pujana, aborrina, resentina",
+	"Spanish" : "coger, tomar",
+	"Quichua" : "japina",
+	"Source" : "take, grab",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "colerana",
+	"PoS" : "verbo",
+	"Pron" : "kol'gana",
+	"Spell" : "",
+	"Sound" : "colgana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enojar",
+	"Quichua" : "colerana",
+	"Source" : "angry (be), angry (become)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "colgana",
+	"PoS" : "verbo",
+	"Pron" : "kol'mana",
+	"Spell" : "culmana",
+	"Sound" : "colmana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "colgar",
+	"Quichua" : "huaruna",
+	"Source" : "hang, hang up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "colmana",
+	"PoS" : "verbo",
+	"Pron" : "kombe'nina",
+	"Spell" : "convina",
+	"Sound" : "combenina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "colmar, llenar (ej. con tierra)",
+	"Quichua" : "culmana",
+	"Source" : "fill in, lay down soil",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "combenina (combeniente)",
+	"PoS" : "verbo",
+	"Pron" : "kombeɾ'sana",
+	"Spell" : "comversana, conbersana, conversana",
+	"Sound" : "combersana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "convenir",
+	"Quichua" : "combenina",
+	"Source" : "interest (be in one's)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "combersana",
+	"PoS" : "verbo",
+	"Pron" : "kombi'dana",
+	"Spell" : "convidana",
+	"Sound" : "combidana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "conversar",
+	"Quichua" : "parlana",
+	"Source" : "talk, chat",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "combidana",
+	"PoS" : "verbo",
+	"Pron" : "ko'mena",
+	"Spell" : "comina, cumina, comyna",
+	"Sound" : "comena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "convidar, dar, compartir",
+	"Quichua" : "carana",
+	"Source" : "gift, give, share",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "comena",
+	"PoS" : "verbo",
+	"Pron" : "komen'sana",
+	"Spell" : "comentsana",
+	"Sound" : "comensana.mp3",
+	"Origin" : "es",
+	"Synonym" : "iniciana, empezana",
+	"Spanish" : "comer",
+	"Quichua" : "micuna",
+	"Source" : "eat",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "comensana",
+	"PoS" : "verbo",
+	"Pron" : "kompa'ɲana",
+	"Spell" : "",
+	"Sound" : "compañana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "comenzar",
+	"Quichua" : "callarina",
+	"Source" : "start, begin",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "compañana",
+	"PoS" : "verbo",
+	"Pron" : "komple'tana",
+	"Spell" : "",
+	"Sound" : "completana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "acompañar",
+	"Quichua" : "campañana",
+	"Source" : "accompany, go with someone",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "completana",
+	"PoS" : "verbo",
+	"Pron" : "kom'plina",
+	"Spell" : "cumplina",
+	"Sound" : "complina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "completar",
+	"Quichua" : "rurana, pactachina",
+	"Source" : "complete, finish",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "complina",
+	"PoS" : "verbo",
+	"Pron" : "kompɾen'dena",
+	"Spell" : "comprendina",
+	"Sound" : "comprendena.mp3",
+	"Origin" : "es",
+	"Synonym" : "intindina",
+	"Spanish" : "cumplir",
+	"Quichua" : "complina",
+	"Source" : "fulfill, realize, turn (e.g. a given age)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "comprendena",
+	"PoS" : "verbo",
+	"Pron" : "komuni'kana",
+	"Spell" : "",
+	"Sound" : "comunicana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "comprender",
+	"Quichua" : "intindina",
+	"Source" : "understand",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "comunicana",
+	"PoS" : "verbo",
+	"Pron" : "konsen'tɾana",
+	"Spell" : "",
+	"Sound" : "concentrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "comunicar",
+	"Quichua" : "billana",
+	"Source" : "communicate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "concentrana",
+	"PoS" : "verbo",
+	"Pron" : "konfeksio'nana",
+	"Spell" : "",
+	"Sound" : "confeccionana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "concentrar",
+	"Quichua" : "concentrana",
+	"Source" : "concentrate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "confeccionana",
+	"PoS" : "verbo",
+	"Pron" : "konfun'dena",
+	"Spell" : "",
+	"Sound" : "confundena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "confeccionar, hacer",
+	"Quichua" : "rurana (ej. churana)",
+	"Source" : "tailor, make (e.g. clothing items)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "confundena",
+	"PoS" : "verbo",
+	"Pron" : "koŋge'lana",
+	"Spell" : "",
+	"Sound" : "congelana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "confundirse, equivocarse",
+	"Quichua" : "pantana",
+	"Source" : "confuse",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "congelana",
+	"PoS" : "verbo",
+	"Pron" : "kono'sena",
+	"Spell" : "conosena, conosina",
+	"Sound" : "conocena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "congelar",
+	"Quichua" : "chirina, infriachina",
+	"Source" : "freeze",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "conocena",
+	"PoS" : "verbo",
+	"Pron" : "konpaɾs'tena",
+	"Spell" : "conparstina, compartena",
+	"Sound" : "conparstena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "conocer",
+	"Quichua" : "ricsina",
+	"Source" : "know, meet",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "conparstena",
+	"PoS" : "verbo",
+	"Pron" : "konpo'nina",
+	"Spell" : "componena, componyna, conponyna, componina",
+	"Sound" : "conponina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "compartir",
+	"Quichua" : "carana",
+	"Source" : "share",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "conponina",
+	"PoS" : "verbo",
+	"Pron" : "kon'pɾana",
+	"Spell" : "comprana",
+	"Sound" : "conprana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "componer, arreglar",
+	"Quichua" : "arreglana",
+	"Source" : "put together, fix, repair",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "conprana",
+	"PoS" : "verbo",
+	"Pron" : "konse'xana",
+	"Spell" : "",
+	"Sound" : "consejana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "comprar",
+	"Quichua" : "randina",
+	"Source" : "buy",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "consejana",
+	"PoS" : "verbo",
+	"Pron" : "kons'tana",
+	"Spell" : "",
+	"Sound" : "constana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aconsejar",
+	"Quichua" : "consejana",
+	"Source" : "advise",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "constana",
+	"PoS" : "verbo",
+	"Pron" : "kontami'nana",
+	"Spell" : "",
+	"Sound" : "contaminana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "constar",
+	"Quichua" : "ricuna",
+	"Source" : "verify, make known, listed (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "contaminana",
+	"PoS" : "verbo",
+	"Pron" : "kon'tana",
+	"Spell" : "",
+	"Sound" : "contana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "contaminar",
+	"Quichua" : "contaminana",
+	"Source" : "pollute, contaminate",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "contana (numerana)",
+	"PoS" : "verbo",
+	"Pron" : "kon'tana",
+	"Spell" : "cuntana",
+	"Sound" : "contana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "contar (ej. dinero)",
+	"Quichua" : "yupana",
+	"Source" : "count, take into account",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "contana (tsina)",
+	"PoS" : "verbo",
+	"Pron" : "konten'tana",
+	"Spell" : "",
+	"Sound" : "contentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "contar (ej. cuentos)",
+	"Quichua" : "parlana",
+	"Source" : "tell (e.g. a story)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "contentana",
+	"PoS" : "verbo",
+	"Pron" : "kontes'tana",
+	"Spell" : "",
+	"Sound" : "contestana.mp3",
+	"Origin" : "es",
+	"Synonym" : "respondina",
+	"Spanish" : "contentar, conformar",
+	"Quichua" : "cushijuna",
+	"Source" : "happy (be), conform",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "contestana",
+	"PoS" : "verbo",
+	"Pron" : "kontɾa'tana",
+	"Spell" : "",
+	"Sound" : "contratana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "contestar, responder",
+	"Quichua" : "cutinchina, contestana",
+	"Source" : "answer, respond",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "contratana",
+	"PoS" : "verbo",
+	"Pron" : "kontɾo'lana",
+	"Spell" : "",
+	"Sound" : "controlana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "contratar",
+	"Quichua" : "cuntratana",
+	"Source" : "hire, contract",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "controlana",
+	"PoS" : "verbo",
+	"Pron" : "konβen'sina",
+	"Spell" : "",
+	"Sound" : "convencina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "controlar",
+	"Quichua" : "controlana, jarcana",
+	"Source" : "control",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "convencina",
+	"PoS" : "verbo",
+	"Pron" : "konβi'βina",
+	"Spell" : "",
+	"Sound" : "convivina .mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "convencer",
+	"Quichua" : "convencina",
+	"Source" : "convince, persuade",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "convivina",
+	"PoS" : "verbo",
+	"Pron" : "ko'ʐena",
+	"Spell" : "currina, corina, corrina",
+	"Sound" : "correna.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "convivir (vivir juntos)",
+	"Quichua" : "tandanajushpa causana",
+	"Source" : "live together",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "correna",
+	"PoS" : "verbo",
+	"Pron" : "koʐe'tiana",
+	"Spell" : "",
+	"Sound" : "corretiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "correr",
+	"Quichua" : "calpana",
+	"Source" : "run",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "corretiana",
+	"PoS" : "verbo",
+	"Pron" : "ko'ʐina",
+	"Spell" : "",
+	"Sound" : "corrina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "corretear",
+	"Quichua" : "bulana",
+	"Source" : "run around",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "corrina",
+	"PoS" : "verbo",
+	"Pron" : "koʐ'tana",
+	"Spell" : "cortana",
+	"Sound" : "corrtana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "correr",
+	"Quichua" : "calpana",
+	"Source" : "run",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "corrtana",
+	"PoS" : "verbo",
+	"Pron" : "kos'tana",
+	"Spell" : "",
+	"Sound" : "costana.mp3",
+	"Origin" : "es",
+	"Synonym" : "gashtana, valina (preciopa)",
+	"Spanish" : "cortar",
+	"Quichua" : "cuchuna",
+	"Source" : "cut",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "costana",
+	"PoS" : "verbo",
+	"Pron" : "kostum'bɾena",
+	"Spell" : "",
+	"Sound" : "costumbrena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "costar, valer, gastar",
+	"Quichua" : "gashtana, valina",
+	"Source" : "cost, waste",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "costumbrena",
+	"PoS" : "verbo",
+	"Pron" : "koze'ʧana",
+	"Spell" : "cosichana, cosechana",
+	"Sound" : "cotsechana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "acostumbrar",
+	"Quichua" : "costumbrana",
+	"Source" : "adjust to something",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cotsechana",
+	"PoS" : "verbo",
+	"Pron" : "koz'nana",
+	"Spell" : "cusna, cozinana, cozina, cozna, cotsna, cotsinana, cotsena, cosna, cosinena, conzana, conzina, conzana",
+	"Sound" : "coznana.mp3",
+	"Origin" : "es",
+	"Synonym" : "yanuna",
+	"Spanish" : "cosechar",
+	"Quichua" : "cosechana",
+	"Source" : "harvest",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "coznana",
+	"PoS" : "verbo",
+	"Pron" : "'kɾeana",
+	"Spell" : "criana, criyana",
+	"Sound" : "creana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cocinar",
+	"Quichua" : "yunana",
+	"Source" : "cook",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "creana",
+	"PoS" : "verbo",
+	"Pron" : "'kɾeina",
+	"Spell" : "creena, crina",
+	"Sound" : "creina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "criar",
+	"Quichua" : "jatunyana",
+	"Source" : "raise (e.g. child, livestock)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "creina",
+	"PoS" : "verbo",
+	"Pron" : "kɾe'sena",
+	"Spell" : "cresina",
+	"Sound" : "cresena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "creer",
+	"Quichua" : "crina",
+	"Source" : "believe",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cresena",
+	"PoS" : "verbo",
+	"Pron" : "kɾu'sana",
+	"Spell" : "cruzana",
+	"Sound" : "crusana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "crecer",
+	"Quichua" : "viñana",
+	"Source" : "grow",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "crusana",
+	"PoS" : "verbo",
+	"Pron" : "kɾusifi'kana",
+	"Spell" : "",
+	"Sound" : "crusificana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cruzar",
+	"Quichua" : "crusana",
+	"Source" : "cross",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "crusificana",
+	"PoS" : "verbo",
+	"Pron" : "kue'ɾiana",
+	"Spell" : "",
+	"Sound" : "cueriana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "crucificar",
+	"Quichua" : "crusificana",
+	"Source" : "crucify",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cueriana",
+	"PoS" : "verbo",
+	"Pron" : "kui'dana",
+	"Spell" : "cuydana",
+	"Sound" : "cuidana.mp3",
+	"Origin" : "es",
+	"Synonym" : "protegena",
+	"Spanish" : "cuerear, dar fuete, azotar, latigar, dar una paliza",
+	"Quichua" : "astina",
+	"Source" : "whip, punish",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cuidana",
+	"PoS" : "verbo",
+	"Pron" : "kul'pana",
+	"Spell" : "",
+	"Sound" : "culpana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cuidar",
+	"Quichua" : "cuidana, ricuna",
+	"Source" : "care for, take care of",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "culpana",
+	"PoS" : "verbo",
+	"Pron" : "kulti'βana",
+	"Spell" : "",
+	"Sound" : "cultivana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "culpar",
+	"Quichua" : "culpana",
+	"Source" : "accuse, blame",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cultivana",
+	"PoS" : "verbo",
+	"Pron" : "kum'plena",
+	"Spell" : "",
+	"Sound" : "cumplena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cultivar",
+	"Quichua" : "tarpuna",
+	"Source" : "cultivate, plant",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cumplena",
+	"PoS" : "verbo",
+	"Pron" : "kuŋ'gana",
+	"Spell" : "congana",
+	"Sound" : "cungana.mp3",
+	"Origin" : "es",
+	"Synonym" : "olvidana",
+	"Spanish" : "cumplir",
+	"Quichua" : "cumplena",
+	"Source" : "finish, carry out, fulfill",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "cungana",
+	"PoS" : "verbo",
+	"Pron" : "kuŋ'guna",
+	"Spell" : "",
+	"Sound" : "cunguna.mp3",
+	"Origin" : "k",
+	"Synonym" : "rodillana",
+	"Spanish" : "olvidar",
+	"Quichua" : "cungana",
+	"Source" : "forget",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cunguna",
+	"PoS" : "verbo",
+	"Pron" : "ku'ɾana",
+	"Spell" : "kurana, jurana",
+	"Sound" : "curana.mp3",
+	"Origin" : "k",
+	"Synonym" : "sanana, jambina, rehabilitana",
+	"Spanish" : "arrodillarse",
+	"Quichua" : "cunguna",
+	"Source" : "kneel",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "curana",
+	"PoS" : "verbo",
+	"Pron" : "ku'tana",
+	"Spell" : "",
+	"Sound" : "cutana.mp3",
+	"Origin" : "es",
+	"Synonym" : "molina, remolina",
+	"Spanish" : "curar",
+	"Quichua" : "jambina",
+	"Source" : "cure, remedy",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cutana",
+	"PoS" : "verbo",
+	"Pron" : "kuju'ʧina",
+	"Spell" : "",
+	"Sound" : "cuyuchina.mp3",
+	"Origin" : "k",
+	"Synonym" : "movichina",
+	"Spanish" : "moler",
+	"Quichua" : "cutana",
+	"Source" : "grind",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "cuyuchina",
+	"PoS" : "verbo",
+	"Pron" : "'dana",
+	"Spell" : "",
+	"Sound" : "dana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "mover, girar",
+	"Quichua" : "cuyuchina",
+	"Source" : "move, rotate, turn",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "dana",
+	"PoS" : "verbo",
+	"Pron" : "da'ɲana",
+	"Spell" : "",
+	"Sound" : "dañana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dar",
+	"Quichua" : "cuna, cara",
+	"Source" : "give",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "dañana",
+	"PoS" : "verbo",
+	"Pron" : "debili'tana",
+	"Spell" : "",
+	"Sound" : "debilitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dañar",
+	"Quichua" : "huaglina",
+	"Source" : "break, damage, ruin, spoil",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "debilitana",
+	"PoS" : "verbo",
+	"Pron" : "debu'xana",
+	"Spell" : "dibujana",
+	"Sound" : "debujana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "debilitar",
+	"Quichua" : "irquiyana",
+	"Source" : "weaken, debilitate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "debujana",
+	"PoS" : "verbo",
+	"Pron" : "de'diana",
+	"Spell" : "",
+	"Sound" : "dediana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dibujar",
+	"Quichua" : "dibujana, shuyana",
+	"Source" : "draw",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "dediana",
+	"PoS" : "verbo",
+	"Pron" : "defen'dena",
+	"Spell" : "",
+	"Sound" : "defendena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer de día",
+	"Quichua" : "punchayana",
+	"Source" : "become daytime",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "defendena",
+	"PoS" : "verbo",
+	"Pron" : "de'xana",
+	"Spell" : "dijana",
+	"Sound" : "dejana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "defender, proteger",
+	"Quichua" : "defendina",
+	"Source" : "defend, protect",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "dejana",
+	"PoS" : "verbo",
+	"Pron" : "de'xando",
+	"Spell" : "",
+	"Sound" : "dejando.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dejar",
+	"Quichua" : "saquina",
+	"Source" : "leave",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "dejando",
+	"PoS" : "verbo",
+	"Pron" : "deman'tana",
+	"Spell" : "",
+	"Sound" : "demandana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dejando",
+	"Quichua" : "saquishpa",
+	"Source" : "leaving, leaving behind",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "demandana",
+	"PoS" : "verbo",
+	"Pron" : "demo'ɾana",
+	"Spell" : "",
+	"Sound" : "demorana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "demandar, denunciar",
+	"Quichua" : "demandana",
+	"Source" : "report, sue",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "demorana",
+	"PoS" : "verbo",
+	"Pron" : "den'tɾana",
+	"Spell" : "",
+	"Sound" : "dentrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "entrana, ingresana",
+	"Spanish" : "demorar, tardar",
+	"Quichua" : "tardana, na utiya",
+	"Source" : "delay, take time",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "dentrana",
+	"PoS" : "verbo",
+	"Pron" : "depen'dena",
+	"Spell" : "",
+	"Sound" : "dependena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "entrar",
+	"Quichua" : "yaicuna",
+	"Source" : "enter, go in",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "dependena",
+	"PoS" : "verbo",
+	"Pron" : "deposi'tana",
+	"Spell" : "",
+	"Sound" : "depositana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "depender de",
+	"Quichua" : "dependena",
+	"Source" : "depend on",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "depositana",
+	"PoS" : "verbo",
+	"Pron" : "deʐum'bana",
+	"Spell" : "",
+	"Sound" : "derrumbana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "depositar",
+	"Quichua" : "depositana",
+	"Source" : "deposit",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "derrumbana",
+	"PoS" : "verbo",
+	"Pron" : "desani'mana",
+	"Spell" : "",
+	"Sound" : "desanimana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "derrumbar",
+	"Quichua" : "tunirina",
+	"Source" : "tear down, bring down, knock down, collapse, fall down",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "desanimana",
+	"PoS" : "verbo",
+	"Pron" : "desapaɾe'sina",
+	"Spell" : "desaparesena",
+	"Sound" : "desaparesina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "desanimar",
+	"Quichua" : "na munana",
+	"Source" : "loose interest, discourage",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desaparesina",
+	"PoS" : "verbo",
+	"Pron" : "desaju'nana",
+	"Spell" : "desayuna",
+	"Sound" : "desayunana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "desaparecer",
+	"Quichua" : "chingana",
+	"Source" : "disappear",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desayunana",
+	"PoS" : "verbo",
+	"Pron" : "deskan'sana",
+	"Spell" : "",
+	"Sound" : "descansana.mp3",
+	"Origin" : "es",
+	"Synonym" : "samana",
+	"Spanish" : "desayunar",
+	"Quichua" : "ansa micuna",
+	"Source" : "have breakfast, eat breakfast",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "descansana",
+	"PoS" : "verbo",
+	"Pron" : "deskaɾ'gana",
+	"Spell" : "",
+	"Sound" : "descargana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "descansar",
+	"Quichua" : "samana",
+	"Source" : "rest",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "descargana",
+	"PoS" : "verbo",
+	"Pron" : "deskaska'ɾana",
+	"Spell" : "",
+	"Sound" : "descascarana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "descargar, desembarcar",
+	"Quichua" : "descargana",
+	"Source" : "unload, download",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "descascarana",
+	"PoS" : "verbo",
+	"Pron" : "deseɾ'βana",
+	"Spell" : "deshierbana, desyerbana",
+	"Sound" : "deservana.mp3",
+	"Origin" : "es",
+	"Synonym" : "jalmana",
+	"Spanish" : "descascarar",
+	"Quichua" : "carata llucchina",
+	"Source" : "peel, shell, husk",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "deservana",
+	"PoS" : "verbo",
+	"Pron" : "desfi'lana",
+	"Spell" : "",
+	"Sound" : "desfilana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "deshierbar, desyerbar",
+	"Quichua" : "jalmana",
+	"Source" : "weed",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desfilana",
+	"PoS" : "verbo",
+	"Pron" : "desgɾa'nana",
+	"Spell" : "desegranana",
+	"Sound" : "desgranana.mp3",
+	"Origin" : "es",
+	"Synonym" : "ishcuna",
+	"Spanish" : "desfilar",
+	"Quichua" : "desfilana",
+	"Source" : "parade",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desgranana",
+	"PoS" : "verbo",
+	"Pron" : "desxatu'lana",
+	"Spell" : "desjatulana",
+	"Sound" : "desjatulana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "desgranar",
+	"Quichua" : "iscuna",
+	"Source" : "thresh, dekernel, skin, peel",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desjatulana",
+	"PoS" : "verbo",
+	"Pron" : "des'leina",
+	"Spell" : "desliyena",
+	"Sound" : "desleina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "descatular, deshojar",
+	"Quichua" : "jatulota yucchisha, desjatulana",
+	"Source" : "remove corn husk",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desleina",
+	"PoS" : "verbo",
+	"Pron" : "desma'jana",
+	"Spell" : "",
+	"Sound" : "desmayana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "derretir, diluir",
+	"Quichua" : "yacuyana",
+	"Source" : "melt, dissolve",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desmayana",
+	"PoS" : "verbo",
+	"Pron" : "desna'βana",
+	"Spell" : "",
+	"Sound" : "desnavana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "desmayarse",
+	"Quichua" : "upayana",
+	"Source" : "pass out",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desnavana",
+	"PoS" : "verbo",
+	"Pron" : "despe'dena",
+	"Spell" : "despedina, dispidina",
+	"Sound" : "despedena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "desnavar, desbainar",
+	"Quichua" : "jihuata surcuna",
+	"Source" : "shell (e.g. green beans)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "despedena (cayacaman tsina)",
+	"PoS" : "verbo",
+	"Pron" : "despe'dina",
+	"Spell" : "despedina, dispidina",
+	"Sound" : "despedina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "despedir (cuando uno se va)",
+	"Quichua" : "cayacaman nina",
+	"Source" : "say good-bye",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "despedina (trabajomanta)",
+	"PoS" : "verbo",
+	"Pron" : "despeɾʃ'tana",
+	"Spell" : "despierta",
+	"Sound" : "despertana.mp3",
+	"Origin" : "es",
+	"Synonym" : "levantana, recordachina",
+	"Spanish" : "despedir (de un trabajo)",
+	"Quichua" : "dispidina",
+	"Source" : "fire, dismiss",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "despertana",
+	"PoS" : "verbo",
+	"Pron" : "destɾu'jina",
+	"Spell" : "",
+	"Sound" : "destruyina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "despertarse",
+	"Quichua" : "richachina",
+	"Source" : "wake up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "destruyina",
+	"PoS" : "verbo",
+	"Pron" : "desβa'ɾina",
+	"Spell" : "",
+	"Sound" : "desvarina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "destruir",
+	"Quichua" : "huaglichina",
+	"Source" : "destroy",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desvarina",
+	"PoS" : "verbo",
+	"Pron" : "desje'lana",
+	"Spell" : "",
+	"Sound" : "desyelana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "desvariar",
+	"Quichua" : "desvarina (achca parlana)",
+	"Source" : "rant, ramble, talk nonsense",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "desyelana",
+	"PoS" : "verbo",
+	"Pron" : "de'zina",
+	"Spell" : "dizna, disina, disena, dillina, dicina, zina, dicena, dezina, dizina, detsena, destena, desina, desena, decina, decena, tsina",
+	"Sound" : "detsina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "derretir, diluir, desyelar, descongelar",
+	"Quichua" : "yacuyana",
+	"Source" : "melt, thaw, defrost",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "detsina",
+	"PoS" : "verbo",
+	"Pron" : "de'βina",
+	"Spell" : "",
+	"Sound" : "devina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "decir, dizque",
+	"Quichua" : "nina",
+	"Source" : "say, supposedly",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "devina",
+	"PoS" : "verbo",
+	"Pron" : "deβol'βina",
+	"Spell" : "",
+	"Sound" : "devolvina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "endeudar, deber",
+	"Quichua" : "dibina, culquita fiana",
+	"Source" : "debt (be in), debt (go into)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "devolvina",
+	"PoS" : "verbo",
+	"Pron" : "disfɾa'zana",
+	"Spell" : "disfrasana",
+	"Sound" : "disfrazana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "devolver",
+	"Quichua" : "entregana, cutichina, tigrachina",
+	"Source" : "return",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "disfrazana",
+	"PoS" : "verbo",
+	"Pron" : "diβi'dina",
+	"Spell" : "devidina",
+	"Sound" : "dividina.mp3",
+	"Origin" : "es",
+	"Synonym" : "retasiana, parrtena",
+	"Spanish" : "disfrazar",
+	"Quichua" : "disfrazana",
+	"Source" : "dress up, disguise",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "dividina",
+	"PoS" : "verbo",
+	"Pron" : "do'blana",
+	"Spell" : "",
+	"Sound" : "doblana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dividir, compartir, partir",
+	"Quichua" : "partina, chaupina",
+	"Source" : "divide, share, split",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "doblana",
+	"PoS" : "verbo",
+	"Pron" : "do'lina",
+	"Spell" : "dolena, doliena, dulina",
+	"Sound" : "dolina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "doblar",
+	"Quichua" : "doblana",
+	"Source" : "fold (e.g. clothes), twist (e.g. an ankle)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "dolina",
+	"PoS" : "verbo",
+	"Pron" : "doɾ'mina",
+	"Spell" : "durmina",
+	"Sound" : "dormina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "doler",
+	"Quichua" : "nanana",
+	"Source" : "hurt",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "dormina",
+	"PoS" : "verbo",
+	"Pron" : "due'ɲana",
+	"Spell" : "",
+	"Sound" : "dueñana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dormir",
+	"Quichua" : "puñuna",
+	"Source" : "sleep",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "dueñana",
+	"PoS" : "verbo",
+	"Pron" : "dulsija'ʧina",
+	"Spell" : "",
+	"Sound" : "dulciyachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "adueñar",
+	"Quichua" : "dueñotucuna",
+	"Source" : "take ownership of",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "dulciyachina",
+	"PoS" : "verbo",
+	"Pron" : "ebi'tana",
+	"Spell" : "evitana",
+	"Sound" : "ebitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer dulce (ej. de alguna fruta)",
+	"Quichua" : "mishquiyachina",
+	"Source" : "sweeten, make sweet spreads or jams",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ebitana",
+	"PoS" : "verbo",
+	"Pron" : "e'ʧana",
+	"Spell" : "hechana, ychana",
+	"Sound" : "echana.mp3",
+	"Origin" : "es",
+	"Synonym" : "botana (echana), tirana",
+	"Spanish" : "evitar",
+	"Quichua" : "evitana",
+	"Source" : "avoid",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "echana",
+	"PoS" : "verbo",
+	"Pron" : "e'dina",
+	"Spell" : "ede",
+	"Sound" : "edina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "echar, acostarse, botar",
+	"Quichua" : "siririna",
+	"Source" : "lay down, throw out, pour out",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "edina",
+	"PoS" : "verbo",
+	"Pron" : "edu'kana",
+	"Spell" : "",
+	"Sound" : "educana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "apestar",
+	"Quichua" : "ashnana",
+	"Source" : "smell, stink",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "educana",
+	"PoS" : "verbo",
+	"Pron" : "efeɾ'mana",
+	"Spell" : "",
+	"Sound" : "efermana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "educar, enseñar",
+	"Quichua" : "yachana",
+	"Source" : "educate, teach",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "efermana",
+	"PoS" : "verbo",
+	"Pron" : "emba'ʐana",
+	"Spell" : "",
+	"Sound" : "embarrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enfermar",
+	"Quichua" : "hunguna, irquiyana",
+	"Source" : "get sick, become sick",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "embarrana",
+	"PoS" : "verbo",
+	"Pron" : "embol'βina",
+	"Spell" : "embolvena, embolbena, enbolvina",
+	"Sound" : "embolvina.mp3",
+	"Origin" : "es",
+	"Synonym" : "maytuna",
+	"Spanish" : "embarrar, manchar, ensuciar",
+	"Quichua" : "jabina",
+	"Source" : "dirty, stain",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "embolvina",
+	"PoS" : "verbo",
+	"Pron" : "empa'ʧana",
+	"Spell" : "",
+	"Sound" : "empachana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "envolver, fajar",
+	"Quichua" : "pilluna",
+	"Source" : "wrap, wrap up in",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "empachana",
+	"PoS" : "verbo",
+	"Pron" : "empe'dina",
+	"Spell" : "empedena",
+	"Sound" : "empedina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "empachar (de comida)",
+	"Quichua" : "empachana",
+	"Source" : "full (be very), be stuffed (with food)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "empedina",
+	"PoS" : "verbo",
+	"Pron" : "empe'ɲana",
+	"Spell" : "",
+	"Sound" : "empeñana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "impedir, prohibir",
+	"Quichua" : "ama + verbo-chu",
+	"Source" : "prevent, prohibit",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "empeñana",
+	"PoS" : "verbo",
+	"Pron" : "empe'zana",
+	"Spell" : "",
+	"Sound" : "empezana.mp3",
+	"Origin" : "es",
+	"Synonym" : "comensana, iniciana",
+	"Spanish" : "endeudar, empeñar",
+	"Quichua" : "empeñana",
+	"Source" : "go into debt, pawn",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "empezana",
+	"PoS" : "verbo",
+	"Pron" : "empu'xana",
+	"Spell" : "",
+	"Sound" : "empujana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "empezar",
+	"Quichua" : "cayarina",
+	"Source" : "begin, start",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "empujana",
+	"PoS" : "verbo",
+	"Pron" : "enamo'ɾana",
+	"Spell" : "",
+	"Sound" : "enamorana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "empujar",
+	"Quichua" : "tangana",
+	"Source" : "push",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "enamorana",
+	"PoS" : "verbo",
+	"Pron" : "enkaɾ'gana",
+	"Spell" : "",
+	"Sound" : "encargana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enamorar",
+	"Quichua" : "juyana",
+	"Source" : "fall in love with",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "encargana",
+	"PoS" : "verbo",
+	"Pron" : "enkon'tɾana",
+	"Spell" : "",
+	"Sound" : "encontrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "encargar, poner a cargo de algo",
+	"Quichua" : "mingana",
+	"Source" : "take care of, responsible for (be), entrust, handle",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "encontrana (algu buscashca)",
+	"PoS" : "verbo",
+	"Pron" : "enfeɾ'mana",
+	"Spell" : "",
+	"Sound" : "enfermana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "encontrar, hallar, topar",
+	"Quichua" : "tarina, tuparina",
+	"Source" : "find, meet up with",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "enfermana (enfermedadhuan)",
+	"PoS" : "verbo",
+	"Pron" : "enfeɾ'mana",
+	"Spell" : "",
+	"Sound" : "enfermana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enfermar",
+	"Quichua" : "unguna",
+	"Source" : "get sick, become sick",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "enfermana (parina)",
+	"PoS" : "verbo",
+	"Pron" : "enflo'ɾana",
+	"Spell" : "",
+	"Sound" : "enflorana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "dar la luz",
+	"Quichua" : "unguna",
+	"Source" : "give birth",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enflorana",
+	"PoS" : "verbo",
+	"Pron" : "eŋga'ɲana",
+	"Spell" : "",
+	"Sound" : "engañana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "florecer",
+	"Quichua" : "sisayana",
+	"Source" : "blossom, bloom, flower",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "engañana",
+	"PoS" : "verbo",
+	"Pron" : "eŋgoɾ'dana",
+	"Spell" : "engorrdana",
+	"Sound" : "engordana.mp3",
+	"Origin" : "es",
+	"Synonym" : "jariyana",
+	"Spanish" : "engañar",
+	"Quichua" : "llullana",
+	"Source" : "trick, scam, cheat",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "engordana",
+	"PoS" : "verbo",
+	"Pron" : "enxa'wana",
+	"Spell" : "enjahuana",
+	"Sound" : "enjaguana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "engordar",
+	"Quichua" : "virayana, engordana",
+	"Source" : "get fat, become fat, fatten, gain weight",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enjaguana",
+	"PoS" : "verbo",
+	"Pron" : "eno'xana",
+	"Spell" : "",
+	"Sound" : "enojana.mp3",
+	"Origin" : "es",
+	"Synonym" : "colerana, pujana, aborrina",
+	"Spanish" : "enjuagar",
+	"Quichua" : "tagshana",
+	"Source" : "rinse",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enojana",
+	"PoS" : "verbo",
+	"Pron" : "enpe'sana",
+	"Spell" : "empesana",
+	"Sound" : "enpesana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enojar",
+	"Quichua" : "colirana",
+	"Source" : "get angry, become angry",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "enpesana",
+	"PoS" : "verbo",
+	"Pron" : "enki'tana",
+	"Spell" : "enquietana, inquitana",
+	"Sound" : "enquitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "empezar",
+	"Quichua" : "callana",
+	"Source" : "start, begin",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enquitana",
+	"PoS" : "verbo",
+	"Pron" : "enɾe'dana",
+	"Spell" : "",
+	"Sound" : "enredana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "inquietar, molestar",
+	"Quichua" : "inquitana",
+	"Source" : "nag, worry",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enredana",
+	"PoS" : "verbo",
+	"Pron" : "ensa'jana",
+	"Spell" : "",
+	"Sound" : "ensayana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enredar",
+	"Quichua" : "liarina",
+	"Source" : "tangle, tangle up in",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ensayana",
+	"PoS" : "verbo",
+	"Pron" : "enseɲa'ʧina",
+	"Spell" : "ensiñana",
+	"Sound" : "enseñachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ensayar, practicar (ej. para un baile)",
+	"Quichua" : "practicana, ensayana (tushungapa)",
+	"Source" : "practice (e.g. for a dance)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enseñachina",
+	"PoS" : "verbo",
+	"Pron" : "ense'ɲana",
+	"Spell" : "ensiñana",
+	"Sound" : "enseñana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enseñar",
+	"Quichua" : "yachachina",
+	"Source" : "teach, instruct",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "enseñana (acostumbrana)",
+	"PoS" : "verbo",
+	"Pron" : "ense'ɲana",
+	"Spell" : "ensiñana",
+	"Sound" : "enseñana.mp3",
+	"Origin" : "es",
+	"Synonym" : "aprendina",
+	"Spanish" : "acostumbrar",
+	"Quichua" : "yachana",
+	"Source" : "accustom, get used to",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enseñana (yachana)",
+	"PoS" : "verbo",
+	"Pron" : "ente'ʐana",
+	"Spell" : "enterrona",
+	"Sound" : "enterrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "aprender",
+	"Quichua" : "yachana, aprendina",
+	"Source" : "learn",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "enterrana",
+	"PoS" : "verbo",
+	"Pron" : "en'tɾana",
+	"Spell" : "",
+	"Sound" : "entrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "dentrana, ingresana",
+	"Spanish" : "enterrar, trasladar",
+	"Quichua" : "pambana",
+	"Source" : "bury (e.g. funeral)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "entrana",
+	"PoS" : "verbo",
+	"Pron" : "entɾe'gana",
+	"Spell" : "",
+	"Sound" : "entregana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "entrar",
+	"Quichua" : "yaicuna",
+	"Source" : "enter, go in",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "entregana",
+	"PoS" : "verbo",
+	"Pron" : "ekibo'kana",
+	"Spell" : "",
+	"Sound" : "equibocana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "entregar",
+	"Quichua" : "entregana",
+	"Source" : "give, deliver",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "equibocana",
+	"PoS" : "verbo",
+	"Pron" : "eɾok'tana",
+	"Spell" : "eructana",
+	"Sound" : "eroctana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "equivocar",
+	"Quichua" : "pandana",
+	"Source" : "make a mistake",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "eroctana",
+	"PoS" : "verbo",
+	"Pron" : "eskam'pana",
+	"Spell" : "",
+	"Sound" : "escampana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "eructar",
+	"Quichua" : "eroctana",
+	"Source" : "burp",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "escampana",
+	"PoS" : "verbo",
+	"Pron" : "esko'gina",
+	"Spell" : "escojina, escogena",
+	"Sound" : "escogina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "escampar",
+	"Quichua" : "yalichina",
+	"Source" : "wait for the rain to clear up, stop raining",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "escogina",
+	"PoS" : "verbo",
+	"Pron" : "eskon'dina",
+	"Spell" : "escondena",
+	"Sound" : "escondina.mp3",
+	"Origin" : "es",
+	"Synonym" : "pacana",
+	"Spanish" : "escoger",
+	"Quichua" : "acllana",
+	"Source" : "choose, pick",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "escondina",
+	"PoS" : "verbo",
+	"Pron" : "eskɾi'bina",
+	"Spell" : "",
+	"Sound" : "escribina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "esconder",
+	"Quichua" : "pacana",
+	"Source" : "hide",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "escribina",
+	"PoS" : "verbo",
+	"Pron" : "esku'ʧana",
+	"Spell" : "",
+	"Sound" : "escuchana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "escribir, deletrear",
+	"Quichua" : "escribina, quilcana",
+	"Source" : "write, spell",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "escuchana",
+	"PoS" : "verbo",
+	"Pron" : "esku'pina",
+	"Spell" : "",
+	"Sound" : "escupina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "escuchar",
+	"Quichua" : "uyana",
+	"Source" : "listen, hear",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "escupina",
+	"PoS" : "verbo",
+	"Pron" : "espan'tana",
+	"Spell" : "",
+	"Sound" : "espantana.mp3",
+	"Origin" : "es",
+	"Synonym" : "machana",
+	"Spanish" : "escupir",
+	"Quichua" : "tucana",
+	"Source" : "spit",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "espantana",
+	"PoS" : "verbo",
+	"Pron" : "espe'ɾana",
+	"Spell" : "",
+	"Sound" : "esperana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "asustar, espantar",
+	"Quichua" : "mancharyna",
+	"Source" : "scare, frighten",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "esperana",
+	"PoS" : "verbo",
+	"Pron" : "espe'sana",
+	"Spell" : "",
+	"Sound" : "espesana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "esperar",
+	"Quichua" : "shuyana",
+	"Source" : "wait",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "espesana",
+	"PoS" : "verbo",
+	"Pron" : "espi'gana",
+	"Spell" : "",
+	"Sound" : "espiga.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "espesar",
+	"Quichua" : "espesachina, sanguyana, sanguyachina",
+	"Source" : "thicken up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "espigana",
+	"PoS" : "verbo",
+	"Pron" : "espi'jana",
+	"Spell" : "",
+	"Sound" : "espiyana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "espigar",
+	"Quichua" : "espigana",
+	"Source" : "sprout",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "espiyana",
+	"PoS" : "verbo",
+	"Pron" : "espɾi'mina",
+	"Spell" : "",
+	"Sound" : "esprimina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "espiar",
+	"Quichua" : "espiyana",
+	"Source" : "spy",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "esprimina",
+	"PoS" : "verbo",
+	"Pron" : "esta'fana",
+	"Spell" : "",
+	"Sound" : "estafana.mp3",
+	"Origin" : "es",
+	"Synonym" : "robana",
+	"Spanish" : "exprimir",
+	"Quichua" : "capina",
+	"Source" : "wring out, squeeze out (e.g. a liquid)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "estafana",
+	"PoS" : "verbo",
+	"Pron" : "esti'lana",
+	"Spell" : "",
+	"Sound" : "estilana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "estafar, robar",
+	"Quichua" : "shuhuana",
+	"Source" : "rob, defraud",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "estilana",
+	"PoS" : "verbo",
+	"Pron" : "estɾo'piana",
+	"Spell" : "etropiana",
+	"Sound" : "estropiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "escurrir",
+	"Quichua" : "llapichina",
+	"Source" : "wring out",
+	"Sample" : "Cookbook (forthcoming)"
+	},
+
+	{
+	"MediaLengua" : "estropiana",
+	"PoS" : "verbo",
+	"Pron" : "estu'diana",
+	"Spell" : "estudina",
+	"Sound" : "estudiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "repasana, revisana",
+	"Spanish" : "estropear",
+	"Quichua" : "huaglina",
+	"Source" : "damage, mess up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "estudiana",
+	"PoS" : "verbo",
+	"Pron" : "eβalu'ɾana",
+	"Spell" : "",
+	"Sound" : "evalurana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "estudiar",
+	"Quichua" : "yachana",
+	"Source" : "study",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "evalurana",
+	"PoS" : "verbo",
+	"Pron" : "eksi'xina",
+	"Spell" : "",
+	"Sound" : "exijina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "evaluar",
+	"Quichua" : "ricuna",
+	"Source" : "evaluate, assess, review",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "exijina",
+	"PoS" : "verbo",
+	"Pron" : "faboɾe'sena",
+	"Spell" : "",
+	"Sound" : "faboresena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "exigir",
+	"Quichua" : "mañana",
+	"Source" : "require, demand, expect",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "faboresena",
+	"PoS" : "verbo",
+	"Pron" : "fabɾi'kana",
+	"Spell" : "",
+	"Sound" : "fabricana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "favorecer, facilitar, salir adelante",
+	"Quichua" : "faboresena",
+	"Source" : "benefit, facilitate, get ahead",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "fabricana",
+	"PoS" : "verbo",
+	"Pron" : "faʧale'ʧina",
+	"Spell" : "",
+	"Sound" : "fachalechina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "fabricar, producir",
+	"Quichua" : "rurana",
+	"Source" : "make, produce, build (especially for sale)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "fachalechina",
+	"PoS" : "verbo",
+	"Pron" : "falsifi'kana",
+	"Spell" : "",
+	"Sound" : "falsificana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "cobijar, poner un chal",
+	"Quichua" : "fachalichina",
+	"Source" : "wrap up in a blanket, put on a shawl",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "falsificana",
+	"PoS" : "verbo",
+	"Pron" : "fal'tana",
+	"Spell" : "",
+	"Sound" : "faltana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "falsificar",
+	"Quichua" : "falsificana",
+	"Source" : "falsify",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "faltana",
+	"PoS" : "verbo",
+	"Pron" : "feɾmen'tana",
+	"Spell" : "",
+	"Sound" : "fermentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "faltar",
+	"Quichua" : "faltana",
+	"Source" : "miss, lack",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "fermentana",
+	"PoS" : "verbo",
+	"Pron" : "feste'xana",
+	"Spell" : "festijana",
+	"Sound" : "festejana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "fermentar, madurar (bebida)",
+	"Quichua" : "fucuna",
+	"Source" : "ferment",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "festejana",
+	"PoS" : "verbo",
+	"Pron" : "'fiana",
+	"Spell" : "",
+	"Sound" : "fiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "festejar",
+	"Quichua" : "festejana",
+	"Source" : "celebrate, party",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "fiana",
+	"PoS" : "verbo",
+	"Pron" : "fi'ʧana",
+	"Spell" : "vichana",
+	"Sound" : "fichana.mp3",
+	"Origin" : "es",
+	"Synonym" : "limfiana",
+	"Spanish" : "fiar",
+	"Quichua" : "fiana",
+	"Source" : "trust, sell on credit, buy on credit",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "fichana",
+	"PoS" : "verbo",
+	"Pron" : "fiɾ'mana",
+	"Spell" : "",
+	"Sound" : "firmana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "limpiar, barrer",
+	"Quichua" : "fichana",
+	"Source" : "clean, sweep",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "firmana",
+	"PoS" : "verbo",
+	"Pron" : "foɾ'mana",
+	"Spell" : "",
+	"Sound" : "formana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "firmar",
+	"Quichua" : "firmana",
+	"Source" : "sign",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "formana",
+	"PoS" : "verbo",
+	"Pron" : "fɾe'gana",
+	"Spell" : "",
+	"Sound" : "fregana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "formar, hacer",
+	"Quichua" : "rurana",
+	"Source" : "form, prepare, put together",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "fregana",
+	"PoS" : "verbo",
+	"Pron" : "f'ɾiina",
+	"Spell" : "",
+	"Sound" : "friina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "fregar",
+	"Quichua" : "jacuna",
+	"Source" : "rub (e.g. leg), scrub (e.g. clothing), knead (eg., dough)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "friina",
+	"PoS" : "verbo",
+	"Pron" : "fɾon'sena",
+	"Spell" : "",
+	"Sound" : "fronsena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "freír",
+	"Quichua" : "friina",
+	"Source" : "fry",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "fronsena",
+	"PoS" : "verbo",
+	"Pron" : "fumi'gana",
+	"Spell" : "funigana",
+	"Sound" : "fumigana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "fruncir",
+	"Quichua" : "froserena",
+	"Source" : "frown",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "fumigana",
+	"PoS" : "verbo",
+	"Pron" : "funsio'nana",
+	"Spell" : "",
+	"Sound" : "funcionana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "fumigar",
+	"Quichua" : "jambina",
+	"Source" : "fumigate, spray pesticides",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "funcionana",
+	"PoS" : "verbo",
+	"Pron" : "ga'nana",
+	"Spell" : "",
+	"Sound" : "ganana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "funcionar",
+	"Quichua" : "funcionana",
+	"Source" : "function, work",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ganana",
+	"PoS" : "verbo",
+	"Pron" : "gaʃ'tana",
+	"Spell" : "gastana",
+	"Sound" : "gashtana.mp3",
+	"Origin" : "es",
+	"Synonym" : "costana, valina (preciopa)",
+	"Spanish" : "ganar",
+	"Quichua" : "ganana",
+	"Source" : "win",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "gashtana",
+	"PoS" : "verbo",
+	"Pron" : "ga'tiana",
+	"Spell" : "",
+	"Sound" : "gatiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "costar, valer, gastar",
+	"Quichua" : "gashtana, valina",
+	"Source" : "cost, waste, spend",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "gatiana",
+	"PoS" : "verbo",
+	"Pron" : "gol'piana",
+	"Spell" : "golpeana, julpiana",
+	"Sound" : "golpiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "pigana (golpiana)",
+	"Spanish" : "gatear",
+	"Quichua" : "llucana",
+	"Source" : "crawl",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "golpiana",
+	"PoS" : "verbo",
+	"Pron" : "gomi'tana",
+	"Spell" : "gomitana",
+	"Sound" : "gomytana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "golpear, pegar",
+	"Quichua" : "macana, tacarina, gulpiana",
+	"Source" : "hit, strike",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "gomytana",
+	"PoS" : "verbo",
+	"Pron" : "gɾa'duana",
+	"Spell" : "",
+	"Sound" : "graduana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "vomitar",
+	"Quichua" : "lansana",
+	"Source" : "vomit, puke, throw up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "graduana",
+	"PoS" : "verbo",
+	"Pron" : "gɾi'tana",
+	"Spell" : "",
+	"Sound" : "gritana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "graduar",
+	"Quichua" : "graduana",
+	"Source" : "graduate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "gritana",
+	"PoS" : "verbo",
+	"Pron" : "wa'lena",
+	"Spell" : "",
+	"Sound" : "gualena.mp3",
+	"Origin" : "es",
+	"Synonym" : "cabana",
+	"Spanish" : "gritar",
+	"Quichua" : "caparina",
+	"Source" : "yell, scream",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "gualena",
+	"PoS" : "verbo",
+	"Pron" : "waŋ'guna",
+	"Spell" : "",
+	"Sound" : "guanguna.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "cavar",
+	"Quichua" : "allana, gualina",
+	"Source" : "dig",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "guanguna",
+	"PoS" : "verbo",
+	"Pron" : "waɾ'dana",
+	"Spell" : "huardana",
+	"Sound" : "guardana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "envolver, atar, amarrar",
+	"Quichua" : "guanguna",
+	"Source" : "tie up; put in a ponytail (hair)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "guardana",
+	"PoS" : "verbo",
+	"Pron" : "wata'ʧina",
+	"Spell" : "",
+	"Sound" : "guatachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "guardar",
+	"Quichua" : "huacaichina",
+	"Source" : "save",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "guatachina",
+	"PoS" : "verbo",
+	"Pron" : "'giana",
+	"Spell" : "",
+	"Sound" : "guiana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "encaderar, fajar a una mujer después de dar la luz, fajar a los recién nacidos",
+	"Quichua" : "huatachina",
+	"Source" : "swaddle, wrap a woman's mid-section with cloth after giving birth, wrap a newborn infant in cloth to prevent movement",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "guiana",
+	"PoS" : "verbo",
+	"Pron" : "guʃ'tana",
+	"Spell" : "gustana",
+	"Sound" : "gushtana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "guiar",
+	"Quichua" : "guiana",
+	"Source" : "guide",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "gushtana",
+	"PoS" : "verbo",
+	"Pron" : "a'blana",
+	"Spell" : "ablana",
+	"Sound" : "hablana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "gustar",
+	"Quichua" : "munana, gushtana",
+	"Source" : "like",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "hablana",
+	"PoS" : "verbo",
+	"Pron" : "eɾ'βina",
+	"Spell" : "herbina, hirvina, hirbina",
+	"Sound" : "hervina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hablar",
+	"Quichua" : "parlana, rimana",
+	"Source" : "speak",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "hervina",
+	"PoS" : "verbo",
+	"Pron" : "oɾ'kana",
+	"Spell" : "",
+	"Sound" : "horcana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hervir",
+	"Quichua" : "timbuna",
+	"Source" : "boil",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "horcana",
+	"PoS" : "verbo",
+	"Pron" : "wa'ʧuna",
+	"Spell" : "wachana",
+	"Sound" : "huachuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ahorcar",
+	"Quichua" : "sipina",
+	"Source" : "hang, strangle",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "huachuna (tierrapi)",
+	"PoS" : "verbo",
+	"Pron" : "wa'ɲuna",
+	"Spell" : "wañuna",
+	"Sound" : "huañuna.mp3",
+	"Origin" : "k",
+	"Synonym" : "morina",
+	"Spanish" : "huachos (hacer), surcos en la tierra (hacer), huachar",
+	"Quichua" : "huachana",
+	"Source" : "furrows (make)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "huañuna",
+	"PoS" : "verbo",
+	"Pron" : "xu'miana",
+	"Spell" : "",
+	"Sound" : "humiana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "morir, enfermar",
+	"Quichua" : "huañuna",
+	"Source" : "die, get sick, fall ill",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "humiana",
+	"PoS" : "verbo",
+	"Pron" : "i'dina",
+	"Spell" : "jedina",
+	"Sound" : "idina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "humear",
+	"Quichua" : "cushnichina",
+	"Source" : "smoke, billow",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "idina",
+	"PoS" : "verbo",
+	"Pron" : "iwa'lana",
+	"Spell" : "",
+	"Sound" : "igualana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "oler, apestar",
+	"Quichua" : "ashnana",
+	"Source" : "smell, stink",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "igualana",
+	"PoS" : "verbo",
+	"Pron" : "'ina",
+	"Spell" : "ena",
+	"Sound" : "ina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "igualar",
+	"Quichua" : "igualana",
+	"Source" : "match, even, level out",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ina",
+	"PoS" : "verbo",
+	"Pron" : "in'kana",
+	"Spell" : "",
+	"Sound" : "incana.mp3",
+	"Origin" : "es",
+	"Synonym" : "rodillana, cunguna",
+	"Spanish" : "ir",
+	"Quichua" : "rina",
+	"Source" : "go",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "incana",
+	"PoS" : "verbo",
+	"Pron" : "in'ʧana",
+	"Spell" : "",
+	"Sound" : "inchana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hincar, arrodillarse",
+	"Quichua" : "cungurina, arrodillarse",
+	"Source" : "kneel",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "inchana",
+	"PoS" : "verbo",
+	"Pron" : "inf'lana",
+	"Spell" : "",
+	"Sound" : "inflana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hinchar",
+	"Quichua" : "punguina",
+	"Source" : "swell up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "inflana",
+	"PoS" : "verbo",
+	"Pron" : "iŋgɾe'sana",
+	"Spell" : "",
+	"Sound" : "ingresana.mp3",
+	"Origin" : "es",
+	"Synonym" : "entrana, dentrana",
+	"Spanish" : "inflar",
+	"Quichua" : "inflana",
+	"Source" : "inflate",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ingresana",
+	"PoS" : "verbo",
+	"Pron" : "ini'siana",
+	"Spell" : "",
+	"Sound" : "iniciana.mp3",
+	"Origin" : "es",
+	"Synonym" : "comensana, empezana",
+	"Spanish" : "ingresar",
+	"Quichua" : "yaicuna",
+	"Source" : "enter",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "iniciana",
+	"PoS" : "verbo",
+	"Pron" : "inpoɾʃ'tana",
+	"Spell" : "",
+	"Sound" : "inporta.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "iniciar",
+	"Quichua" : "cayarina",
+	"Source" : "start, begin",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "inportana",
+	"PoS" : "verbo",
+	"Pron" : "inten'tana",
+	"Spell" : "",
+	"Sound" : "intentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "importar",
+	"Quichua" : "valina",
+	"Source" : "matter, important (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "intentana",
+	"PoS" : "verbo",
+	"Pron" : "inteɾkam'biana",
+	"Spell" : "",
+	"Sound" : "intercambiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "intentar",
+	"Quichua" : "intentana",
+	"Source" : "try, attempt",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "intercambiana",
+	"PoS" : "verbo",
+	"Pron" : "intin'dina",
+	"Spell" : "entindina, entendena",
+	"Sound" : "intindina.mp3",
+	"Origin" : "es",
+	"Synonym" : "comprendena",
+	"Spanish" : "intercambiar",
+	"Quichua" : "tigrachina, cambinana",
+	"Source" : "exchange",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "intindina",
+	"PoS" : "verbo",
+	"Pron" : "inβeʐ'tina",
+	"Spell" : "invertina",
+	"Sound" : "inverrtina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "entender, comprender",
+	"Quichua" : "intindina",
+	"Source" : "understand",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "inverrtina",
+	"PoS" : "verbo",
+	"Pron" : "inβi'tana",
+	"Spell" : "envitana",
+	"Sound" : "invitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "invertir",
+	"Quichua" : "churina, gashtana, invertina",
+	"Source" : "invest",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "invitana",
+	"PoS" : "verbo",
+	"Pron" : "iʃ'kuna",
+	"Spell" : "illcuna, isuna",
+	"Sound" : "ishcuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "desgranana",
+	"Spanish" : "invitar",
+	"Quichua" : "cayana",
+	"Source" : "invite",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ishcuna",
+	"PoS" : "verbo",
+	"Pron" : "xa'lana",
+	"Spell" : "",
+	"Sound" : "jalana.mp3",
+	"Origin" : "k",
+	"Synonym" : "tirana",
+	"Spanish" : "desgranar",
+	"Quichua" : "ishcuna",
+	"Source" : "thresh, dekernel",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jalana",
+	"PoS" : "verbo",
+	"Pron" : "xa'ʒana",
+	"Spell" : "allana",
+	"Sound" : "jallana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "jalar",
+	"Quichua" : "aisana",
+	"Source" : "pull",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jallana",
+	"PoS" : "verbo",
+	"Pron" : "xal'mana",
+	"Spell" : "",
+	"Sound" : "jalmana.mp3",
+	"Origin" : "es",
+	"Synonym" : "deservana",
+	"Spanish" : "hallar, arrancar, sacar",
+	"Quichua" : "aisana",
+	"Source" : "find, encounter, pull out",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jalmana",
+	"PoS" : "verbo",
+	"Pron" : "xam'bina",
+	"Spell" : "",
+	"Sound" : "jambina.mp3",
+	"Origin" : "k",
+	"Synonym" : "sanana, curana, rehabilitana",
+	"Spanish" : "desyerbar, cavar, recoger",
+	"Quichua" : "jalmana",
+	"Source" : "weed, dig, pick",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "jambina",
+	"PoS" : "verbo",
+	"Pron" : "xaɾi'jana",
+	"Spell" : "jariyachina, jaryyana",
+	"Sound" : "jariyana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "curar",
+	"Quichua" : "jambina",
+	"Source" : "cure",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jariyana",
+	"PoS" : "verbo",
+	"Pron" : "xa'ʐiana",
+	"Spell" : "",
+	"Sound" : "jarriana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "recuperarse, engordarse (animales y personas)",
+	"Quichua" : "jariyachina, virayachina",
+	"Source" : "fatten up, ready to sell",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jarriana",
+	"PoS" : "verbo",
+	"Pron" : "xaʐ'tana",
+	"Spell" : "",
+	"Sound" : "jarrtana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "arrear",
+	"Quichua" : "jarriana, ñaupana",
+	"Source" : "spur on, urge an animal on (move)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jarrtana",
+	"PoS" : "verbo",
+	"Pron" : "xi'lana",
+	"Spell" : "ilana, jilana",
+	"Sound" : "jilana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "llenar (ej. de comida), hartar de comida",
+	"Quichua" : "sacana, jarrtana",
+	"Source" : "fill up (e.g. on food)",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "jilana",
+	"PoS" : "verbo",
+	"Pron" : "xo'dena",
+	"Spell" : "judina",
+	"Sound" : "jodena.mp3",
+	"Origin" : "es",
+	"Synonym" : "molestana",
+	"Spanish" : "hilar",
+	"Quichua" : "puchiana, puchana",
+	"Source" : "spin (ref. textile), thread, put together (ref. textile)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jodena",
+	"PoS" : "verbo",
+	"Pron" : "xo'gana",
+	"Spell" : "jugana",
+	"Sound" : "jogana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "joder, molestar",
+	"Quichua" : "molestana",
+	"Source" : "bother, annoy",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jogana",
+	"PoS" : "verbo",
+	"Pron" : "xu'ɾana",
+	"Spell" : "",
+	"Sound" : "jurana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "jugar",
+	"Quichua" : "pucllana",
+	"Source" : "play",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "jurana",
+	"PoS" : "verbo",
+	"Pron" : "la'bana",
+	"Spell" : "lavana",
+	"Sound" : "labana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "jurar",
+	"Quichua" : "jurana",
+	"Source" : "swear",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "labana",
+	"PoS" : "verbo",
+	"Pron" : "lam'bina",
+	"Spell" : "lanbina, lanvina",
+	"Sound" : "lambina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "lavar",
+	"Quichua" : "tacshana",
+	"Source" : "wash",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "lambina",
+	"PoS" : "verbo",
+	"Pron" : "lan'ʧana",
+	"Spell" : "",
+	"Sound" : "lanchana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "lamer",
+	"Quichua" : "lambina",
+	"Source" : "lick",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "lanchana",
+	"PoS" : "verbo",
+	"Pron" : "lasti'mana",
+	"Spell" : "",
+	"Sound" : "lastimana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "infectar con la lancha",
+	"Quichua" : "lanchana",
+	"Source" : "infect with blight",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "lastimana",
+	"PoS" : "verbo",
+	"Pron" : "legali'zana",
+	"Spell" : "",
+	"Sound" : "legalizana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "lastimar, herir",
+	"Quichua" : "chugrina",
+	"Source" : "hurt, injure",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "legalizana",
+	"PoS" : "verbo",
+	"Pron" : "leβan'tana",
+	"Spell" : "lebantana",
+	"Sound" : "levantana.mp3",
+	"Origin" : "es",
+	"Synonym" : "despertana, recordachina",
+	"Spanish" : "legalizar",
+	"Quichua" : "legalisana",
+	"Source" : "legalize",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "levantana",
+	"PoS" : "verbo",
+	"Pron" : "le'jena",
+	"Spell" : "lena, leina, leena, leana, lina",
+	"Sound" : "leyena.mp3",
+	"Origin" : "es",
+	"Synonym" : "resana",
+	"Spanish" : "levantarse, pararse",
+	"Quichua" : "jatarina",
+	"Source" : "get up, stand up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "leyena",
+	"PoS" : "verbo",
+	"Pron" : "li'bɾana",
+	"Spell" : "",
+	"Sound" : "librana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "leer",
+	"Quichua" : "leyena, rresana",
+	"Source" : "read",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "librana",
+	"PoS" : "verbo",
+	"Pron" : "li'diana",
+	"Spell" : "",
+	"Sound" : "lidiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "librar",
+	"Quichua" : "librana",
+	"Source" : "get out of doing something, free up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "lidiana",
+	"PoS" : "verbo",
+	"Pron" : "li'xana",
+	"Spell" : "",
+	"Sound" : "lijana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "líder, soportar",
+	"Quichua" : "lidiana",
+	"Source" : "deal with, put up with",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "lijana",
+	"PoS" : "verbo",
+	"Pron" : "lim'fiana",
+	"Spell" : "infiana, limpiana, linpia",
+	"Sound" : "limfiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "fichana",
+	"Spanish" : "lijar",
+	"Quichua" : "lijana",
+	"Source" : "sand, sand down",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "limfiana",
+	"PoS" : "verbo",
+	"Pron" : "li'kana",
+	"Spell" : "licuana",
+	"Sound" : "liquana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "limpiar, barrer",
+	"Quichua" : "fichana",
+	"Source" : "clean, sweep",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "liquana",
+	"PoS" : "verbo",
+	"Pron" : "lis'tiana",
+	"Spell" : "",
+	"Sound" : "listiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "licuar",
+	"Quichua" : "liquana",
+	"Source" : "blend, liquefy",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "listiana",
+	"PoS" : "verbo",
+	"Pron" : "li'jana",
+	"Spell" : "",
+	"Sound" : "liyana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "alistar",
+	"Quichua" : "rrurrana",
+	"Source" : "get ready",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "liyana",
+	"PoS" : "verbo",
+	"Pron" : "ʒa'kina",
+	"Spell" : "llakina",
+	"Sound" : "llaquina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "enredar",
+	"Quichua" : "liyana",
+	"Source" : "tangle up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "llaquina",
+	"PoS" : "verbo",
+	"Pron" : "ʒa'βina",
+	"Spell" : "",
+	"Sound" : "llavina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "estar triste, estar avergonzado",
+	"Quichua" : "llaquina",
+	"Source" : "sad (be), shamed (be)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "llavina",
+	"PoS" : "verbo",
+	"Pron" : "ʒe'bana",
+	"Spell" : "llevana, llibana",
+	"Sound" : "llebana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "cerrar con llave",
+	"Quichua" : "llavina",
+	"Source" : "lock",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "llebana",
+	"PoS" : "verbo",
+	"Pron" : "ʒe'gana",
+	"Spell" : "",
+	"Sound" : "llegana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "llevar",
+	"Quichua" : "apana",
+	"Source" : "bring, carry",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "llegana",
+	"PoS" : "verbo",
+	"Pron" : "ʒe'nana",
+	"Spell" : "",
+	"Sound" : "llenana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "llegar",
+	"Quichua" : "chayana",
+	"Source" : "arrive",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "llenana",
+	"PoS" : "verbo",
+	"Pron" : "ʒo'bina",
+	"Spell" : "llovena, lluviana",
+	"Sound" : "llobina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "llenar",
+	"Quichua" : "jundana",
+	"Source" : "fill up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "llobina",
+	"PoS" : "verbo",
+	"Pron" : "ʒo'ɾana",
+	"Spell" : "",
+	"Sound" : "llorana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "llover",
+	"Quichua" : "tamiana",
+	"Source" : "rain",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "llorana",
+	"PoS" : "verbo",
+	"Pron" : "lo'gɾana",
+	"Spell" : "",
+	"Sound" : "lograna.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "llorar",
+	"Quichua" : "huacana",
+	"Source" : "cry",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "lograna",
+	"PoS" : "verbo",
+	"Pron" : "lu'ʧana",
+	"Spell" : "",
+	"Sound" : "luchana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "lograr",
+	"Quichua" : "lograna",
+	"Source" : "achieve, accomplish",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "luchana",
+	"PoS" : "verbo",
+	"Pron" : "ma'ʧana",
+	"Spell" : "",
+	"Sound" : "machana.mp3",
+	"Origin" : "es",
+	"Synonym" : "espantana",
+	"Spanish" : "luchar, pelear",
+	"Quichua" : "macana",
+	"Source" : "fight, struggle",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "machana",
+	"PoS" : "verbo",
+	"Pron" : "madɾu'gana",
+	"Spell" : "",
+	"Sound" : "madrugana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "asustar, espantar",
+	"Quichua" : "machana",
+	"Source" : "scare, frighten",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "madrugana",
+	"PoS" : "verbo",
+	"Pron" : "madu'ɾana",
+	"Spell" : "",
+	"Sound" : "madurana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "madrugar",
+	"Quichua" : "madrugana",
+	"Source" : "get up early",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "madurana",
+	"PoS" : "verbo",
+	"Pron" : "man'tana",
+	"Spell" : "",
+	"Sound" : "mandana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "madurar",
+	"Quichua" : "pucuchina, focuna",
+	"Source" : "ripen, mature",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "mandana",
+	"PoS" : "verbo",
+	"Pron" : "mane'xana",
+	"Spell" : "",
+	"Sound" : "manejana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enviar, mandar, ordenar",
+	"Quichua" : "cachana",
+	"Source" : "send, order",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "manejana",
+	"PoS" : "verbo",
+	"Pron" : "mante'nina",
+	"Spell" : "mantenena",
+	"Sound" : "mantenina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "manejar, conducir, controlar",
+	"Quichua" : "manejana",
+	"Source" : "drive, control",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mantenina",
+	"PoS" : "verbo",
+	"Pron" : "mapa'jana",
+	"Spell" : "",
+	"Sound" : "mapayana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mantener",
+	"Quichua" : "mantenina",
+	"Source" : "support",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mapayana",
+	"PoS" : "verbo",
+	"Pron" : "maɾ'kana",
+	"Spell" : "",
+	"Sound" : "marcana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "ensuciar",
+	"Quichua" : "mapayana",
+	"Source" : "get dirty, soil",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "marcana",
+	"PoS" : "verbo",
+	"Pron" : "ma'tana",
+	"Spell" : "",
+	"Sound" : "matana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "marcar, alzar/ levantar en los brazos",
+	"Quichua" : "marcana",
+	"Source" : "carry, pick up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "matana",
+	"PoS" : "verbo",
+	"Pron" : "mai'tuna",
+	"Spell" : "",
+	"Sound" : "maytuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "embolvina",
+	"Spanish" : "matar",
+	"Quichua" : "huañuna",
+	"Source" : "kill",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "maytuna",
+	"PoS" : "verbo",
+	"Pron" : "'meana",
+	"Spell" : "miana, miyana",
+	"Sound" : "meana.mp3",
+	"Origin" : "k",
+	"Synonym" : "orinana",
+	"Spanish" : "envolver, fajar",
+	"Quichua" : "pilluna",
+	"Source" : "wrap, wrap up in",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "meana",
+	"PoS" : "verbo",
+	"Pron" : "me'dina",
+	"Spell" : "",
+	"Sound" : "medina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mear, orinar",
+	"Quichua" : "ishpana",
+	"Source" : "pee, urinate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "medina",
+	"PoS" : "verbo",
+	"Pron" : "mexo'ɾana",
+	"Spell" : "",
+	"Sound" : "mejorana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "medir",
+	"Quichua" : "barana, medina",
+	"Source" : "measure",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mejorana",
+	"PoS" : "verbo",
+	"Pron" : "me'niana",
+	"Spell" : "",
+	"Sound" : "meniana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mejorar",
+	"Quichua" : "alitucuna, ñaupa llujchina",
+	"Source" : "improve, better",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "meniana",
+	"PoS" : "verbo",
+	"Pron" : "men'tina",
+	"Spell" : "",
+	"Sound" : "mentina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "menear",
+	"Quichua" : "cuyuchina",
+	"Source" : "stir",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mentina",
+	"PoS" : "verbo",
+	"Pron" : "meskla'ʧina",
+	"Spell" : "",
+	"Sound" : "mesclachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mentir",
+	"Quichua" : "llulluna",
+	"Source" : "lie",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "mesclachina",
+	"PoS" : "verbo",
+	"Pron" : "mes'kina",
+	"Spell" : "",
+	"Sound" : "mesquina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "variar, mezclar, hacer una mezcla",
+	"Quichua" : "cuyuchina",
+	"Source" : "mix, make a mixture, vary",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mesquina",
+	"PoS" : "verbo",
+	"Pron" : "me'tena",
+	"Spell" : "metina",
+	"Sound" : "metena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mezquinar, tacaño",
+	"Quichua" : "mesquina",
+	"Source" : "be stingy with, skimp",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "metena",
+	"PoS" : "verbo",
+	"Pron" : "minisi'tina",
+	"Spell" : "minishtena, ministena, ministina, ministena",
+	"Sound" : "minisitina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "meter, poner, insertar",
+	"Quichua" : "satina",
+	"Source" : "put, insert, place",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "minisitina",
+	"PoS" : "verbo",
+	"Pron" : "mi'ɾana",
+	"Spell" : "",
+	"Sound" : "mirana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "necesitar",
+	"Quichua" : "minishtina",
+	"Source" : "need",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mirana",
+	"PoS" : "verbo",
+	"Pron" : "mo'bina",
+	"Spell" : "movena",
+	"Sound" : "mobina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "crecer",
+	"Quichua" : "mirana",
+	"Source" : "grow, increase",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mobina",
+	"PoS" : "verbo",
+	"Pron" : "mo'xana",
+	"Spell" : "mujana",
+	"Sound" : "mojana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mover",
+	"Quichua" : "cuyuchina",
+	"Source" : "move",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mojana",
+	"PoS" : "verbo",
+	"Pron" : "moles'tana",
+	"Spell" : "",
+	"Sound" : "molestana.mp3",
+	"Origin" : "es",
+	"Synonym" : "jodena",
+	"Spanish" : "mojar",
+	"Quichua" : "shutuna",
+	"Source" : "wet, soak",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "molestana",
+	"PoS" : "verbo",
+	"Pron" : "mo'lina",
+	"Spell" : "molena, mulina",
+	"Sound" : "molina.mp3",
+	"Origin" : "es",
+	"Synonym" : "cutana, remolina",
+	"Spanish" : "molestar",
+	"Quichua" : "molestana",
+	"Source" : "bother, annoy",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "molina",
+	"PoS" : "verbo",
+	"Pron" : "mon'tana",
+	"Spell" : "",
+	"Sound" : "montana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "moler",
+	"Quichua" : "cutana",
+	"Source" : "grind",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "montana",
+	"PoS" : "verbo",
+	"Pron" : "mon'tona",
+	"Spell" : "",
+	"Sound" : "montona.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "montar",
+	"Quichua" : "sicana",
+	"Source" : "mount",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "montona",
+	"PoS" : "verbo",
+	"Pron" : "moɾ'dina",
+	"Spell" : "morrdina, morrdena, mordena",
+	"Sound" : "mordina.mp3",
+	"Origin" : "es",
+	"Synonym" : "canina",
+	"Spanish" : "amontonar",
+	"Quichua" : "montona",
+	"Source" : "accumulate, add up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "mordina",
+	"PoS" : "verbo",
+	"Pron" : "mo'ɾina",
+	"Spell" : "morena, murina, murena",
+	"Sound" : "morina.mp3",
+	"Origin" : "es",
+	"Synonym" : "huañuna",
+	"Spanish" : "morder, picar",
+	"Quichua" : "canina",
+	"Source" : "bite",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "morina",
+	"PoS" : "verbo",
+	"Pron" : "moɾmu'ɾana",
+	"Spell" : "murmurana",
+	"Sound" : "mormurana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "morir, enfermar",
+	"Quichua" : "huañuna",
+	"Source" : "die, get sick, fall ill",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "mormurana",
+	"PoS" : "verbo",
+	"Pron" : "mo'ʐona",
+	"Spell" : "",
+	"Sound" : "morrona.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "murmurar, chismear",
+	"Quichua" : "moromurana",
+	"Source" : "gossip, murmur, whisper, mutter",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "morrona",
+	"PoS" : "verbo",
+	"Pron" : "mospaɾi'pana",
+	"Spell" : "",
+	"Sound" : "mosparipana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "carmenar",
+	"Quichua" : "murruna",
+	"Source" : "card, unravel, teasel",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "mosparipana",
+	"PoS" : "verbo",
+	"Pron" : "mo'tɾana",
+	"Spell" : "mostrana, amotrana",
+	"Sound" : "motrana.mp3",
+	"Origin" : "k",
+	"Synonym" : "amotrana, vichina",
+	"Spanish" : "desesperar",
+	"Quichua" : "mosparipana",
+	"Source" : "be desperate, be anxious",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "motrana",
+	"PoS" : "verbo",
+	"Pron" : "moβi'ʧina",
+	"Spell" : "",
+	"Sound" : "movichina.mp3",
+	"Origin" : "es",
+	"Synonym" : "cuyuchina",
+	"Spanish" : "mostrar",
+	"Quichua" : "ricuchina, amutrana",
+	"Source" : "show",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "movichina",
+	"PoS" : "verbo",
+	"Pron" : "mu'ʧana",
+	"Spell" : "",
+	"Sound" : "muchana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mover, girar",
+	"Quichua" : "cuyuchina",
+	"Source" : "move, rotate, turn",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "muchana",
+	"PoS" : "verbo",
+	"Pron" : "mul'tana",
+	"Spell" : "",
+	"Sound" : "multana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "besar",
+	"Quichua" : "muchana",
+	"Source" : "kiss",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "multana",
+	"PoS" : "verbo",
+	"Pron" : "mu'juna",
+	"Spell" : "",
+	"Sound" : "muyuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "multar, sancionar",
+	"Quichua" : "multana",
+	"Source" : "fine, sanction, penalize",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "muyuna",
+	"PoS" : "verbo",
+	"Pron" : "na'dana",
+	"Spell" : "",
+	"Sound" : "nadana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "dar una vuelta, bailar en círculo",
+	"Quichua" : "muyuna",
+	"Source" : "go for a stroll, dance in a circle",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "nadana",
+	"PoS" : "verbo",
+	"Pron" : "nego'siana",
+	"Spell" : "negociona",
+	"Sound" : "negociana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "nadar",
+	"Quichua" : "nadana",
+	"Source" : "swim",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "negociana",
+	"PoS" : "verbo",
+	"Pron" : "nesi'tana",
+	"Spell" : "nesesitana, nesetana, nestana",
+	"Sound" : "nesitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "negociar",
+	"Quichua" : "negociana",
+	"Source" : "do business",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "nesitana",
+	"PoS" : "verbo",
+	"Pron" : "ne'βana",
+	"Spell" : "",
+	"Sound" : "nevana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "necesitar, requerir",
+	"Quichua" : "ministina",
+	"Source" : "need, require",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "nevana",
+	"PoS" : "verbo",
+	"Pron" : "nom'bɾana",
+	"Spell" : "",
+	"Sound" : "nombrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "nevar",
+	"Quichua" : "rrasuna",
+	"Source" : "snow",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "nombrana",
+	"PoS" : "verbo",
+	"Pron" : "obi'ʒana",
+	"Spell" : "",
+	"Sound" : "obillana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "nombrar",
+	"Quichua" : "shutina",
+	"Source" : "name",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "obillana",
+	"PoS" : "verbo",
+	"Pron" : "obli'gana",
+	"Spell" : "",
+	"Sound" : "obligana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "enrollar hilo/ lana",
+	"Quichua" : "ubillana",
+	"Source" : "wind up thread/ wool",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "obligana",
+	"PoS" : "verbo",
+	"Pron" : "oku'pana",
+	"Spell" : "ucupana",
+	"Sound" : "ocupana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "obligar",
+	"Quichua" : "ubligana",
+	"Source" : "obligate, require",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ocupana",
+	"PoS" : "verbo",
+	"Pron" : "ofɾe'sena",
+	"Spell" : "ofrecina, ofresena",
+	"Sound" : "ofrecena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "usar, poner, añadir",
+	"Quichua" : "charina, churana",
+	"Source" : "use",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ofrecena",
+	"PoS" : "verbo",
+	"Pron" : "'oina",
+	"Spell" : "oyena, oyna, uina, uyina, uyena",
+	"Sound" : "oina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ofrecer",
+	"Quichua" : "ofresena",
+	"Source" : "offer",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "oina",
+	"PoS" : "verbo",
+	"Pron" : "o'lina",
+	"Spell" : "",
+	"Sound" : "olina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "oír",
+	"Quichua" : "uyana",
+	"Source" : "hear",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "olina",
+	"PoS" : "verbo",
+	"Pron" : "olβi'dana",
+	"Spell" : "",
+	"Sound" : "olvidana.mp3",
+	"Origin" : "es",
+	"Synonym" : "cungana",
+	"Spanish" : "oler",
+	"Quichua" : "ashnana",
+	"Source" : "smell",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "olvidana",
+	"PoS" : "verbo",
+	"Pron" : "oɾgani'sana",
+	"Spell" : "organizana",
+	"Sound" : "organisana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "olvidar",
+	"Quichua" : "cungana",
+	"Source" : "forget",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "organisana",
+	"PoS" : "verbo",
+	"Pron" : "oɾi'nana",
+	"Spell" : "",
+	"Sound" : "orinana.mp3",
+	"Origin" : "es",
+	"Synonym" : "meana",
+	"Spanish" : "organizar, reunir",
+	"Quichua" : "tandanajuna",
+	"Source" : "organize, meet up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "orinana",
+	"PoS" : "verbo",
+	"Pron" : "oɾʃti'gana",
+	"Spell" : "orrtigana",
+	"Sound" : "ortigana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "orinar",
+	"Quichua" : "ishpana",
+	"Source" : "pee, urinate",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ortigana",
+	"PoS" : "verbo",
+	"Pron" : "oskoɾe'sena",
+	"Spell" : "",
+	"Sound" : "oscoresena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ortigar",
+	"Quichua" : "ortigana",
+	"Source" : "nettle (hit with)",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "oscoresena",
+	"PoS" : "verbo",
+	"Pron" : "otoxo'ɾina",
+	"Spell" : "",
+	"Sound" : "otojorina.mp3",
+	"Origin" : "es",
+	"Synonym" : "huequiana",
+	"Spanish" : "oscurecer",
+	"Quichua" : "tutayajuna",
+	"Source" : "darken, get dark out, become dark",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "otojorina",
+	"PoS" : "verbo",
+	"Pron" : "oβede'sena",
+	"Spell" : "",
+	"Sound" : "ovedesena.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "hacer huecos en algo",
+	"Quichua" : "otojorina",
+	"Source" : "make/ put holes in something",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ovedesena",
+	"PoS" : "verbo",
+	"Pron" : "pa'kana",
+	"Spell" : "pakana",
+	"Sound" : "pacana.mp3",
+	"Origin" : "es",
+	"Synonym" : "escondina",
+	"Spanish" : "obedecer",
+	"Quichua" : "casona",
+	"Source" : "obey",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pacana",
+	"PoS" : "verbo",
+	"Pron" : "pak'tana",
+	"Spell" : "",
+	"Sound" : "pactana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "pacana",
+	"Quichua" : "pacana",
+	"Source" : "hide",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "pactana",
+	"PoS" : "verbo",
+	"Pron" : "pa'gana",
+	"Spell" : "",
+	"Sound" : "pagana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "igualar",
+	"Quichua" : "pactana",
+	"Source" : "equal",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pagana",
+	"PoS" : "verbo",
+	"Pron" : "palo'niana",
+	"Spell" : "",
+	"Sound" : "paloniana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pagar",
+	"Quichua" : "pagana",
+	"Source" : "pay",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "paloniana",
+	"PoS" : "verbo",
+	"Pron" : "pa'ɾana",
+	"Spell" : "",
+	"Sound" : "parana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "palonear, desyerbar maíz",
+	"Quichua" : "paloniana",
+	"Source" : "hill up the soil around a plant",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "parana",
+	"PoS" : "verbo",
+	"Pron" : "pa'ɾina",
+	"Spell" : "",
+	"Sound" : "parina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "parar",
+	"Quichua" : "shayana",
+	"Source" : "stop",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "parina",
+	"PoS" : "verbo",
+	"Pron" : "paʐ'lana",
+	"Spell" : "parlana",
+	"Sound" : "parrlana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "parir",
+	"Quichua" : "huachana",
+	"Source" : "give birth (animals)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "parrlana",
+	"PoS" : "verbo",
+	"Pron" : "paʐ'tena",
+	"Spell" : "partina",
+	"Sound" : "parrtena.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "hablar",
+	"Quichua" : "parlana",
+	"Source" : "speak",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "parrtena",
+	"PoS" : "verbo",
+	"Pron" : "pa'sana",
+	"Spell" : "",
+	"Sound" : "pasana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "partir, repartir",
+	"Quichua" : "parrterina, chaupana",
+	"Source" : "divide, distribute",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pasana (andashpa)",
+	"PoS" : "verbo",
+	"Pron" : "pa'sana",
+	"Spell" : "",
+	"Sound" : "pasana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pasar, andar",
+	"Quichua" : "purina, yalina",
+	"Source" : "pass by/ over/ through",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pasana (examen)",
+	"PoS" : "verbo",
+	"Pron" : "pa'sana",
+	"Spell" : "",
+	"Sound" : "pasana.mp3",
+	"Origin" : "es",
+	"Synonym" : "quedana",
+	"Spanish" : "pasar, aprobar",
+	"Quichua" : "yalina",
+	"Source" : "pass (e.g. exam)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pasana (tiempo)",
+	"PoS" : "verbo",
+	"Pron" : "pa'siana",
+	"Spell" : "",
+	"Sound" : "pasiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pasar, quedar",
+	"Quichua" : "pasana, caynana",
+	"Source" : "spend, remain",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pasiana",
+	"PoS" : "verbo",
+	"Pron" : "pas'tana",
+	"Spell" : "",
+	"Sound" : "pastana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pasear",
+	"Quichua" : "purina",
+	"Source" : "walk, stroll, take a small trip",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pastana",
+	"PoS" : "verbo",
+	"Pron" : "pa'tiana",
+	"Spell" : "petiana, patiena",
+	"Sound" : "patiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pastar",
+	"Quichua" : "michina",
+	"Source" : "pasture",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "patiana",
+	"PoS" : "verbo",
+	"Pron" : "'paiaiana",
+	"Spell" : "",
+	"Sound" : "payayana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "patear",
+	"Quichua" : "jaytana",
+	"Source" : "kick",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "payayana",
+	"PoS" : "verbo",
+	"Pron" : "pai'nana",
+	"Spell" : "",
+	"Sound" : "paynana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "envejecer",
+	"Quichua" : "payayana",
+	"Source" : "age, become old, get old",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "paynana",
+	"PoS" : "verbo",
+	"Pron" : "peda'siana",
+	"Spell" : "pedasiana",
+	"Sound" : "pedaciana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "peinar",
+	"Quichua" : "ñacchana",
+	"Source" : "comb",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pedaciana",
+	"PoS" : "verbo",
+	"Pron" : "pe'gana",
+	"Spell" : "pigana",
+	"Sound" : "pegana.mp3",
+	"Origin" : "es",
+	"Synonym" : "tahuarina",
+	"Spanish" : "cortar, pedacear, hacer pedazos (carne)",
+	"Quichua" : "cuchuna",
+	"Source" : "cut into pieces (e.g. meat), shred (e.g. meat)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pegana",
+	"PoS" : "verbo",
+	"Pron" : "pe'lana",
+	"Spell" : "",
+	"Sound" : "pelana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pegar",
+	"Quichua" : "macana",
+	"Source" : "hit",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pelana",
+	"PoS" : "verbo",
+	"Pron" : "pe'leana",
+	"Spell" : "peliana",
+	"Sound" : "peleana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pelar, desplumar",
+	"Quichua" : "pelana",
+	"Source" : "peel, skin, pluck",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "peleana",
+	"PoS" : "verbo",
+	"Pron" : "pelis'kana",
+	"Spell" : "",
+	"Sound" : "peliscana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pelear",
+	"Quichua" : "macana",
+	"Source" : "fight",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "peliscana",
+	"PoS" : "verbo",
+	"Pron" : "pen'sana",
+	"Spell" : "pinsana",
+	"Sound" : "pensana.mp3",
+	"Origin" : "es",
+	"Synonym" : "yana",
+	"Spanish" : "pellizcar",
+	"Quichua" : "tespyna, pisquina",
+	"Source" : "pinch",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pensana",
+	"PoS" : "verbo",
+	"Pron" : "peɾ'dina",
+	"Spell" : "perrdena, perdena, perdina, perrdina",
+	"Sound" : "perdina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pensar",
+	"Quichua" : "yuyana",
+	"Source" : "think",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "perdina",
+	"PoS" : "verbo",
+	"Pron" : "peɾdo'nana",
+	"Spell" : "",
+	"Sound" : "perdonana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "perder",
+	"Quichua" : "chingachina",
+	"Source" : "loose",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "perdonana",
+	"PoS" : "verbo",
+	"Pron" : "peɾfo'ɾana",
+	"Spell" : "",
+	"Sound" : "perforana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "perdonar",
+	"Quichua" : "quishpichina, perdonana",
+	"Source" : "forgive, pardon",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "perforana",
+	"PoS" : "verbo",
+	"Pron" : "pe'sana",
+	"Spell" : "",
+	"Sound" : "pesana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "perforar",
+	"Quichua" : "guequiana, utuna",
+	"Source" : "punch out (e.g. holes in paper or wood or paper), perforate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pesana",
+	"PoS" : "verbo",
+	"Pron" : "pes'kana",
+	"Spell" : "",
+	"Sound" : "pescana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pesar",
+	"Quichua" : "librana",
+	"Source" : "weigh",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pescana",
+	"PoS" : "verbo",
+	"Pron" : "pi'kana",
+	"Spell" : "",
+	"Sound" : "picana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pescar",
+	"Quichua" : "pijina",
+	"Source" : "fish",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "picana (cortana)",
+	"PoS" : "verbo",
+	"Pron" : "pi'kana",
+	"Spell" : "",
+	"Sound" : "picana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "picar, cortar",
+	"Quichua" : "cuchuna",
+	"Source" : "chop",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "picana (mordina)",
+	"PoS" : "verbo",
+	"Pron" : "pi'dina",
+	"Spell" : "pidena, pedina",
+	"Sound" : "pidina.mp3",
+	"Origin" : "es",
+	"Synonym" : "solicitana",
+	"Spanish" : "picar",
+	"Quichua" : "picana, canina",
+	"Source" : "bite, sting, pinch, peck, poke",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pidina",
+	"PoS" : "verbo",
+	"Pron" : "pi'gana",
+	"Spell" : "pegana",
+	"Sound" : "pigana.mp3",
+	"Origin" : "es",
+	"Synonym" : "golpiana",
+	"Spanish" : "pedir",
+	"Quichua" : "mañana",
+	"Source" : "ask",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pigana (golpiana)",
+	"PoS" : "verbo",
+	"Pron" : "pi'gana",
+	"Spell" : "pegana",
+	"Sound" : "pigana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pegar, golpear",
+	"Quichua" : "macana, guactana, gulpiana, tauariana",
+	"Source" : "hit, strike",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pigana (gumahuan)",
+	"PoS" : "verbo",
+	"Pron" : "piŋ'gana",
+	"Spell" : "finga, pingaña",
+	"Sound" : "pingana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pegar (ej. con goma)",
+	"Quichua" : "colana",
+	"Source" : "stick together, glue",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pingana",
+	"PoS" : "verbo",
+	"Pron" : "pin'tana",
+	"Spell" : "",
+	"Sound" : "pintana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "avergonzar, tener recelo",
+	"Quichua" : "pingana",
+	"Source" : "to be embarrassed",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "pintana",
+	"PoS" : "verbo",
+	"Pron" : "pi'zana",
+	"Spell" : "pisana",
+	"Sound" : "pizana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pintar",
+	"Quichua" : "llunchina",
+	"Source" : "paint",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pizana",
+	"PoS" : "verbo",
+	"Pron" : "plan'ʧana",
+	"Spell" : "",
+	"Sound" : "planchana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "pisar",
+	"Quichua" : "zaruna",
+	"Source" : "step, step on, smash",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "planchana",
+	"PoS" : "verbo",
+	"Pron" : "plan'tana",
+	"Spell" : "",
+	"Sound" : "plantana.mp3",
+	"Origin" : "es",
+	"Synonym" : "sembrana, resembrana",
+	"Spanish" : "planchar",
+	"Quichua" : "planchana",
+	"Source" : "iron",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "plantana",
+	"PoS" : "verbo",
+	"Pron" : "po'dina",
+	"Spell" : "podena, pudina, puedena",
+	"Sound" : "podina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "plantar, sembrar",
+	"Quichua" : "tarpuna",
+	"Source" : "plant",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "podina",
+	"PoS" : "verbo",
+	"Pron" : "pod'ɾina",
+	"Spell" : "pudrina",
+	"Sound" : "podrina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "poder",
+	"Quichua" : "ushana, podina",
+	"Source" : "can",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "podrina",
+	"PoS" : "verbo",
+	"Pron" : "poŋ'gina",
+	"Spell" : "",
+	"Sound" : "ponguina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "podrir",
+	"Quichua" : "ismuna",
+	"Source" : "rot",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ponguina",
+	"PoS" : "verbo",
+	"Pron" : "po'nina",
+	"Spell" : "ponina, punena",
+	"Sound" : "ponina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "hinchar",
+	"Quichua" : "ponguina",
+	"Source" : "swell up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "ponina",
+	"PoS" : "verbo",
+	"Pron" : "pɾesen'tana",
+	"Spell" : "presentana",
+	"Sound" : "precentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "poner, vestir",
+	"Quichua" : "churrana",
+	"Source" : "put, put on, dress",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "precentana",
+	"PoS" : "verbo",
+	"Pron" : "pɾegun'tana",
+	"Spell" : "",
+	"Sound" : "preguntana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "presentar",
+	"Quichua" : "precentana, pasana, yalina",
+	"Source" : "perform, present",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "preguntana",
+	"PoS" : "verbo",
+	"Pron" : "pɾen'dena",
+	"Spell" : "prendina",
+	"Sound" : "prendena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "preguntar",
+	"Quichua" : "tapuna",
+	"Source" : "ask",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "prendena",
+	"PoS" : "verbo",
+	"Pron" : "pɾeoku'pana",
+	"Spell" : "",
+	"Sound" : "preocupana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "prender",
+	"Quichua" : "japichina",
+	"Source" : "light up, turn on",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "preocupana",
+	"PoS" : "verbo",
+	"Pron" : "pɾepa'ɾana",
+	"Spell" : "",
+	"Sound" : "preparana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "preocupar",
+	"Quichua" : "llaquina",
+	"Source" : "worry, worry about",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "preparana",
+	"PoS" : "verbo",
+	"Pron" : "pɾesen'tana",
+	"Spell" : "",
+	"Sound" : "presentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "preparar",
+	"Quichua" : "rurana",
+	"Source" : "prepare",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "presentana",
+	"PoS" : "verbo",
+	"Pron" : "pɾes'tana",
+	"Spell" : "",
+	"Sound" : "prestana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "presentar",
+	"Quichua" : "presentana",
+	"Source" : "present",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "prestana",
+	"PoS" : "verbo",
+	"Pron" : "pɾo'bana",
+	"Spell" : "provana",
+	"Sound" : "probana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "prestar",
+	"Quichua" : "mañachina",
+	"Source" : "lend",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "probana",
+	"PoS" : "verbo",
+	"Pron" : "pɾodu'sina",
+	"Spell" : "producena",
+	"Sound" : "producina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "probar",
+	"Quichua" : "malina",
+	"Source" : "try, test, taste",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "producina",
+	"PoS" : "verbo",
+	"Pron" : "pɾote'gena",
+	"Spell" : "protegina, protajina",
+	"Sound" : "protegena.mp3",
+	"Origin" : "es",
+	"Synonym" : "cuidana",
+	"Spanish" : "producir",
+	"Quichua" : "rurana",
+	"Source" : "produce",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "protegena",
+	"PoS" : "verbo",
+	"Pron" : "pu'xana",
+	"Spell" : "",
+	"Sound" : "pujana.mp3",
+	"Origin" : "es",
+	"Synonym" : "enojana, colerana, aborrina, resentina",
+	"Spanish" : "proteger",
+	"Quichua" : "cuidana, camana",
+	"Source" : "protect",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "pujana",
+	"PoS" : "verbo",
+	"Pron" : "ke'bɾana",
+	"Spell" : "",
+	"Sound" : "quebrana.mp3",
+	"Origin" : "k",
+	"Synonym" : "faquina",
+	"Spanish" : "enojar, enrojecer",
+	"Quichua" : "pujana, colerana",
+	"Source" : "anger, turn red",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "quebrana",
+	"PoS" : "verbo",
+	"Pron" : "ke'dana",
+	"Spell" : "kidana, quidana",
+	"Sound" : "quedana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "quebrar, fracturar",
+	"Quichua" : "faquina",
+	"Source" : "break",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "quedana",
+	"PoS" : "verbo",
+	"Pron" : "ke'xana",
+	"Spell" : "",
+	"Sound" : "quejana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "quedar",
+	"Quichua" : "saquina, quedana, pasana, caynana",
+	"Source" : "stay, remain, spend (time)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "quejana",
+	"PoS" : "verbo",
+	"Pron" : "ke'mana",
+	"Spell" : "quimana",
+	"Sound" : "quemana.mp3",
+	"Origin" : "es",
+	"Synonym" : "chamuscana",
+	"Spanish" : "quejar",
+	"Quichua" : "quejana, huacana, anchayana",
+	"Source" : "complain",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "quemana",
+	"PoS" : "verbo",
+	"Pron" : "ke'ɾena",
+	"Spell" : "kerina, querina, quierena, quierana, kerina, kirina, quirena, quirina",
+	"Sound" : "querena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "quemar",
+	"Quichua" : "rupana",
+	"Source" : "burn",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "querena",
+	"PoS" : "verbo",
+	"Pron" : "ki'ʧuna",
+	"Spell" : "kichuna, chichuna",
+	"Sound" : "quichuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "quitana, retirana",
+	"Spanish" : "querer, gustar",
+	"Quichua" : "munana",
+	"Source" : "want, like",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "quichuna",
+	"PoS" : "verbo",
+	"Pron" : "kimi'ɾina",
+	"Spell" : "",
+	"Sound" : "quimirina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "retirar, quitar",
+	"Quichua" : "quichuna",
+	"Source" : "remove",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "quimirina",
+	"PoS" : "verbo",
+	"Pron" : "ki'tana",
+	"Spell" : "",
+	"Sound" : "quitana.mp3",
+	"Origin" : "k",
+	"Synonym" : "anchurina, retirana, quitana",
+	"Spanish" : "acercarse, reclinarse, juntarse, apegarse",
+	"Quichua" : "quimirina",
+	"Source" : "move closer to, stick to",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "quitana",
+	"PoS" : "verbo",
+	"Pron" : "ʐas'pana",
+	"Spell" : "",
+	"Sound" : "raspana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "quitar, mover, retirar",
+	"Quichua" : "anchuchina",
+	"Source" : "remove, move",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "raspana",
+	"PoS" : "verbo",
+	"Pron" : "ʐa'suna",
+	"Spell" : "razuna",
+	"Sound" : "rasuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "raspar, rallar",
+	"Quichua" : "aspirana",
+	"Source" : "scratch, grate, scrape",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rasuna",
+	"PoS" : "verbo",
+	"Pron" : "'ʐaiona",
+	"Spell" : "",
+	"Sound" : "rayona.mp3",
+	"Origin" : "k",
+	"Synonym" : "relampagona",
+	"Spanish" : "nevar",
+	"Quichua" : "razuna",
+	"Source" : "snow",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "rayona",
+	"PoS" : "verbo",
+	"Pron" : "ʐeba'xana",
+	"Spell" : "",
+	"Sound" : "rebajana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "relampaguear",
+	"Quichua" : "rrelampana",
+	"Source" : "lightening",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "rebajana",
+	"PoS" : "verbo",
+	"Pron" : "ʐebol'kana",
+	"Spell" : "revolcana",
+	"Sound" : "rebolcana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "rebajar",
+	"Quichua" : "rebajana",
+	"Source" : "reduce",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rebolcana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeʧa'zana",
+	"Spell" : "",
+	"Sound" : "rechazana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "revolcar",
+	"Quichua" : "rebolcana",
+	"Source" : "roll around",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rechazana",
+	"PoS" : "verbo",
+	"Pron" : "ʐesi'bina",
+	"Spell" : "resibina, resivina, resebina, resevena, rresibina, rresivena, rresivina",
+	"Sound" : "recibina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "rechazar",
+	"Quichua" : "shitana",
+	"Source" : "reject",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "recibina",
+	"PoS" : "verbo",
+	"Pron" : "ʐekla'mana",
+	"Spell" : "",
+	"Sound" : "reclamana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "recibir",
+	"Quichua" : "chasquina",
+	"Source" : "meet, receive",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "reclamana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeko'gena",
+	"Spell" : "recogina, rrecojina, rrecogina, ricujina",
+	"Sound" : "recogena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "reclamar",
+	"Quichua" : "reclamana, tapuna",
+	"Source" : "claim, reclaim, take up on",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "recogena",
+	"PoS" : "verbo",
+	"Pron" : "ʐekoɾda'ʧina",
+	"Spell" : "",
+	"Sound" : "recordachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "recoger, agrupar",
+	"Quichua" : "tandachina, japina",
+	"Source" : "collect, pick",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "recordachina",
+	"PoS" : "verbo",
+	"Pron" : "ʐe'gana",
+	"Spell" : "rregana",
+	"Sound" : "regana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "despertarse",
+	"Quichua" : "ricchachina",
+	"Source" : "wake up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "regana",
+	"PoS" : "verbo",
+	"Pron" : "ʐegɾe'sana",
+	"Spell" : "",
+	"Sound" : "regresana.mp3",
+	"Origin" : "es",
+	"Synonym" : "volvimuna",
+	"Spanish" : "regar",
+	"Quichua" : "talina",
+	"Source" : "water",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "regresana",
+	"PoS" : "verbo",
+	"Pron" : "'ʐeina",
+	"Spell" : "rreina, riina, riena",
+	"Sound" : "reina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "regresar, volver",
+	"Quichua" : "tigramuna",
+	"Source" : "return, come back",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "reina",
+	"PoS" : "verbo",
+	"Pron" : "ʐelampa'gona",
+	"Spell" : "",
+	"Sound" : "relampagona.mp3",
+	"Origin" : "es",
+	"Synonym" : "rayona",
+	"Spanish" : "reír",
+	"Quichua" : "asina",
+	"Source" : "laugh",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "relampagona",
+	"PoS" : "verbo",
+	"Pron" : "ʐemen'dana",
+	"Spell" : "remindana, rimindana",
+	"Sound" : "remendana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "relampaguear",
+	"Quichua" : "rrelampana",
+	"Source" : "lightening",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "remendana",
+	"PoS" : "verbo",
+	"Pron" : "ʐemo'xana",
+	"Spell" : "rremojana",
+	"Sound" : "remojana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "remendar",
+	"Quichua" : "sirana, rimindana",
+	"Source" : "patch, mend, repair",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "remojana",
+	"PoS" : "verbo",
+	"Pron" : "ʐemo'lina",
+	"Spell" : "",
+	"Sound" : "remolina.mp3",
+	"Origin" : "es",
+	"Synonym" : "molina, cutana",
+	"Spanish" : "remojar",
+	"Quichua" : "mutiyana",
+	"Source" : "soak",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "remolina",
+	"PoS" : "verbo",
+	"Pron" : "ʐempu'xana",
+	"Spell" : "",
+	"Sound" : "rempujana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "moler, remoler",
+	"Quichua" : "cutana",
+	"Source" : "grind, mill",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "rempujana",
+	"PoS" : "verbo",
+	"Pron" : "ʐepaɾʃ'tina",
+	"Spell" : "reparstina",
+	"Sound" : "repartina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "empujar, rempujar",
+	"Quichua" : "tangana",
+	"Source" : "push",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "repartina",
+	"PoS" : "verbo",
+	"Pron" : "ʐepa'sana",
+	"Spell" : "rrepasana",
+	"Sound" : "repasana.mp3",
+	"Origin" : "es",
+	"Synonym" : "revisana, estudiana",
+	"Spanish" : "repartir",
+	"Quichua" : "chaupina, parrtina",
+	"Source" : "distribute, share, divide up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "repasana",
+	"PoS" : "verbo",
+	"Pron" : "ʐepi'tina",
+	"Spell" : "repetina",
+	"Sound" : "repitina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "repasar, revisar, estudiar",
+	"Quichua" : "yachana",
+	"Source" : "review, study",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "repitina",
+	"PoS" : "verbo",
+	"Pron" : "ʐepo'nina",
+	"Spell" : "reponena",
+	"Sound" : "reponina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "repetir",
+	"Quichua" : "cutinchina",
+	"Source" : "repeat",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "reponina",
+	"PoS" : "verbo",
+	"Pron" : "ʐe'sana",
+	"Spell" : "rezana, rresana",
+	"Sound" : "resana.mp3",
+	"Origin" : "es",
+	"Synonym" : "leyena",
+	"Spanish" : "reponer, recuperar",
+	"Quichua" : "cutin churana, reponina",
+	"Source" : "replace, refill, recuperate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "resana",
+	"PoS" : "verbo",
+	"Pron" : "ʐesba'lana",
+	"Spell" : "resvalana",
+	"Sound" : "resbalana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "rezar, leer",
+	"Quichua" : "risana, leyena",
+	"Source" : "pray, read",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "resbalana",
+	"PoS" : "verbo",
+	"Pron" : "ʐesem'bɾana",
+	"Spell" : "",
+	"Sound" : "resembrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "sembrana, plantana",
+	"Spanish" : "resbalar",
+	"Quichua" : "lluchijana",
+	"Source" : "slip",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "resembrana",
+	"PoS" : "verbo",
+	"Pron" : "ʐesen'tina",
+	"Spell" : "resentena",
+	"Sound" : "resentina.mp3",
+	"Origin" : "es",
+	"Synonym" : "colerana, enojana, pujana, aborrina",
+	"Spanish" : "resemblar, sembrar",
+	"Quichua" : "cutin tarpuna",
+	"Source" : "replant",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "resentina",
+	"PoS" : "verbo",
+	"Pron" : "ʐespi'ɾana",
+	"Spell" : "",
+	"Sound" : "respirana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "resentir",
+	"Quichua" : "nanayana, colerana",
+	"Source" : "suffer, anger, resent, bitter (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "respirana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeta'siana",
+	"Spell" : "rretasia",
+	"Sound" : "retasiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "dividina, parrtena",
+	"Spanish" : "respirar",
+	"Quichua" : "samana",
+	"Source" : "breath",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "retasiana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeti'ɾana",
+	"Spell" : "rretira",
+	"Sound" : "retirana.mp3",
+	"Origin" : "es",
+	"Synonym" : "quitana, quichuna, anchurina",
+	"Spanish" : "retacear, dividir (ej. terreno)",
+	"Quichua" : "shucchina, chaupina",
+	"Source" : "divide up (e.g. a plot of land)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "retirana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeto'ɲana",
+	"Spell" : "rretoña",
+	"Sound" : "retoñana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "retirar, quitar",
+	"Quichua" : "llucshina",
+	"Source" : "leave, withdraw",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "retoñana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeu'nina",
+	"Spell" : "reunena, rreunena, rreunina",
+	"Sound" : "reunina.mp3",
+	"Origin" : "es",
+	"Synonym" : "ajuntana, amigueriana, tandana",
+	"Spanish" : "reproducirse, crecer, echar vástagos, brotar",
+	"Quichua" : "viñana",
+	"Source" : "sprout, grow, reproduce (plants)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "reunina",
+	"PoS" : "verbo",
+	"Pron" : "ʐeβen'dena",
+	"Spell" : "revendina",
+	"Sound" : "revendena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "reunir",
+	"Quichua" : "tandana",
+	"Source" : "meet, meet up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "revendena",
+	"PoS" : "verbo",
+	"Pron" : "ʐeβen'tana",
+	"Spell" : "rrebenta, rebentana, rreventana",
+	"Sound" : "reventana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "revender",
+	"Quichua" : "cutin jatuna",
+	"Source" : "resell",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "reventana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeβi'sana",
+	"Spell" : "",
+	"Sound" : "revisana.mp3",
+	"Origin" : "es",
+	"Synonym" : "repasana, estudiana",
+	"Spanish" : "reventar",
+	"Quichua" : "toguiana",
+	"Source" : "burst, pop, explode",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "revisana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeβi'βina",
+	"Spell" : "rrevivina",
+	"Sound" : "revivina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "revisar",
+	"Quichua" : "ricuna",
+	"Source" : "review, check",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "revivina",
+	"PoS" : "verbo",
+	"Pron" : "ʐeza'ʧina",
+	"Spell" : "",
+	"Sound" : "rezachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "rogana",
+	"Spanish" : "revivir",
+	"Quichua" : "causarina",
+	"Source" : "relive",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "rezachina",
+	"PoS" : "verbo",
+	"Pron" : "ʐik'ʧana",
+	"Spell" : "ricchana, richana, recchachina",
+	"Sound" : "ricchana.mp3",
+	"Origin" : "es",
+	"Synonym" : "despertana, levantana",
+	"Spanish" : "rezar",
+	"Quichua" : "rezachina",
+	"Source" : "pray",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "ricchana",
+	"PoS" : "verbo",
+	"Pron" : "ʐo'bana",
+	"Spell" : "rrobana",
+	"Sound" : "robana.mp3",
+	"Origin" : "k",
+	"Synonym" : "estafana",
+	"Spanish" : "despertarse, despertar",
+	"Quichua" : "ricchana, richachina",
+	"Source" : "wake up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "robana",
+	"PoS" : "verbo",
+	"Pron" : "ʐo'dana",
+	"Spell" : "rrodana",
+	"Sound" : "rodana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "robar",
+	"Quichua" : "shuhuana",
+	"Source" : "rob, steal",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rodana",
+	"PoS" : "verbo",
+	"Pron" : "ʐo'diana",
+	"Spell" : "rodiariana",
+	"Sound" : "rodiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "rodar",
+	"Quichua" : "rebolcana",
+	"Source" : "roll",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rodiana",
+	"PoS" : "verbo",
+	"Pron" : "ʐodi'ʒana",
+	"Spell" : "rrodillana",
+	"Sound" : "rodillana.mp3",
+	"Origin" : "es",
+	"Synonym" : "cungana, incana",
+	"Spanish" : "rodear, revolverse, cuidar, circular, girar",
+	"Quichua" : "muyuna",
+	"Source" : "circle, go around, take care of, turn around",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rodillana",
+	"PoS" : "verbo",
+	"Pron" : "ʐo'gana",
+	"Spell" : "rrogana, rugana",
+	"Sound" : "rogana.mp3",
+	"Origin" : "es",
+	"Synonym" : "rezachina",
+	"Spanish" : "arrodillarse",
+	"Quichua" : "cungurina",
+	"Source" : "kneel",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rogana",
+	"PoS" : "verbo",
+	"Pron" : "ʐom'pina",
+	"Spell" : "ronpina",
+	"Sound" : "rompina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "rogar",
+	"Quichua" : "rogana",
+	"Source" : "beg, pray",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rompina",
+	"PoS" : "verbo",
+	"Pron" : "ʐon'dina",
+	"Spell" : "rondena, rrondina",
+	"Sound" : "rondina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "romper, quebrar",
+	"Quichua" : "liquina",
+	"Source" : "break",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "rondina",
+	"PoS" : "verbo",
+	"Pron" : "ʐa'xana",
+	"Spell" : "rrajana",
+	"Sound" : "rrajana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tocar el rondín/ harmónica",
+	"Quichua" : "rondina",
+	"Source" : "play the harmonica",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "rajana",
+	"PoS" : "verbo",
+	"Pron" : "ʐega'lana",
+	"Spell" : "rregalana",
+	"Sound" : "rregalana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "rajar, partir",
+	"Quichua" : "chictana, partina",
+	"Source" : "chop, slice, split",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "regalana",
+	"PoS" : "verbo",
+	"Pron" : "ʐeabili'tana",
+	"Spell" : "rrehabilitana",
+	"Sound" : "rrehabilitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "sanana, jambina, curana",
+	"Spanish" : "regalar",
+	"Quichua" : "carana",
+	"Source" : "give (a present), gift",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "rehabilitana",
+	"PoS" : "verbo",
+	"Pron" : "ʐespon'dina",
+	"Spell" : "rrespondena, respondina",
+	"Sound" : "rrespondina.mp3",
+	"Origin" : "es",
+	"Synonym" : "contestana",
+	"Spanish" : "rehabilitar, curar, mejorar",
+	"Quichua" : "jambina",
+	"Source" : "rehabilitate, cure",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "respondina",
+	"PoS" : "verbo",
+	"Pron" : "sa'bina",
+	"Spell" : "savena, sabina, sabena, savina",
+	"Sound" : "sabina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "responder, contestar",
+	"Quichua" : "respondina",
+	"Source" : "answer, respond",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "sabina",
+	"PoS" : "verbo",
+	"Pron" : "sa'kana",
+	"Spell" : "shacana",
+	"Sound" : "sacana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "saber",
+	"Quichua" : "yachana",
+	"Source" : "know",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sacana",
+	"PoS" : "verbo",
+	"Pron" : "saku'dina",
+	"Spell" : "",
+	"Sound" : "sacudina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sacar",
+	"Quichua" : "surcuna, llucchina",
+	"Source" : "take out, remove",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "sacudina",
+	"PoS" : "verbo",
+	"Pron" : "sa'fana",
+	"Spell" : "",
+	"Sound" : "safana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sacudir",
+	"Quichua" : "chaspina, chafisirina",
+	"Source" : "shake",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "safana",
+	"PoS" : "verbo",
+	"Pron" : "sal'bana",
+	"Spell" : "salvana",
+	"Sound" : "salbana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "zafar, soltar",
+	"Quichua" : "pascana",
+	"Source" : "untie, loosen",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "salbana",
+	"PoS" : "verbo",
+	"Pron" : "sa'lina",
+	"Spell" : "salena",
+	"Sound" : "salina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "salvar",
+	"Quichua" : "salbana",
+	"Source" : "save",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "salina",
+	"PoS" : "verbo",
+	"Pron" : "sal'tana",
+	"Spell" : "",
+	"Sound" : "saltana.mp3",
+	"Origin" : "es",
+	"Synonym" : "brincana",
+	"Spanish" : "salir",
+	"Quichua" : "llucshina",
+	"Source" : "leave",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "saltana",
+	"PoS" : "verbo",
+	"Pron" : "salu'dana",
+	"Spell" : "",
+	"Sound" : "saludana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "saltar, brincar",
+	"Quichua" : "fahuana",
+	"Source" : "jump, leap",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "saludana",
+	"PoS" : "verbo",
+	"Pron" : "sa'mana",
+	"Spell" : "",
+	"Sound" : "samana.mp3",
+	"Origin" : "es",
+	"Synonym" : "descansana",
+	"Spanish" : "saludar",
+	"Quichua" : "saludana",
+	"Source" : "greet",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "samana",
+	"PoS" : "verbo",
+	"Pron" : "sa'nana",
+	"Spell" : "",
+	"Sound" : "sanana.mp3",
+	"Origin" : "k",
+	"Synonym" : "jambina, rehabilitana, curana",
+	"Spanish" : "descansar",
+	"Quichua" : "samana",
+	"Source" : "rest",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "sanana",
+	"PoS" : "verbo",
+	"Pron" : "saɾafaŋ'gana",
+	"Spell" : "",
+	"Sound" : "sarafangana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sanar, curar",
+	"Quichua" : "jambina, alitucuna",
+	"Source" : "heal, recuperate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sarafangana",
+	"PoS" : "verbo",
+	"Pron" : "se'kana",
+	"Spell" : "",
+	"Sound" : "secana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "deshojar maíz",
+	"Quichua" : "sarafangana",
+	"Source" : "shuck corn",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "secana",
+	"PoS" : "verbo",
+	"Pron" : "segu'ɾana",
+	"Spell" : "",
+	"Sound" : "segurana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "secar",
+	"Quichua" : "chaquina",
+	"Source" : "dry",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "segurana",
+	"PoS" : "verbo",
+	"Pron" : "sem'bɾana",
+	"Spell" : "cembrana",
+	"Sound" : "sembra.mp3",
+	"Origin" : "es",
+	"Synonym" : "plantana, resembrana",
+	"Spanish" : "asegurar",
+	"Quichua" : "alipachana",
+	"Source" : "secure",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sembrana",
+	"PoS" : "verbo",
+	"Pron" : "sen'tana",
+	"Spell" : "centana",
+	"Sound" : "sentana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sembrar",
+	"Quichua" : "tarpuna",
+	"Source" : "plant, sow, seed, stock (e.g. fishing hatchery)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sentana",
+	"PoS" : "verbo",
+	"Pron" : "sen'tina",
+	"Spell" : "sintina",
+	"Sound" : "sentina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sentarse",
+	"Quichua" : "tiarina",
+	"Source" : "sit",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "sentina",
+	"PoS" : "verbo",
+	"Pron" : "sepa'ɾana",
+	"Spell" : "",
+	"Sound" : "separana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sentir",
+	"Quichua" : "sentina",
+	"Source" : "feel",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "separana",
+	"PoS" : "verbo",
+	"Pron" : "ʃa'jana",
+	"Spell" : "",
+	"Sound" : "shayana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "separar",
+	"Quichua" : "separana, na tandarina",
+	"Source" : "separate",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "shayana",
+	"PoS" : "verbo",
+	"Pron" : "ʃu'ʒuna",
+	"Spell" : "",
+	"Sound" : "shulluna.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "ubicado (estar), parado (estar)",
+	"Quichua" : "shayana",
+	"Source" : "located (be), be at, wait",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "shulluna",
+	"PoS" : "verbo",
+	"Pron" : "signifi'kana",
+	"Spell" : "",
+	"Sound" : "significana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "abortar",
+	"Quichua" : "shulluna",
+	"Source" : "miscarriage, abort",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "significana",
+	"PoS" : "verbo",
+	"Pron" : "si'gina",
+	"Spell" : "sigina, siguena",
+	"Sound" : "siguina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "significar",
+	"Quichua" : "significana, billana",
+	"Source" : "mean, signify, represent",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "siguina",
+	"PoS" : "verbo",
+	"Pron" : "sil'bana",
+	"Spell" : "",
+	"Sound" : "silbana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "seguir",
+	"Quichua" : "catina",
+	"Source" : "follow, continue, chase",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "silbana",
+	"PoS" : "verbo",
+	"Pron" : "si'ɾana",
+	"Spell" : "",
+	"Sound" : "sirana.mp3",
+	"Origin" : "es",
+	"Synonym" : "cotsena",
+	"Spanish" : "silbar",
+	"Quichua" : "cayachina",
+	"Source" : "whistle",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sirana",
+	"PoS" : "verbo",
+	"Pron" : "siɾ'βina",
+	"Spell" : "sirve",
+	"Sound" : "sirvina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "coser",
+	"Quichua" : "sirana",
+	"Source" : "sew",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sirvina",
+	"PoS" : "verbo",
+	"Pron" : "so'bɾana",
+	"Spell" : "",
+	"Sound" : "sobrana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "servir",
+	"Quichua" : "sirvina, valina",
+	"Source" : "work, good (be), value (be of/ have)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sobrana",
+	"PoS" : "verbo",
+	"Pron" : "sol'dana",
+	"Spell" : "",
+	"Sound" : "soldana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sobrar, ahorrar",
+	"Quichua" : "puchuna",
+	"Source" : "extra (be), surplus (be in)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "soldana",
+	"PoS" : "verbo",
+	"Pron" : "solisi'tana",
+	"Spell" : "",
+	"Sound" : "solicitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "pidina",
+	"Spanish" : "soldar",
+	"Quichua" : "soldana",
+	"Source" : "weld, solder",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "solicitana",
+	"PoS" : "verbo",
+	"Pron" : "sol'tana",
+	"Spell" : "sueltana",
+	"Sound" : "soltana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "solicitar, pedir",
+	"Quichua" : "mañana",
+	"Source" : "request, apply, ask for",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "soltana",
+	"PoS" : "verbo",
+	"Pron" : "solusio'nana",
+	"Spell" : "",
+	"Sound" : "solucionana.mp3",
+	"Origin" : "es",
+	"Synonym" : "arreglana",
+	"Spanish" : "soltar, zafar",
+	"Quichua" : "cacharina",
+	"Source" : "let go, release, drop",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "solucionana",
+	"PoS" : "verbo",
+	"Pron" : "so'nana",
+	"Spell" : "",
+	"Sound" : "sonana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "solucionar, arreglar",
+	"Quichua" : "acomodana, alichina, arreglana",
+	"Source" : "solve, arrange, fix up, tidy up",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sonana",
+	"PoS" : "verbo",
+	"Pron" : "so'ɲana",
+	"Spell" : "",
+	"Sound" : "soñana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sonar, timbrar",
+	"Quichua" : "huacana, uyarina",
+	"Source" : 	"Sound",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "soñana",
+	"PoS" : "verbo",
+	"Pron" : "soste'nena",
+	"Spell" : "",
+	"Sound" : "sostenena.mp3",
+	"Origin" : "es",
+	"Synonym" : "apoyana",
+	"Spanish" : "soñar",
+	"Quichua" : "muscuna",
+	"Source" : "dream",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "sostenena",
+	"PoS" : "verbo",
+	"Pron" : "suaβija'ʧina",
+	"Spell" : "",
+	"Sound" : "suaviyachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "blandana",
+	"Spanish" : "sostener, apoyar",
+	"Quichua" : "charina, ayudana",
+	"Source" : "support, help out",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "suaviyachina",
+	"PoS" : "verbo",
+	"Pron" : "su'bina",
+	"Spell" : "subena",
+	"Sound" : "subina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "suavizar, ablandar",
+	"Quichua" : "amucyachina, yacuyachina",
+	"Source" : "soften, soft (make)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "subina",
+	"PoS" : "verbo",
+	"Pron" : "suse'dena",
+	"Spell" : "sucedina",
+	"Sound" : "sucedena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "subir, escalar",
+	"Quichua" : "bishicana",
+	"Source" : "climb, go up, hike up",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "sucedena",
+	"PoS" : "verbo",
+	"Pron" : "su'dana",
+	"Spell" : "",
+	"Sound" : "sudana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "suceder",
+	"Quichua" : "sucedina",
+	"Source" : "happen, occur, take place",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "sudana",
+	"PoS" : "verbo",
+	"Pron" : "suf'ɾina",
+	"Spell" : "sufrena, sofrina",
+	"Sound" : "sufrina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sudar",
+	"Quichua" : "sudana",
+	"Source" : "sweat",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "sufrina",
+	"PoS" : "verbo",
+	"Pron" : "su'plana",
+	"Spell" : "soplana",
+	"Sound" : "suplana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "sufrir",
+	"Quichua" : "sofrina, llaquina",
+	"Source" : "suffer",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "suplana",
+	"PoS" : "verbo",
+	"Pron" : "suspen'dena",
+	"Spell" : "",
+	"Sound" : "suspendena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "soplar",
+	"Quichua" : "fucuna",
+	"Source" : "blow (e.g. exhale)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "suspendena",
+	"PoS" : "verbo",
+	"Pron" : "taba'xana",
+	"Spell" : "",
+	"Sound" : "tabajana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "suspender",
+	"Quichua" : "suspendina",
+	"Source" : "suspend",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tabajana",
+	"PoS" : "verbo",
+	"Pron" : "tawa'ɾina",
+	"Spell" : "",
+	"Sound" : "tahuarina.mp3",
+	"Origin" : "es",
+	"Synonym" : "golpiana, pegana",
+	"Spanish" : "trabajar",
+	"Quichua" : "llancana",
+	"Source" : "work, labor",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tahuarina",
+	"PoS" : "verbo",
+	"Pron" : "tan'dana",
+	"Spell" : "",
+	"Sound" : "tandana.mp3",
+	"Origin" : "k",
+	"Synonym" : "reunina",
+	"Spanish" : "golpear contra",
+	"Quichua" : "tahuarina",
+	"Source" : "hit against, smack against",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tandana",
+	"PoS" : "verbo",
+	"Pron" : "ta'pana",
+	"Spell" : "",
+	"Sound" : "tapana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "reunir",
+	"Quichua" : "tandana",
+	"Source" : "meet",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tapana",
+	"PoS" : "verbo",
+	"Pron" : "tapia'lana",
+	"Spell" : "",
+	"Sound" : "tapialana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tapar",
+	"Quichua" : "tapana",
+	"Source" : "cover",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tapialana",
+	"PoS" : "verbo",
+	"Pron" : "taɾ'diana",
+	"Spell" : "tarrdiana",
+	"Sound" : "tardiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "chishiana",
+	"Spanish" : "tapial (hacer, construir)",
+	"Quichua" : "tafialana",
+	"Source" : "rammed earth wall (make, construct), dirt wall (make, construct)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tardiana",
+	"PoS" : "verbo",
+	"Pron" : "tas'kana",
+	"Spell" : "tsaknana",
+	"Sound" : "tascana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacer tarde, pasar el día, tardarse",
+	"Quichua" : "chishiana, falta yaycuna",
+	"Source" : "become late in the day, spend the day, be late",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tascana",
+	"PoS" : "verbo",
+	"Pron" : "tau'nana",
+	"Spell" : "",
+	"Sound" : "taunana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tascar, masticar",
+	"Quichua" : "cashtuna",
+	"Source" : "chew, crunch, munch",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "taunana",
+	"PoS" : "verbo",
+	"Pron" : "te'xina",
+	"Spell" : "tejena, tijina",
+	"Sound" : "tejina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "arrimar",
+	"Quichua" : "taunana",
+	"Source" : "lean against",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tejina",
+	"PoS" : "verbo",
+	"Pron" : "tem'blana",
+	"Spell" : "",
+	"Sound" : "temblana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tejer",
+	"Quichua" : "ahuana",
+	"Source" : "knit, weave",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "temblana",
+	"PoS" : "verbo",
+	"Pron" : "ten'dina",
+	"Spell" : "tendena",
+	"Sound" : "tendina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "temblar",
+	"Quichua" : "chujchujuna",
+	"Source" : "shake, tremble",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tendina",
+	"PoS" : "verbo",
+	"Pron" : "te'nena",
+	"Spell" : "tenina, tenyna, tienena, tinena",
+	"Sound" : "tenena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tender",
+	"Quichua" : "mantana",
+	"Source" : "tend to, hang, layout",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "tenena",
+	"PoS" : "verbo",
+	"Pron" : "tenfla'ʧina",
+	"Spell" : "",
+	"Sound" : "tenflachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tener",
+	"Quichua" : "charina",
+	"Source" : "have",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tenflachina",
+	"PoS" : "verbo",
+	"Pron" : "tiŋ'gana",
+	"Spell" : "",
+	"Sound" : "tingana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "estirar, templar",
+	"Quichua" : "templarina",
+	"Source" : "stretch, stretch out",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tingana",
+	"PoS" : "verbo",
+	"Pron" : "tiŋ'gina",
+	"Spell" : "",
+	"Sound" : "tinguina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "tingar (con los dedos), jugar (apuntando, tirando o lanzando a algo)",
+	"Quichua" : "tingana (maqui diduhuan), pucllana (pucllayca shitashpa)",
+	"Source" : "flick (with fingers), play (a game involving aiming, throwing, or firing at something)",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "tinguina",
+	"PoS" : "verbo",
+	"Pron" : "tintu'ɾana",
+	"Spell" : "",
+	"Sound" : "tinturana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "unir secciones de ropa",
+	"Quichua" : "tinguina",
+	"Source" : "put together sections of a clothing item",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tinturana",
+	"PoS" : "verbo",
+	"Pron" : "ti'ɾana",
+	"Spell" : "",
+	"Sound" : "tirana.mp3",
+	"Origin" : "es",
+	"Synonym" : "botana (echana), tirana",
+	"Spanish" : "tinturar, teñir, pintar",
+	"Quichua" : "tinturana",
+	"Source" : "stain, dye, paint",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tirana",
+	"PoS" : "verbo",
+	"Pron" : "ti'sana",
+	"Spell" : "",
+	"Sound" : "tisana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tirar",
+	"Quichua" : "shitana",
+	"Source" : "throw",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tisana",
+	"PoS" : "verbo",
+	"Pron" : "to'kana",
+	"Spell" : "tokana, tucana, tukana, tocona, tokuna",
+	"Sound" : "tocana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "escarmenar, cardar, carmenar",
+	"Quichua" : "muruna",
+	"Source" : "brush, tease (e.g. wool)",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "tocana (instrumento)",
+	"PoS" : "verbo",
+	"Pron" : "to'kana",
+	"Spell" : "tokana, tucana, tukana",
+	"Sound" : "tocana.mp3",
+	"Origin" : "es",
+	"Synonym" : "tucuna",
+	"Spanish" : "tocar (instrumento)",
+	"Quichua" : "tocana (instrumento)",
+	"Source" : "play (instrument)",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tocana (obligatorio)",
+	"PoS" : "verbo",
+	"Pron" : "to'mana",
+	"Spell" : "tamana",
+	"Sound" : "tomana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "toca + verbo",
+	"Quichua" : "cana (minishtina)",
+	"Source" : "have to, need to, must",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tomana",
+	"PoS" : "verbo",
+	"Pron" : "to'nona",
+	"Spell" : "tununa",
+	"Sound" : "tonona.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tomar, beber",
+	"Quichua" : "ufiana",
+	"Source" : "drink",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tonona",
+	"PoS" : "verbo",
+	"Pron" : "toɾ'sina",
+	"Spell" : "torse",
+	"Sound" : "torsina.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "hacer las cosas despacio",
+	"Quichua" : "shina tunurina",
+	"Source" : "do things slowly",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "torsina",
+	"PoS" : "verbo",
+	"Pron" : "to'sena",
+	"Spell" : "",
+	"Sound" : "tosena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "torcer, retorcer (lana)",
+	"Quichua" : "caupuna",
+	"Source" : "twist (wool/foot)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tosena",
+	"PoS" : "verbo",
+	"Pron" : "tos'tana",
+	"Spell" : "tosa",
+	"Sound" : "tostana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "toser",
+	"Quichua" : "ujuna",
+	"Source" : "cough",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tostana",
+	"PoS" : "verbo",
+	"Pron" : "tɾaba'xana",
+	"Spell" : "trabaxana",
+	"Sound" : "trabajana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tostar",
+	"Quichua" : "camchana",
+	"Source" : "toast",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "trabajana",
+	"PoS" : "verbo",
+	"Pron" : "tɾa'bana",
+	"Spell" : "",
+	"Sound" : "trabana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "trabajar",
+	"Quichua" : "trabajana, llancana",
+	"Source" : "work",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "trabana",
+	"PoS" : "verbo",
+	"Pron" : "tɾaktoɾa'ʧina",
+	"Spell" : "",
+	"Sound" : "tractorachina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "trabar",
+	"Quichua" : "trabana",
+	"Source" : "become jammed",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tractorachina",
+	"PoS" : "verbo",
+	"Pron" : "tɾadu'sina",
+	"Spell" : "",
+	"Sound" : "tradusina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "meter el tractor, usar el tractor",
+	"Quichua" : "tractorta churana",
+	"Source" : "tractor (put to use)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tradusina",
+	"PoS" : "verbo",
+	"Pron" : "tɾae'muna",
+	"Spell" : "traemona",
+	"Sound" : "traemuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "traducir",
+	"Quichua" : "tradusina",
+	"Source" : "translate",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "traemuna",
+	"PoS" : "verbo",
+	"Pron" : "'tɾaena",
+	"Spell" : "traina, taina, traeina, traeyana, traiena, trayna, treina, trena",
+	"Sound" : "traena.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "traer",
+	"Quichua" : "apamuna",
+	"Source" : "bring from",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "traena",
+	"PoS" : "verbo",
+	"Pron" : "tɾa'gana",
+	"Spell" : "",
+	"Sound" : "tragana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "traer",
+	"Quichua" : "apamuna",
+	"Source" : "go get, bring",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tragana",
+	"PoS" : "verbo",
+	"Pron" : "tɾami'tana",
+	"Spell" : "",
+	"Sound" : "tramitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tragar",
+	"Quichua" : "langana",
+	"Source" : "swallow",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tramitana",
+	"PoS" : "verbo",
+	"Pron" : "tɾasplan'tana",
+	"Spell" : "",
+	"Sound" : "trasplantana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tramitar",
+	"Quichua" : "tramitana",
+	"Source" : "process (a transaction)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "trasplantana",
+	"PoS" : "verbo",
+	"Pron" : "tɾaski'lana",
+	"Spell" : "tresquilana, treskilana",
+	"Sound" : "trasquilana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "trasplantar",
+	"Quichua" : "transplantana",
+	"Source" : "transplant",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "trasquilana",
+	"PoS" : "verbo",
+	"Pron" : "tɾasto'nana",
+	"Spell" : "trastonana, trastunana",
+	"Sound" : "trastonana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "trasquilar",
+	"Quichua" : "rutana",
+	"Source" : "shear (e.g. wool)",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "trastonana",
+	"PoS" : "verbo",
+	"Pron" : "tɾa'tana",
+	"Spell" : "",
+	"Sound" : "tratana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "quitar, vaciar, trasladar",
+	"Quichua" : "lugariachina",
+	"Source" : "empty, remove",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "tratana (combersana)",
+	"PoS" : "verbo",
+	"Pron" : "tɾata'ɾina",
+	"Spell" : "",
+	"Sound" : "tratarina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "conversar, chalar, dialogar",
+	"Quichua" : "parlarina",
+	"Source" : "converse, chat, discuss",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tratarina",
+	"PoS" : "verbo",
+	"Pron" : "tɾen'sana",
+	"Spell" : "",
+	"Sound" : "trensana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tratar",
+	"Quichua" : "rurana",
+	"Source" : "treat",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "trensana",
+	"PoS" : "verbo",
+	"Pron" : "tɾi'ʒana",
+	"Spell" : "",
+	"Sound" : "trillana.mp3",
+	"Origin" : "es",
+	"Synonym" : "aisana",
+	"Spanish" : "trenzar",
+	"Quichua" : "shimbana",
+	"Source" : "braid, weave",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "trillana",
+	"PoS" : "verbo",
+	"Pron" : "tɾompe'sana",
+	"Spell" : "tronpesana",
+	"Sound" : "trompesana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "trillar",
+	"Quichua" : "aisana",
+	"Source" : "thresh",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "trompesana",
+	"PoS" : "verbo",
+	"Pron" : "tɾo'nana",
+	"Spell" : "",
+	"Sound" : "tronana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tropezar",
+	"Quichua" : "nityjana",
+	"Source" : "trip, stumble",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "tronana",
+	"PoS" : "verbo",
+	"Pron" : "tu'kuna",
+	"Spell" : "tocona, tokuna",
+	"Sound" : "tucuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "tocana (obligatorio)",
+	"Spanish" : "tronar",
+	"Quichua" : "culunquina",
+	"Source" : "thunder",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tucuna",
+	"PoS" : "verbo",
+	"Pron" : "tum'bana",
+	"Spell" : "",
+	"Sound" : "tumbana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "toca + verbo",
+	"Quichua" : "cana (minishtina)",
+	"Source" : "have to, need to, must",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tumbana",
+	"PoS" : "verbo",
+	"Pron" : "tuno'ʧina",
+	"Spell" : "tunochina",
+	"Sound" : "tunochina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "tumbar",
+	"Quichua" : "urmana",
+	"Source" : "knock down, take down",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "tunochina",
+	"PoS" : "verbo",
+	"Pron" : "u'sana",
+	"Spell" : "",
+	"Sound" : "usana.mp3",
+	"Origin" : "k",
+	"Synonym" : "utilisana",
+	"Spanish" : "alguien que habla mucho y nadie le hace caso",
+	"Quichua" : "tunochina",
+	"Source" : "person who talks a lot but no one listens to",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "usana",
+	"PoS" : "verbo",
+	"Pron" : "utili'sana",
+	"Spell" : "utilizana",
+	"Sound" : "utilisa.mp3",
+	"Origin" : "es",
+	"Synonym" : "usana",
+	"Spanish" : "usar, utilizar",
+	"Quichua" : "minishtina",
+	"Source" : "use, put, utilize",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "utilisana",
+	"PoS" : "verbo",
+	"Pron" : "ba'siana",
+	"Spell" : "",
+	"Sound" : "vaciana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "utilizar, usar",
+	"Quichua" : "minishtina, churana",
+	"Source" : "utilize, use",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "vaciana",
+	"PoS" : "verbo",
+	"Pron" : "baku'nana",
+	"Spell" : "",
+	"Sound" : "vacunana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "vaciar, desocupar",
+	"Quichua" : "lugariachina",
+	"Source" : "empty, drain",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "vacunana",
+	"PoS" : "verbo",
+	"Pron" : "ba'lina",
+	"Spell" : "balina, balena, valena",
+	"Sound" : "valina.mp3",
+	"Origin" : "es",
+	"Synonym" : "costana",
+	"Spanish" : "vacunar",
+	"Quichua" : "vacunana",
+	"Source" : "vaccinate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "valina (preciopa)",
+	"PoS" : "verbo",
+	"Pron" : "ba'lina",
+	"Spell" : "balina, balena, valena",
+	"Sound" : "valina.mp3",
+	"Origin" : "es",
+	"Synonym" : "servina",
+	"Spanish" : "costar, valer",
+	"Quichua" : "valina",
+	"Source" : "cost, waste",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "valina (servina)",
+	"PoS" : "verbo",
+	"Pron" : "balo'ɾana",
+	"Spell" : "",
+	"Sound" : "valorana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "valer, servir",
+	"Quichua" : "valina",
+	"Source" : "work, useful for (be), good for (be)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "valorana",
+	"PoS" : "verbo",
+	"Pron" : "ba'luana",
+	"Spell" : "valorana",
+	"Sound" : "valuana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "valorar",
+	"Quichua" : "valorana",
+	"Source" : "value",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "valuana",
+	"PoS" : "verbo",
+	"Pron" : "'bena",
+	"Spell" : "vina, bina",
+	"Sound" : "vena.mp3",
+	"Origin" : "es",
+	"Synonym" : "chapana",
+	"Spanish" : "evaluar",
+	"Quichua" : "ricuna",
+	"Source" : "evaluate, assess, review",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "vena",
+	"PoS" : "verbo",
+	"Pron" : "beɾ'diana",
+	"Spell" : "",
+	"Sound" : "verdiana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ver",
+	"Quichua" : "ricuna",
+	"Source" : "see",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "verdiana",
+	"PoS" : "verbo",
+	"Pron" : "be'ɾiana",
+	"Spell" : "",
+	"Sound" : "veriana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "hacerse verde (apenas que)",
+	"Quichua" : "virdiana",
+	"Source" : "turn green (as soon as something)",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "veriana",
+	"PoS" : "verbo",
+	"Pron" : "bes'tina",
+	"Spell" : "",
+	"Sound" : "vestina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "ver uno al otro",
+	"Quichua" : "ricuriana",
+	"Source" : "look at each other",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "vestina",
+	"PoS" : "verbo",
+	"Pron" : "be'βina",
+	"Spell" : "bebina, vevena, vivina",
+	"Sound" : "vevina.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "vestir",
+	"Quichua" : "ponena, churana",
+	"Source" : "dress, get dressed",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "vevina",
+	"PoS" : "verbo",
+	"Pron" : "bia'xana",
+	"Spell" : "",
+	"Sound" : "viajana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "vivir",
+	"Quichua" : "causana",
+	"Source" : "live",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "viajana",
+	"PoS" : "verbo",
+	"Pron" : "bi'ʧina",
+	"Spell" : "",
+	"Sound" : "vichina.mp3",
+	"Origin" : "es",
+	"Synonym" : "amotrana, motrana",
+	"Spanish" : "viajar",
+	"Quichua" : "caruman rina, carumanta shamuna, viajana, purina",
+	"Source" : "travel",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "vichina",
+	"PoS" : "verbo",
+	"Pron" : "biexo'jana",
+	"Spell" : "",
+	"Sound" : "viejoyana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "mostrar, hacer ver, indicar",
+	"Quichua" : "ricuchina",
+	"Source" : "show, indicate",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "viejoyana",
+	"PoS" : "verbo",
+	"Pron" : "bigi'lana",
+	"Spell" : "",
+	"Sound" : "vigilana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "envejecer",
+	"Quichua" : "envejecer",
+	"Source" : "grow old, age",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "vigilana",
+	"PoS" : "verbo",
+	"Pron" : "bisi'tana",
+	"Spell" : "",
+	"Sound" : "visitana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "vigilar",
+	"Quichua" : "chapana, ricuna",
+	"Source" : "watch",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "visitana",
+	"PoS" : "verbo",
+	"Pron" : "bo'lana",
+	"Spell" : "",
+	"Sound" : "volana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "visitar",
+	"Quichua" : "visitana, ricuna",
+	"Source" : "visit",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "volana",
+	"PoS" : "verbo",
+	"Pron" : "bol'muna",
+	"Spell" : "",
+	"Sound" : "volmuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "volar",
+	"Quichua" : "vulana",
+	"Source" : "fly",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "volmuna",
+	"PoS" : "verbo",
+	"Pron" : "bolβi'muna",
+	"Spell" : "bolvemuna, bolbimuna, bolbemuna, volbimuna, volvemuna, volbemuna, bolvimuna",
+	"Sound" : "volvimuna.mp3",
+	"Origin" : "es",
+	"Synonym" : "regresana",
+	"Spanish" : "volver, regresar",
+	"Quichua" : "tigramuna",
+	"Source" : "return, come back",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "volvimuna",
+	"PoS" : "verbo",
+	"Pron" : "ja'wana",
+	"Spell" : "",
+	"Sound" : "yahuana.mp3",
+	"Origin" : "es",
+	"Synonym" : "",
+	"Spanish" : "volver, regresar",
+	"Quichua" : "tigramuna",
+	"Source" : "return, come back",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "yahuana",
+	"PoS" : "verbo",
+	"Pron" : "'jana",
+	"Spell" : "",
+	"Sound" : "yana.mp3",
+	"Origin" : "k",
+	"Synonym" : "pensana",
+	"Spanish" : "enjaguar, enjuagar",
+	"Quichua" : "yahuana",
+	"Source" : "rinse with water",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "yana",
+	"PoS" : "verbo",
+	"Pron" : "ja'nuna",
+	"Spell" : "",
+	"Sound" : "yanuna.mp3",
+	"Origin" : "k",
+	"Synonym" : "coznana",
+	"Spanish" : "pensar",
+	"Quichua" : "yuyana, yana",
+	"Source" : "think",
+	"Sample" : "Elicitations"
+	},
+
+	{
+	"MediaLengua" : "yanuna",
+	"PoS" : "verbo",
+	"Pron" : "ja'pana",
+	"Spell" : "",
+	"Sound" : "yapana.mp3",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "cocinar",
+	"Quichua" : "yanuna",
+	"Source" : "cook",
+	"Sample" : "Conversations"
+	},
+
+	{
+	"MediaLengua" : "yapana",
+	"PoS" : "verbo",
+	"Pron" : "ju'jana",
+	"Spell" : "",
+	"Sound" : "yuyana.mp3",
+	"Origin" : "k",
+	"Synonym" : "pensana",
+	"Spanish" : "poner una porción adicional, poner y dar yapa",
+	"Quichua" : "yapachina",
+	"Source" : "give an extra portion of something",
+	"Sample" : "Stories and Traditions from Pijal"
+	},
+
+	{
+	"MediaLengua" : "yuyana",
+	"PoS" : "",
+	"Pron" : "",
+	"Spell" : "",
+	"Sound" : "",
+	"Origin" : "k",
+	"Synonym" : "",
+	"Spanish" : "pensar",
+	"Quichua" : "yuyaina",
+	"Source" : "think",
+	"Sample" : "Conversations"
+	}
+]
